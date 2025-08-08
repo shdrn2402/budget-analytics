@@ -1,0 +1,2007 @@
+id,purchase_name,purchase_subcategory,price,financing_source,purchase_date,buyers_name,purchase_category
+2068,kindergarten,Daycare,1050,Card,2025-05-25 11:14:00+03,Ekaterina,Kids
+2067,Health insurance,Health and Beauty,235.51,Card,2025-05-21 11:12:00+03,Ekaterina,Personal
+2066,Bus Pass,Transport,315,Card,2025-05-14 11:08:00+03,Ekaterina,Transport
+2065,SIM card,Telecoms,40.7,Card,2025-05-23 11:04:00+03,Ekaterina,Personal
+2064,Hotel,Leisure and entertainment,1944.55,Card,2025-05-23 11:03:00+03,Ekaterina,Personal
+2063,Loan,Loans,444.33,Bank,2025-05-18 10:58:00+03,Ekaterina,Loans
+2062,Building maintenance fee ,Housing,250,Bank,2025-05-04 10:57:00+03,Ekaterina,Home
+2061,Building maintenance fee ,Housing,250,Bank,2025-06-05 10:56:00+03,Ekaterina,Home
+2060,Apartment rent,Housing,5400,Bank,2025-05-18 10:55:00+03,Ekaterina,Home
+2059,Telecom,Telecoms,206.34,Card,2025-04-29 10:51:00+03,Andrey,Personal
+2058,Telecom,Telecoms,206.34,Card,2025-05-29 10:50:00+03,Andrey,Personal
+2057,Taxi,Transport,140,Card,2025-05-23 10:49:00+03,Andrey,Transport
+2056,Car insurance,Car,200.61,Card,2025-05-22 10:47:00+03,Andrey,Transport
+2055,Car insurance,Car,198.47,Card,2025-04-24 10:46:00+03,Andrey,Transport
+2054,Water supply,Utilities,237.94,Card,2025-05-20 10:35:00+03,Andrey,Home
+2053,Car insurance,Car,243.25,Card,2025-05-11 10:34:00+03,Andrey,Transport
+2050,Tidal,Subscriptions,39,Card,2025-05-09 10:30:00+03,Andrey,Personal
+2049,Google one,Subscriptions,39,Card,2025-05-04 10:29:00+03,Andrey,Personal
+2048,Appstore,Subscriptions,3.9,Card,2025-04-23 10:28:00+03,Andrey,Personal
+2047,Hebrew time,Subscriptions,37.42,Card,2025-04-29 10:27:00+03,Andrey,Personal
+2046,Hebrew time,Subscriptions,36.44,Card,2025-05-29 10:24:00+03,Andrey,Personal
+2045,Groceries,Groceries,138.51,Card,2025-05-26 10:17:00+03,Andrey,Food
+2044,Shawarma,Fast food,218.23,Card,2025-05-25 15:13:00+03,Andrey,Food
+2043,Hotel,Leisure and entertainment,1678.69,Card,2025-05-23 09:53:00+03,Ekaterina,Personal
+2042,Appstore,Subscriptions,3.9,Card,2025-05-23 09:52:00+03,Andrey,Personal
+2041,Youtube,Subscriptions,45.9,Card,2025-05-21 09:43:00+03,Andrey,Personal
+2029,Breakfast,Cafes and restaurants,31,Card,2025-05-31 08:56:53+03,Andrey,Food
+2028,Chips,Junk food,19,Card,2025-05-31 08:56:27+03,Andrey,Food
+2027,Sprite,Sweets and pastries,10,Card,2025-05-30 14:15:55+03,Andrey,Food
+2026,Falafel,Fast food,23,Card,2025-05-30 14:15:55+03,Andrey,Food
+2025,Sprite,Sweets and pastries,12.9,Card,2025-05-30 14:14:16+03,Andrey,Food
+2024,Breakfast,Cafes and restaurants,100,Card,2025-05-30 14:14:15+03,Andrey,Food
+2023,Groceries,Groceries,284.18,Card,2025-05-27 13:30:19+03,Andrey,Food
+2022,Taxi,Transport,100,Cash,2025-05-27 00:45:00+03,Andrey,Transport
+2021,Sandwich,Fast food,55.4,Card,2025-05-27 10:21:34+03,Andrey,Food
+2020,Bus pass,Transport,63.8,Card,2025-05-24 19:00:00+03,Andrey,Transport
+2019,Breakfast,Cafes and restaurants,84.98,Card,2025-05-24 12:37:00+03,Andrey,Food
+2018,Pizza,Fast food,120,Cash,2025-05-27 10:21:34+03,Andrey,Food
+2017,Taxi,Transport,236.62,Card,2025-05-26 17:36:00+03,Andrey,Transport
+2016,ice cream,Sweets and pastries,15.95,Card,2025-05-25 09:42:00+03,Andrey,Food
+2015,Taxi,Transport,52.46,Card,2025-05-25 16:41:00+03,Andrey,Transport
+2014,Taxi,Transport,32.73,Cash,2025-05-25 00:51:00+03,Andrey,Transport
+2013,Taxi,Transport,56.24,Card,2025-05-24 15:45:34+03,Andrey,Transport
+2012,Still water,Groceries,12,Card,2025-05-27 10:18:36+03,Andrey,Food
+2011,Taxi,Transport,116.67,Card,2025-05-24 10:21:34+03,Andrey,Transport
+2010,Cafe,Cafes and restaurants,129.76,Card,2025-05-26 14:45:00+03,Andrey,Food
+2009,Clothes,Clothes,1221.15,Cash,2025-05-27 10:18:36+03,Andrey,Personal
+2008,Clothes,Clothes,465.41,Card,2025-05-26 14:00:00+03,Andrey,Personal
+2007,ice cream,Sweets and pastries,13,Card,2025-05-22 16:47:52+03,Andrey,Food
+2006,Chips,Junk food,5.5,Card,2025-05-22 16:47:52+03,Andrey,Food
+2005,SIM card,Undefined,40.33,Card,2025-05-22 16:07:25+03,Andrey,Undefined
+2004,Pet supplies,Pets,99.12,Card,2025-05-21 18:14:54+03,Andrey,Pets
+2003,Chips,Junk food,21.9,Card,2025-05-21 18:14:54+03,Andrey,Food
+2002,Cherries,Groceries,66.8,Card,2025-05-21 18:14:54+03,Andrey,Food
+2001,Croissants,Sweets and pastries,12.75,Card,2025-05-21 18:14:54+03,Andrey,Food
+2000,Bread,Sweets and pastries,20,Card,2025-05-21 18:14:54+03,Andrey,Food
+1999,Twix,Sweets and pastries,5,Card,2025-05-21 18:14:53+03,Andrey,Food
+1998,Market,Groceries,150,Cash,2025-05-20 18:37:02+03,Ekaterina,Food
+1997,ice cream,Sweets and pastries,12,Card,2025-05-20 18:36:35+03,Andrey,Food
+1996,Cleaning supplies,Household,40,Card,2025-05-20 18:36:34+03,Ekaterina,Home
+1995,Trevel Insurance,Leisure and entertainment,117,Card,2025-05-20 18:36:33+03,Ekaterina,Personal
+1994,Breakfast,Cafes and restaurants,61,Card,2025-05-20 18:36:33+03,Andrey,Food
+1993,Cable,Personal expenses,50,Card,2025-05-18 18:16:28+03,Ekaterina,Personal
+1992,Market,Groceries,300,Card,2025-05-18 18:16:16+03,Ekaterina,Food
+1991,coffee and Croissant,Sweets and pastries,30,Card,2025-05-18 16:12:33+03,Andrey,Food
+1990,refueling,Car,251.29,Card,2025-05-17 15:05:36+03,Andrey,Transport
+1989,Icecream,Sweets and pastries,31,Card,2025-05-17 15:05:36+03,Andrey,Food
+1988,Luggage,Leisure and entertainment,322.5,Card,2025-05-16 20:53:28+03,Andrey,Personal
+1987,Lunch,Cafes and restaurants,128,Card,2025-05-16 20:23:10+03,Andrey,Food
+1986,Shawarma,Fast food,60,Card,2025-05-16 02:41:40+03,Andrey,Food
+1985,Breakfast,Cafes and restaurants,30,Card,2025-05-14 13:50:22+03,Andrey,Food
+1984,Fruits,Groceries,100,Card,2025-05-14 06:40:04+03,Ekaterina,Food
+1983,Haircut,Personal expenses,200,Cash,2025-05-14 06:39:44+03,Ekaterina,Personal
+1982,Shoes,Clothes,300,Card,2025-05-14 06:39:35+03,Ekaterina,Personal
+1981,Shoes,Clothes,300,Card,2025-05-14 06:39:27+03,Ekaterina,Personal
+1980,Toy for Agata,Other,240,Card,2025-05-14 06:39:13+03,Ekaterina,Kids
+1979,Sprite,Sweets and pastries,15,Card,2025-05-14 00:23:18+03,Andrey,Food
+1978,Croissants,Sweets and pastries,20,Card,2025-05-13 21:39:09+03,Andrey,Food
+1977,Alcohol,Personal expenses,300,Cash,2025-05-10 15:40:59+03,Andrey,Personal
+1976,Parking,Car,75,Card,2025-05-10 14:49:34+03,Andrey,Transport
+1975,Shoes,Clothes,350,Card,2025-05-10 09:24:30+03,Ekaterina,Personal
+1974,Diapers,Other,50,Card,2025-05-10 09:24:21+03,Ekaterina,Kids
+1973,Bus pass,Transport,8,Card,2025-05-09 12:06:12+03,Andrey,Transport
+1972,Backpack,Clothes,259,Card,2025-05-09 11:39:57+03,Andrey,Personal
+1971,Toy for Agata,Other,25,Card,2025-05-09 11:24:44+03,Andrey,Kids
+1970,Breakfast,Cafes and restaurants,171.6,Card,2025-05-09 11:13:02+03,Andrey,Food
+1969,Bus pass,Transport,8,Card,2025-05-09 10:19:24+03,Andrey,Transport
+1968,Groceries,Groceries,522.71,Card,2025-05-08 20:02:40+03,Andrey,Food
+1967,Groceries,Groceries,52.5,Card,2025-05-08 16:01:48+03,Andrey,Food
+1966,chocolate,Sweets and pastries,9.9,Card,2025-05-08 13:09:50+03,Andrey,Food
+1965,Groceries,Groceries,55,Card,2025-05-06 21:16:57+03,Ekaterina,Food
+1964,Groceries,Groceries,250,Cash,2025-05-06 21:16:21+03,Ekaterina,Food
+1963,Croissants,Sweets and pastries,35,Card,2025-05-04 14:14:09+03,Andrey,Food
+1962,Still water,Groceries,22.5,Card,2025-05-04 14:13:44+03,Andrey,Food
+1961,Sprite and waffles,Sweets and pastries,21.6,Card,2025-05-03 19:39:42+03,Andrey,Food
+1960,Parking,Undefined,60,Card,2025-05-03 19:08:07+03,Andrey,Undefined
+1959,Snack,Fast food,100,Cash,2025-05-03 19:07:52+03,Andrey,Food
+1958,Alcohol,Personal expenses,300,Card,2025-05-03 18:30:12+03,Andrey,Personal
+1957,refueling,Car,280,Card,2025-05-03 18:02:23+03,Andrey,Transport
+1956,Ice cream and Sprite,Undefined,47.9,Bank,2025-05-01 16:16:06+03,Andrey,Undefined
+1955,Market,Groceries,200,Cash,2025-04-30 21:05:13+03,Ekaterina,Food
+1954,Groceries,Groceries,205,Bank,2025-04-30 21:05:06+03,Ekaterina,Food
+1953,ice cream,Sweets and pastries,31.8,Card,2025-04-29 13:57:40+03,Andrey,Food
+1952,Property tax (Arnona),Housing,902,Card,2025-04-29 09:46:57+03,Andrey,Home
+1951,Pies,Sweets and pastries,28.9,Card,2025-04-28 14:02:42+03,Andrey,Food
+1950,Icecream,Sweets and pastries,13,Card,2025-04-28 14:02:41+03,Andrey,Food
+1949,Haircut,Personal expenses,80,Card,2025-04-28 14:02:41+03,Andrey,Personal
+1948,Mezuzah,Household,379,Card,2025-04-22 22:34:00+03,Ekaterina,Home
+1947,Kindergarten,Daycare,1023,Card,2025-04-24 22:29:00+03,Ekaterina,Kids
+1946,Health insurance,Health and beauty,233,Card,2025-04-21 22:28:00+03,Ekaterina,Personal
+1945,Health insurance,Health and beauty,463.72,Card,2025-03-23 22:27:00+02,Ekaterina,Personal
+1944,Electricity,Utilities,523.66,Card,2025-04-14 22:22:00+03,Ekaterina,Home
+1943,Loan,Loans,444.33,Bank,2025-04-14 19:09:00+03,Andrey,Loans
+1941,Apartment rent,Housing,5400,Card,2025-04-18 18:04:00+03,Andrey,Home
+1940,Building maintenance fee ,Housing,250,Cash,2025-04-03 18:03:00+03,Andrey,Home
+1939,Telecom,Telecoms,206.34,Card,2025-03-30 18:01:00+03,Andrey,Personal
+1938,Car insurance,Car,197.49,Card,2025-03-25 17:56:00+02,Andrey,Transport
+1937,Tidal,Subscriptions,21.9,Card,2025-04-07 17:53:00+03,Andrey,Personal
+1936,Google one,Subscriptions,39,Card,2025-04-02 17:52:00+03,Andrey,Personal
+1935,Mediazona,Subscriptions,44.19,Card,2025-03-31 17:45:00+03,Andrey,Personal
+1933,Aliexpress,Personal expenses,34.45,Card,2025-04-06 17:40:00+03,Andrey,Personal
+1932,Aliexpress,Personal expenses,33.08,Card,2025-03-26 17:39:00+02,Andrey,Personal
+1931,Aliexpress,Personal expenses,24.3,Card,2025-03-17 17:39:00+02,Andrey,Personal
+1930,Aliexpress,Personal expenses,140.8,Card,2025-03-15 17:38:00+02,Andrey,Personal
+1929,Car insurance,Car,243.25,Card,2025-04-09 17:32:00+03,Andrey,Transport
+1928,Youtube,Subscriptions,45.9,Card,2025-04-23 17:27:00+03,Andrey,Personal
+1927,Icloud,Subscriptions,3.9,Card,2025-04-23 17:24:00+03,Andrey,Personal
+1926,Croissants,Sweets and pastries,14.8,Card,2025-04-26 16:03:39+03,Andrey,Food
+1925,Bread,Sweets and pastries,20,Card,2025-04-26 16:03:38+03,Andrey,Food
+1924,Still water,Groceries,21.9,Card,2025-04-26 16:03:30+03,Andrey,Food
+1923,Parking,Car,65,Card,2025-04-26 16:03:11+03,Andrey,Transport
+1922,Icecream,Sweets and pastries,25,Card,2025-04-26 16:03:10+03,Andrey,Food
+1921,Icecream,Sweets and pastries,15,Card,2025-04-26 16:03:10+03,Andrey,Food
+1920,Icecream,Sweets and pastries,10,Card,2025-04-26 16:03:10+03,Andrey,Food
+1919,McDonald`s,Fast food,171,Card,2025-04-26 16:03:09+03,Andrey,Food
+1918,Balloons,Undefined,45,Card,2025-04-24 19:10:26+03,Andrey,Undefined
+1917,Flowers,Personal expenses,60,Card,2025-04-24 19:10:26+03,Andrey,Personal
+1916,Chips,Junk food,5.5,Card,2025-04-24 19:10:25+03,Andrey,Food
+1915,Groceries,Groceries,419.82,Card,2025-04-24 19:10:25+03,Andrey,Food
+1914,Cat food,Undefined,179,Card,2025-04-23 19:18:12+03,Andrey,Undefined
+1913,refueling,Car,289.5,Card,2025-04-22 15:48:23+03,Andrey,Transport
+1912,Protein bar,Sport,18.9,Card,2025-04-22 15:47:56+03,Andrey,Food
+1911,Still water,Groceries,21.9,Card,2025-04-22 09:27:55+03,Andrey,Food
+1910,Pastries,Undefined,51,Card,2025-04-21 19:12:42+03,Andrey,Undefined
+1909,Sprite,Sweets and pastries,10,Card,2025-04-21 19:12:42+03,Andrey,Food
+1908,Drawing for Agata,Undefined,900,Card,2025-04-21 09:10:48+03,Andrey,Undefined
+1907,Icecream,Sweets and pastries,10,Card,2025-04-20 17:25:20+03,Andrey,Food
+1906,Parking,Car,55,Card,2025-04-19 19:48:53+03,Andrey,Transport
+1905,Groceries,Groceries,200,Card,2025-04-18 22:48:45+03,Ekaterina,Food
+1904,Market,Groceries,200,Cash,2025-04-18 22:48:12+03,Ekaterina,Food
+1903,Parking,Car,20,Card,2025-04-18 20:59:33+03,Andrey,Transport
+1902,McDonald`s,Fast food,19,Card,2025-04-18 20:30:40+03,Andrey,Food
+1901,Icecream,Sweets and pastries,22,Card,2025-04-18 20:30:40+03,Andrey,Food
+1900,Sprite and chocolate,Undefined,29,Card,2025-04-18 14:43:20+03,Andrey,Undefined
+1899,Household goods,Household,130,Card,2025-04-17 08:41:29+03,Ekaterina,Home
+1898,Markers,Personal expenses,30,Card,2025-04-17 08:41:20+03,Ekaterina,Personal
+1897,Notary,Personal expenses,540,Card,2025-04-16 13:32:04+03,Andrey,Personal
+1896,Alcohol,Personal expenses,300,Card,2025-04-15 21:42:35+03,Andrey,Personal
+1895,Cleaning supplies,Household,195,Card,2025-04-15 17:20:08+03,Ekaterina,Home
+1894,Groceries,Groceries,300,Card,2025-04-15 16:09:59+03,Ekaterina,Food
+1893,Market,Groceries,150,Cash,2025-04-15 16:09:54+03,Ekaterina,Food
+1892,Parking,Car,22,Card,2025-04-13 14:35:22+03,Andrey,Transport
+1891,McDonald`s,Fast food,10,Card,2025-04-13 13:57:41+03,Andrey,Food
+1890,McDonald`s,Fast food,130,Card,2025-04-13 13:38:14+03,Andrey,Food
+1889,Park tickets,Leisure and entertainment,155,Card,2025-04-13 10:39:16+03,Ekaterina,Personal
+1888,Cafe,Cafes and restaurants,70,Card,2025-04-12 09:50:11+03,Ekaterina,Food
+1887,Manicure,Health and beauty,170,Card,2025-04-12 09:50:01+03,Ekaterina,Personal
+1886,Groceries,Groceries,170,Card,2025-04-12 09:49:46+03,Ekaterina,Food
+1885,Market,Groceries,200,Cash,2025-04-12 09:49:34+03,Ekaterina,Food
+1884,Fine,Car,1500,Card,2025-04-11 17:39:21+03,Andrey,Transport
+1883,Bus pass,Transport,230,Card,2025-04-10 18:05:10+03,Ekaterina,Transport
+1882,Vegetables,Groceries,80,Cash,2025-04-10 17:46:53+03,Ekaterina,Food
+1881,Groceries,Groceries,230,Card,2025-04-10 17:46:42+03,Ekaterina,Food
+1880,Cafe,Cafes and restaurants,40,Card,2025-04-10 17:46:09+03,Ekaterina,Food
+1879,Clothes,Clothes,140,Card,2025-04-10 17:45:05+03,Ekaterina,Personal
+1878,Cleaning supplies,Household,193,Card,2025-04-10 17:44:54+03,Ekaterina,Home
+1877,Bus pass,Transport,250,Card,2025-04-08 18:34:51+03,Ekaterina,Transport
+1876,Groceries,Groceries,200,Card,2025-04-08 18:34:50+03,Ekaterina,Food
+1875,Market,Groceries,110,Cash,2025-04-08 18:34:50+03,Ekaterina,Food
+1874,chocolate,Sweets and pastries,12,Card,2025-04-07 20:44:08+03,Andrey,Food
+1873,Toy for Agata,Other,70,Card,2025-04-07 20:44:08+03,Andrey,Kids
+1872,Pizza,Fast food,22,Card,2025-04-07 20:42:30+03,Andrey,Food
+1871,Shawarma,Fast food,159,Card,2025-04-07 15:59:47+03,Andrey,Food
+1870,Notary,Personal expenses,350,Cash,2025-04-07 15:59:47+03,Andrey,Personal
+1869,McDonald`s,Fast food,119,Card,2025-04-06 20:43:06+03,Andrey,Food
+1868,Sprite,Sweets and pastries,15,Card,2025-04-06 20:42:48+03,Andrey,Food
+1867,refueling,Car,388.31,Card,2025-04-06 20:42:47+03,Andrey,Transport
+1866,Bread,Sweets and pastries,22,Cash,2025-04-06 20:42:41+03,Ekaterina,Food
+1865,Bubbles,Other,21,Cash,2025-04-06 20:42:40+03,Ekaterina,Kids
+1864,chocolate,Sweets and pastries,7.7,Card,2025-04-06 20:42:40+03,Andrey,Food
+1863,Sandals,Clothes,200,Card,2025-04-04 14:15:44+03,Ekaterina,Personal
+1862,Groceries,Groceries,150,Cash,2025-04-04 14:15:38+03,Ekaterina,Food
+1861,Charger,Personal expenses,400,Card,2025-04-04 14:15:29+03,Ekaterina,Personal
+1860,Decathlon,Health and beauty,250,Card,2025-04-04 14:15:15+03,Ekaterina,Personal
+1859,Groceries,Groceries,487.16,Card,2025-04-04 11:17:38+03,Andrey,Food
+1857,Groceries,Groceries,150.04,Card,2025-03-31 13:01:19+03,Andrey,Food
+1856,Still water,Groceries,8,Card,2025-03-31 13:00:57+03,Andrey,Food
+1855,Hebrew time,Subscriptions,38.04,Card,2025-03-31 13:00:56+03,Andrey,Personal
+1854,Kindergarten,Daycare,1050,Card,2025-03-24 11:41:00+02,Ekaterina,Kids
+1853,Heart rate sensor,Sport,600,Card,2025-02-12 11:41:00+02,Andrey,Personal
+1852,Sports nutrition,Sport,265.3,Card,2025-03-13 11:38:00+02,Ekaterina,Food
+1851,Aliexpress,Personal expenses,266.63,Card,2025-03-30 11:32:00+03,Ekaterina,Personal
+1850,Coke,Sweets and pastries,10,Card,2025-03-29 13:39:14+03,Andrey,Food
+1849,Breakfast,Cafes and restaurants,249,Card,2025-03-29 13:39:14+03,Andrey,Food
+1848,Sweets,Sweets and pastries,18.9,Card,2025-03-27 18:47:02+02,Andrey,Food
+1847,Chips,Junk food,5.5,Card,2025-03-27 18:47:02+02,Andrey,Food
+1846,Clothes,Clothes,300,Card,2025-03-27 18:47:01+02,Ekaterina,Personal
+1845,Still water,Groceries,43.9,Card,2025-03-26 20:45:12+02,Andrey,Food
+1844,Chips,Junk food,5.5,Card,2025-03-26 20:45:03+02,Andrey,Food
+1843,ice cream,Sweets and pastries,26,Card,2025-03-26 20:44:08+02,Ekaterina,Food
+1842,Market,Groceries,200,Card,2025-03-26 20:44:07+02,Ekaterina,Food
+1841,Aliexpress,Personal expenses,45,Card,2025-03-26 20:44:07+02,Andrey,Personal
+1840,Fruits,Groceries,78.8,Card,2025-03-25 19:03:09+02,Andrey,Food
+1839,Bike accessories,Sport,104,Card,2025-03-25 19:03:09+02,Andrey,Personal
+1838,Notary,Personal expenses,320,Card,2025-03-25 19:03:09+02,Andrey,Personal
+1837,Lunch,Cafes and restaurants,31.88,Card,2025-03-25 19:03:08+02,Andrey,Food
+1836,Bread,Sweets and pastries,20.9,Card,2025-03-25 09:04:59+02,Andrey,Food
+1835,Croissants,Sweets and pastries,20,Card,2025-03-25 09:04:58+02,Andrey,Food
+1834,Aliexpress,Personal expenses,43.89,Card,2025-03-24 20:35:34+02,Andrey,Personal
+1833,Building maintenance fee ,Housing,250,Bank,2025-03-12 20:32:00+02,Ekaterina,Home
+1832,Apartment rent,Housing,5400,Bank,2025-03-16 20:31:00+02,Andrey,Home
+1831,Loan,Loans,444.33,Bank,2025-03-17 20:30:00+02,Andrey,Loans
+1830,Water supply,Utilities,241.52,Card,2025-03-20 20:26:00+02,Andrey,Home
+1829,Gas,Utilities,61.51,Card,2025-02-03 20:17:00+02,Andrey,Home
+1828,Car insurance,Car,243.25,Card,2025-03-11 20:13:00+02,Andrey,Transport
+1827,Youtube,Subscriptions,45.9,Card,2025-03-21 20:09:00+02,Andrey,Personal
+1826,Tidal,Subscriptions,21.9,Card,2025-03-08 19:58:00+02,Andrey,Personal
+1825,AliExpress,Undefined,249,Card,2025-03-24 19:44:23+02,Andrey,Undefined
+1824,sprite and Chips,Junk food,23.9,Card,2025-03-24 19:44:22+02,Andrey,Food
+1823,Groceries,Groceries,267.77,Card,2025-03-23 17:27:31+02,Andrey,Food
+1822,Nuts,Groceries,102,Card,2025-03-23 17:01:04+02,Andrey,Food
+1821,Sweets,Sweets and pastries,8.9,Card,2025-03-23 16:42:46+02,Andrey,Food
+1820,Tickets,Leisure and entertainment,2760,Bank,2025-03-23 15:53:14+02,Andrey,Personal
+1819,Sprite and ice cream,Sweets and pastries,18.9,Card,2025-03-23 15:53:13+02,Andrey,Food
+1818,Coffee,Sweets and pastries,47,Card,2025-03-22 11:31:23+02,Andrey,Food
+1817,Alcohol,Personal expenses,48.9,Card,2025-03-21 15:08:46+02,Andrey,Personal
+1816,Alcohol,Personal expenses,300,Card,2025-03-21 15:08:45+02,Andrey,Personal
+1815,Milk,Groceries,20,Card,2025-03-21 13:49:35+02,Andrey,Food
+1814,Breakfast,Cafes and restaurants,100,Card,2025-03-21 13:49:35+02,Andrey,Food
+1813,Drawing for Agata,Other,300,Bank,2025-03-21 13:49:35+02,Andrey,Kids
+1812,Groceries,Groceries,200,Card,2025-03-19 08:20:16+02,Ekaterina,Food
+1811,Market,Groceries,150,Cash,2025-03-19 08:20:00+02,Ekaterina,Food
+1810,Bus pass,Transport,6,Card,2025-03-19 08:16:02+02,Andrey,Transport
+1809,Croissants,Sweets and pastries,19.69,Card,2025-03-19 08:15:46+02,Andrey,Food
+1808,Bread,Sweets and pastries,20,Card,2025-03-19 08:15:45+02,Andrey,Food
+1807,Frying pan,Household,180,Card,2025-03-18 15:36:13+02,Ekaterina,Home
+1806,Bun,Sweets and pastries,20,Card,2025-03-18 15:35:58+02,Ekaterina,Food
+1805,Screen protector,Personal expenses,40,Card,2025-03-18 15:35:48+02,Ekaterina,Personal
+1804,Theater,Leisure and entertainment,106,Card,2025-03-17 08:31:07+02,Ekaterina,Personal
+1803,Cleaning supplies,Household,60,Card,2025-03-17 08:31:06+02,Ekaterina,Home
+1802,ice cream,Sweets and pastries,6,Card,2025-03-17 08:31:06+02,Ekaterina,Food
+1801,Medicine,Undefined,32,Card,2025-03-17 08:31:06+02,Ekaterina,Undefined
+1800,Pet supplies,Pets,198,Card,2025-03-16 13:05:37+02,Andrey,Pets
+1799,Groceries,Groceries,152.43,Card,2025-03-16 13:05:37+02,Andrey,Food
+1798,ice cream,Sweets and pastries,65,Card,2025-03-15 22:25:35+02,Ekaterina,Food
+1797,Cafe,Cafes and restaurants,215,Card,2025-03-15 22:25:24+02,Ekaterina,Food
+1796,Groceries,Groceries,75,Card,2025-03-15 22:24:51+02,Ekaterina,Food
+1795,Market,Groceries,200,Cash,2025-03-15 22:24:34+02,Ekaterina,Food
+1794,Beach tent,Leisure and entertainment,151,Bank,2025-03-15 22:19:11+02,Andrey,Personal
+1793,Dinner,Undefined,92,Card,2025-03-15 22:17:15+02,Andrey,Undefined
+1792,Groceries,Groceries,92,Card,2025-03-13 15:52:17+02,Ekaterina,Food
+1791,Manicure,Health and beauty,150,Cash,2025-03-13 15:52:16+02,Ekaterina,Personal
+1790,Strawberries,Groceries,50,Cash,2025-03-13 15:52:16+02,Ekaterina,Food
+1789,Dried fruits,Groceries,70,Card,2025-03-13 15:52:16+02,Ekaterina,Food
+1788,Taxi,Transport,80,Card,2025-03-13 15:52:15+02,Ekaterina,Transport
+1787,Pizza,Fast food,92.9,Card,2025-03-12 18:54:21+02,Andrey,Food
+1786,ice cream,Sweets and pastries,24,Card,2025-03-12 18:49:03+02,Andrey,Food
+1785,Sporting goods,Sport,208,Card,2025-03-12 16:29:54+02,Andrey,Personal
+1784,Groceries,Groceries,108,Card,2025-03-12 16:29:54+02,Ekaterina,Food
+1783,Sweets,Sweets and pastries,45,Card,2025-03-12 16:29:53+02,Ekaterina,Food
+1782,Gift,Gifts,21,Card,2025-03-12 16:29:53+02,Ekaterina,Personal
+1781,Chips and Chocolate,Junk food,16.9,Card,2025-03-11 16:56:57+02,Andrey,Food
+1780,Bus pass,Transport,236,Card,2025-03-11 16:56:56+02,Ekaterina,Transport
+1779,Groceries,Groceries,270,Cash,2025-03-11 16:56:56+02,Ekaterina,Food
+1778,Cosmetologist,Health and beauty,380,Cash,2025-03-11 16:56:56+02,Ekaterina,Personal
+1777,Coffee,Sweets and pastries,17,Card,2025-03-09 18:58:21+02,Ekaterina,Food
+1776,Groceries,Groceries,482.42,Bank,2025-03-09 18:51:22+02,Andrey,Food
+1775,Cupcake,Sweets and pastries,14.9,Card,2025-03-09 18:51:22+02,Andrey,Food
+1774,Lunch,Cafes and restaurants,225,Bank,2025-03-08 15:56:08+02,Andrey,Food
+1773,refueling,Car,319.75,Card,2025-03-08 11:29:52+02,Andrey,Transport
+1772,Chips and Sprite,Junk food,40,Bank,2025-03-08 10:38:44+02,Andrey,Food
+1771,Sprite,Sweets and pastries,7,Card,2025-03-07 12:39:28+02,Andrey,Food
+1770,Flowers,Personal expenses,30,Card,2025-03-07 11:54:52+02,Andrey,Personal
+1769,Breakfast,Cafes and restaurants,198,Bank,2025-03-07 11:47:31+02,Andrey,Food
+1768,Groceries,Groceries,200,Cash,2025-03-07 10:42:22+02,Ekaterina,Food
+1767,Kindergarten,Daycare,1050,Card,2025-01-22 10:43:00+02,Ekaterina,Kids
+1766,Kindergarten,Daycare,1050,Card,2025-02-24 10:41:00+02,Ekaterina,Kids
+1765,Health insurance,Health and beauty,87.1,Card,2025-02-20 10:39:00+02,Ekaterina,Personal
+1764,Electricity,Utilities,570.47,Card,2025-02-13 10:38:00+02,Ekaterina,Home
+1763,Telecom,Telecoms,205.3,Card,2025-01-30 10:28:00+02,Andrey,Personal
+1762,Telecom,Telecoms,207.4,Card,2025-02-28 10:25:00+02,Andrey,Personal
+1761,Dinner,Cafes and restaurants,262,Card,2025-02-27 10:24:00+02,Andrey,Food
+1760,Car insurance,Car,196.39,Card,2025-01-23 10:20:00+02,Andrey,Transport
+1759,Car insurance,Car,197.49,Card,2025-02-24 10:19:00+02,Andrey,Transport
+1758,Car insurance,Car,243.25,Card,2025-01-11 10:14:00+02,Andrey,Transport
+1757,Car insurance,Car,243.25,Card,2025-02-11 10:13:00+02,Andrey,Transport
+1756,Google one,Subscriptions,39,Card,2025-03-02 10:07:00+02,Andrey,Personal
+1755,Youtube,Subscriptions,43.08,Card,2025-02-21 10:06:00+02,Andrey,Personal
+1754,Youtube,Subscriptions,23.9,Card,2025-01-25 10:06:00+02,Andrey,Personal
+1753,Tidal,Subscriptions,21.9,Card,2025-02-06 10:04:00+02,Andrey,Personal
+1752,Google one,Subscriptions,39,Card,2025-02-02 10:04:00+02,Andrey,Personal
+1751,Chatgpt,Subscriptions,73.94,Card,2025-01-28 10:03:00+02,Andrey,Personal
+1750,Building maintenance fee ,Housing,250,Bank,2025-02-06 09:53:00+02,Ekaterina,Home
+1749,Apartment rent,Housing,5400,Bank,2025-02-23 09:38:00+02,Ekaterina,Home
+1748,Doctor,Health and beauty,686,Card,2025-03-04 08:10:51+02,Ekaterina,Personal
+1747,Snack,Fast food,22,Card,2025-03-04 07:25:49+02,Andrey,Food
+1746,ice cream,Sweets and pastries,80,Card,2025-03-03 11:40:14+02,Ekaterina,Food
+1745,Market,Groceries,400,Cash,2025-03-03 11:39:57+02,Ekaterina,Food
+1744,Parking,Car,5.07,Card,2025-03-03 11:32:54+02,Andrey,Transport
+1743,Coffee,Sweets and pastries,16,Bank,2025-03-03 09:57:32+02,Andrey,Food
+1742,Parking,Car,285,Card,2025-03-01 15:28:23+02,Andrey,Transport
+1741,Lunch,Cafes and restaurants,427.8,Bank,2025-03-01 15:28:23+02,Andrey,Food
+1740,Ice cream and coffee,Sweets and pastries,52,Bank,2025-03-01 15:28:23+02,Andrey,Food
+1739,ice cream,Sweets and pastries,42,Card,2025-02-28 21:15:35+02,Andrey,Food
+1738,Dinner,Cafes and restaurants,509,Card,2025-02-28 21:15:35+02,Andrey,Food
+1737,Lunch,Cafes and restaurants,371,Card,2025-02-28 21:15:34+02,Andrey,Food
+1736,Hotel,Leisure and entertainment,5020,Bank,2025-02-27 20:33:22+02,Andrey,Personal
+1735,Coffee,Sweets and pastries,34,Card,2025-02-27 16:00:00+02,Ekaterina,Food
+1734,Groceries,Groceries,150,Card,2025-02-27 15:59:59+02,Ekaterina,Food
+1733,Market,Groceries,150,Cash,2025-02-27 15:59:59+02,Ekaterina,Food
+1732,Manicure,Health and beauty,140,Cash,2025-02-27 15:59:58+02,Ekaterina,Personal
+1731,chocolate,Sweets and pastries,5.9,Card,2025-02-27 15:59:58+02,Andrey,Food
+1730,refueling,Car,365.51,Card,2025-02-26 16:01:19+02,Andrey,Transport
+1729,Coke,Sweets and pastries,6,Card,2025-02-24 20:24:13+02,Ekaterina,Food
+1728,Coffee,Sweets and pastries,22.1,Card,2025-02-24 20:24:13+02,Ekaterina,Food
+1727,Pharmacy,Health and beauty,110,Card,2025-02-24 20:24:12+02,Ekaterina,Personal
+1726,Groceries,Groceries,410.36,Card,2025-02-23 19:18:48+02,Andrey,Food
+1725,Parking,Car,23,Card,2025-02-21 15:50:46+02,Andrey,Transport
+1724,Headphones,Personal expenses,1390,Bank,2025-02-21 15:50:45+02,Andrey,Personal
+1723,Vegetables and fruits,Groceries,119.6,Card,2025-02-21 10:49:22+02,Andrey,Food
+1722,Buns,Sweets and pastries,9,Cash,2025-02-21 10:49:22+02,Ekaterina,Food
+1721,Flowers,Personal expenses,40,Card,2025-02-21 10:49:22+02,Ekaterina,Personal
+1720,Pharmacy,Health and beauty,87,Card,2025-02-21 10:49:21+02,Ekaterina,Personal
+1719,Shawarma,Fast food,76,Card,2025-02-20 12:57:44+02,Andrey,Food
+1718,Sweets,Sweets and pastries,50,Card,2025-02-20 12:57:43+02,Ekaterina,Food
+1717,Groceries,Groceries,500,Card,2025-02-20 12:57:43+02,Ekaterina,Food
+1716,Snack,Fast food,40.9,Card,2025-02-18 14:33:42+02,Andrey,Food
+1715,Croissant,Sweets and pastries,12,Card,2025-02-18 14:33:29+02,Andrey,Food
+1714,Property tax (Arnona),Housing,944.6,Bank,2025-02-17 12:24:38+02,Andrey,Home
+1713,Audiobook,Personal expenses,7.9,Card,2025-02-17 12:24:37+02,Andrey,Personal
+1712,chocolate,Sweets and pastries,13.5,Bank,2025-02-17 12:24:37+02,Andrey,Food
+1711,refueling,Car,350,Bank,2025-02-17 12:24:37+02,Andrey,Transport
+1710,Groceries,Groceries,55.35,Card,2025-02-16 09:12:36+02,Andrey,Food
+1709,Ice cream and Sprite,Sweets and pastries,42.8,Card,2025-02-15 17:46:19+02,Andrey,Food
+1708,Bicycle,Sport,2500,Cash,2025-02-15 17:45:43+02,Andrey,Personal
+1707,Sweets and Coke,Sweets and pastries,39,Card,2025-02-15 17:45:42+02,Andrey,Food
+1706,Sun glasses for Agata,Clothes,49.8,Card,2025-02-15 17:45:42+02,Andrey,Kids
+1705,Groceries,Groceries,76,Card,2025-02-14 13:17:34+02,Ekaterina,Food
+1704,Market,Groceries,60,Cash,2025-02-14 13:17:26+02,Ekaterina,Food
+1703,Market,Groceries,145,Card,2025-02-14 13:17:18+02,Ekaterina,Food
+1702,Parking,Car,24,Card,2025-02-14 12:34:56+02,Andrey,Transport
+1701,Sprite,Sweets and pastries,20,Card,2025-02-14 12:34:56+02,Andrey,Food
+1700,Sneakers,Sport,1302,Card,2025-02-14 12:34:56+02,Andrey,Personal
+1699,Croissants,Sweets and pastries,16,Card,2025-02-13 19:13:43+02,Andrey,Food
+1698,Bread,Sweets and pastries,20,Card,2025-02-13 19:13:43+02,Andrey,Food
+1697,Sweets,Sweets and pastries,8.9,Card,2025-02-13 19:13:42+02,Andrey,Food
+1696,Phone accessory,Personal expenses,119,Card,2025-02-13 19:13:19+02,Ekaterina,Personal
+1695,Cat food,Undefined,179.8,Card,2025-02-11 18:30:30+02,Andrey,Undefined
+1694,Medicine,Health and beauty,265,Card,2025-02-11 18:28:09+02,Ekaterina,Personal
+1693,Bus pass,Transport,235,Card,2025-02-11 18:28:09+02,Ekaterina,Transport
+1692,Manicure,Health and beauty,150,Cash,2025-02-11 18:28:08+02,Ekaterina,Personal
+1691,Chips,Junk food,5.5,Card,2025-02-11 18:28:08+02,Andrey,Food
+1690,Groceries,Groceries,300,Card,2025-02-10 19:33:02+02,Ekaterina,Food
+1689,Strawberries,Groceries,50,Cash,2025-02-10 19:33:02+02,Ekaterina,Food
+1688,Strawberries,Groceries,50,Card,2025-02-10 19:33:01+02,Ekaterina,Food
+1687,Strawberries,Groceries,23,Card,2025-02-10 19:33:01+02,Ekaterina,Food
+1686,Vegetables,Groceries,30,Card,2025-02-10 19:33:01+02,Ekaterina,Food
+1685,Cosmetics,Health and beauty,76,Card,2025-02-09 19:52:57+02,Ekaterina,Personal
+1684,Toy for Agata,Other,60,Cash,2025-02-09 19:42:41+02,Ekaterina,Kids
+1683,Clothes,Clothes,115,Card,2025-02-09 19:42:23+02,Ekaterina,Personal
+1682,Shoes,Clothes,210,Cash,2025-02-09 19:41:28+02,Ekaterina,Personal
+1681,Pastries,Undefined,70,Cash,2025-02-09 19:41:16+02,Ekaterina,Undefined
+1680,Dates and nuts,Groceries,36.9,Card,2025-02-09 17:21:54+02,Andrey,Food
+1679,Whipped cream,Sweets and pastries,15.9,Card,2025-02-09 17:21:53+02,Andrey,Food
+1678,ice cream,Sweets and pastries,12,Card,2025-02-07 18:39:14+02,Ekaterina,Food
+1677,Market,Groceries,60,Cash,2025-02-07 18:38:56+02,Ekaterina,Food
+1676,Market,Groceries,100,Card,2025-02-07 18:38:46+02,Ekaterina,Food
+1675,Still water,Groceries,23.9,Card,2025-02-07 18:38:07+02,Andrey,Food
+1674,Car service,Undefined,835,Cash,2025-02-07 14:05:56+02,Andrey,Undefined
+1673,Groceries,Groceries,93.7,Card,2025-02-07 07:40:41+02,Andrey,Food
+1672,refueling,Car,342.96,Card,2025-02-06 16:14:24+02,Andrey,Transport
+1671,Sprite,Sweets and pastries,11,Card,2025-02-06 16:14:24+02,Andrey,Food
+1670,Bread,Sweets and pastries,30,Card,2025-02-06 13:58:14+02,Ekaterina,Food
+1669,Pie,Sweets and pastries,80,Card,2025-02-06 13:58:14+02,Ekaterina,Food
+1668,Fruits,Groceries,130,Card,2025-02-04 13:23:53+02,Ekaterina,Food
+1667,Donut,Sweets and pastries,15,Card,2025-02-04 12:56:46+02,Andrey,Food
+1666,Bus pass,Transport,6,Card,2025-02-04 12:56:46+02,Andrey,Transport
+1665,Blueberries,Groceries,25,Card,2025-02-04 12:56:12+02,Andrey,Food
+1664,Parking,Car,128,Card,2025-02-01 16:42:12+02,Andrey,Transport
+1663,ice cream,Sweets and pastries,69,Card,2025-02-01 16:42:12+02,Andrey,Food
+1662,Groceries,Groceries,230,Card,2025-01-31 13:47:27+02,Ekaterina,Food
+1661,Market,Groceries,300,Cash,2025-01-31 13:47:14+02,Ekaterina,Food
+1660,Flowers,Personal expenses,60,Card,2025-01-30 18:39:07+02,Ekaterina,Personal
+1659,Stationery,Personal expenses,30,Card,2025-01-30 18:38:30+02,Ekaterina,Personal
+1658,ice cream,Sweets and pastries,10,Card,2025-01-30 18:37:49+02,Ekaterina,Food
+1657,Shoes for Agata,Clothes,289.6,Card,2025-01-30 18:32:11+02,Andrey,Kids
+1656,Bus pass,Transport,6,Card,2025-01-30 18:32:03+02,Andrey,Transport
+1655,Shoes for Agata,Clothes,289.6,Card,2025-01-30 18:31:08+02,Andrey,Kids
+1654,Lunch,Cafes and restaurants,120,Card,2025-01-30 18:31:08+02,Andrey,Food
+1653,Parking,Car,19,Card,2025-01-28 17:32:17+02,Andrey,Transport
+1652,refueling,Car,376.24,Card,2025-01-28 17:32:16+02,Andrey,Transport
+1651,Sprite,Sweets and pastries,15,Card,2025-01-28 17:32:16+02,Andrey,Food
+1650,Groceries,Groceries,210,Card,2025-01-27 17:44:28+02,Ekaterina,Food
+1649,Groceries,Groceries,148.71,Card,2025-01-26 18:40:08+02,Andrey,Food
+1648,Parking,Car,51,Card,2025-01-25 20:47:31+02,Andrey,Transport
+1647,Kfc,Fast food,61,Card,2025-01-25 20:47:30+02,Andrey,Food
+1646,Fruits and vegetables,Groceries,124.9,Card,2025-01-24 00:37:55+02,Andrey,Food
+1645,Groceries,Groceries,88,Card,2025-01-24 00:37:54+02,Ekaterina,Food
+1644,Flowers,Personal expenses,40,Card,2025-01-24 00:37:53+02,Ekaterina,Personal
+1643,Sprite and bar,Sweets and pastries,28,Card,2025-01-24 00:37:53+02,Andrey,Food
+1642,Apartment rent,Housing,5400,Bank,2025-01-22 12:41:00+02,Andrey,Home
+1641,Building maintenance fee ,Housing,250,Bank,2025-01-14 12:41:00+02,Andrey,Home
+1640,Health insurance,Health and beauty,157.74,Bank,2025-01-05 12:40:00+02,Andrey,Personal
+1638,Bus pass,Transport,236,Card,2024-12-12 12:29:00+02,Ekaterina,Transport
+1637,Kindergarten,Daycare,1050,Card,2024-12-24 12:23:00+02,Ekaterina,Kids
+1636,Electricity,Utilities,303.74,Card,2024-12-15 12:17:00+02,Ekaterina,Home
+1635,Tidal,Subscriptions,21.9,Card,2025-01-09 11:59:00+02,Andrey,Personal
+1634,Google one,Subscriptions,39,Card,2025-01-05 11:58:00+02,Andrey,Personal
+1633,Youtube,Subscriptions,23.9,Card,2024-12-26 11:56:00+02,Andrey,Personal
+1632,Chatgpt,Subscriptions,75.55,Card,2024-12-30 11:55:00+02,Andrey,Personal
+1631,Water supply,Utilities,309.63,Card,2025-01-01 11:51:00+02,Andrey,Home
+1630,Telecom,Telecoms,204.6,Card,2024-12-29 11:48:00+02,Andrey,Personal
+1629,Car insurance,Car,196.93,Card,2024-12-25 11:43:00+02,Andrey,Transport
+1627,Sprite and bar,Sweets and pastries,38,Card,2024-12-22 11:38:00+02,Andrey,Food
+1626,Car insurance,Car,243.25,Bank,2024-12-11 14:02:00+02,Andrey,Transport
+1625,Groceries,Groceries,221.97,Card,2025-01-20 12:19:34+02,Andrey,Food
+1624,Cat food,Undefined,89.77,Card,2025-01-20 12:19:34+02,Andrey,Undefined
+1623,Fruits and vegetables,Groceries,104.1,Card,2025-01-20 00:30:58+02,Andrey,Food
+1622,McDonald`s,Fast food,20,Card,2025-01-20 00:30:58+02,Andrey,Food
+1621,Car wash,Car,105,Card,2025-01-20 00:30:57+02,Andrey,Transport
+1620,Haircut,Personal expenses,80,Card,2025-01-20 00:30:57+02,Andrey,Personal
+1619,refueling,Car,348.49,Card,2025-01-18 19:05:42+02,Andrey,Transport
+1618,Groceries,Groceries,57.8,Card,2025-01-18 18:50:07+02,Andrey,Food
+1617,Pizza,Fast food,106,Card,2025-01-18 17:56:53+02,Ekaterina,Food
+1616,Market,Groceries,300,Cash,2025-01-18 17:56:46+02,Ekaterina,Food
+1615,Sprite,Sweets and pastries,9.6,Card,2025-01-16 17:46:01+02,Andrey,Food
+1614,Vegetables,Groceries,49.8,Card,2025-01-15 06:21:32+02,Andrey,Food
+1613,Juice,Sweets and pastries,35,Card,2025-01-15 06:21:32+02,Ekaterina,Food
+1612,Studies,Education,240,Card,2025-01-15 06:21:31+02,Ekaterina,Personal
+1611,Buns,Sweets and pastries,14,Card,2025-01-14 08:20:09+02,Ekaterina,Food
+1610,Cleaning supplies,Household,80,Card,2025-01-14 08:19:52+02,Ekaterina,Home
+1609,Medicine,Health and beauty,60,Card,2025-01-14 08:19:40+02,Ekaterina,Personal
+1608,Groceries,Groceries,490,Card,2025-01-12 18:30:55+02,Ekaterina,Food
+1607,Toy for Agata,Other,100,Card,2025-01-12 18:30:47+02,Ekaterina,Kids
+1606,Groceries,Groceries,167.66,Card,2025-01-11 20:07:47+02,Andrey,Food
+1605,Snack,Fast food,15,Card,2025-01-11 14:39:57+02,Andrey,Food
+1604,Icecream,Sweets and pastries,15,Card,2025-01-11 14:39:56+02,Andrey,Food
+1603,Vegetables and fruits,Groceries,160,Bank,2025-01-10 12:22:09+02,Andrey,Food
+1602,refueling,Car,300,Card,2025-01-10 07:44:44+02,Andrey,Transport
+1601,Sprite,Sweets and pastries,15,Card,2025-01-10 07:44:43+02,Andrey,Food
+1600,refueling,Car,100,Card,2025-01-08 07:18:48+02,Andrey,Transport
+1599,Groceries,Groceries,440.48,Card,2025-01-07 19:07:43+02,Andrey,Food
+1598,Sweets,Sweets and pastries,18,Card,2025-01-06 18:12:03+02,Andrey,Food
+1597,Plumbing,Utilities,108,Cash,2025-01-05 21:01:00+02,Ekaterina,Home
+1596,Cosmetics,Health and beauty,25,Cash,2025-01-05 21:01:00+02,Ekaterina,Personal
+1595,Bread,Sweets and pastries,59,Card,2025-01-05 21:00:59+02,Ekaterina,Food
+1594,refueling,Car,100,Card,2025-01-05 21:00:59+02,Andrey,Transport
+1593,Medicine,Health and beauty,70,Cash,2025-01-04 00:37:11+02,Ekaterina,Personal
+1592,Sweets,Sweets and pastries,75,Cash,2025-01-04 00:37:02+02,Ekaterina,Food
+1591,Sweets,Sweets and pastries,85,Cash,2025-01-04 00:37:01+02,Ekaterina,Food
+1590,Cat food,Pets,85,Cash,2025-01-04 00:37:01+02,Ekaterina,Pets
+1589,Dishwasher,Household,450,Cash,2025-01-04 00:37:01+02,Ekaterina,Home
+1588,Haircut,Personal expenses,80,Card,2025-01-01 13:29:56+02,Andrey,Personal
+1587,Croissants,Sweets and pastries,21.6,Card,2025-01-01 09:34:28+02,Andrey,Food
+1586,Diapers,Other,50,Card,2025-01-01 09:34:28+02,Ekaterina,Kids
+1585,Pizza,Fast food,60,Card,2025-01-01 09:34:27+02,Ekaterina,Food
+1584,Soda,Sweets and pastries,20,Card,2025-01-01 09:34:27+02,Ekaterina,Food
+1583,Croissants,Sweets and pastries,22.9,Card,2024-12-31 08:34:33+02,Andrey,Food
+1582,refueling,Car,200,Card,2024-12-31 02:14:57+02,Andrey,Transport
+1581,Sprite,Sweets and pastries,23.8,Card,2024-12-30 11:36:06+02,Andrey,Food
+1580,Still water,Groceries,39.4,Card,2024-12-30 11:18:25+02,Andrey,Food
+1579,Groceries,Groceries,216.28,Card,2024-12-29 12:56:46+02,Andrey,Food
+1578,Tools,Household,39,Card,2024-12-29 08:53:44+02,Andrey,Home
+1577,Croissants,Sweets and pastries,34.7,Card,2024-12-29 08:53:43+02,Andrey,Food
+1576,Bread,Sweets and pastries,10,Card,2024-12-29 08:53:43+02,Andrey,Food
+1575,Groceries,Groceries,71.3,Card,2024-12-28 19:17:46+02,Andrey,Food
+1574,Lunch,Cafes and restaurants,163,Card,2024-12-28 19:17:46+02,Andrey,Food
+1573,Alcohol,Personal expenses,400,Card,2024-12-26 17:02:36+02,Andrey,Personal
+1572,McDonald`s,Fast food,120,Card,2024-12-26 17:02:35+02,Andrey,Food
+1571,Coffee,Sweets and pastries,80,Card,2024-12-26 17:02:35+02,Andrey,Food
+1570,Strawberries,Groceries,17.5,Card,2024-12-26 17:02:34+02,Andrey,Food
+1569,Snack,Fast food,42,Card,2024-12-26 17:02:34+02,Andrey,Food
+1568,Cupcake,Sweets and pastries,22.8,Card,2024-12-25 20:51:40+02,Andrey,Food
+1567,Bamba,Sweets and pastries,3.9,Card,2024-12-25 20:51:26+02,Andrey,Food
+1566,Croissants,Sweets and pastries,22,Card,2024-12-25 20:51:26+02,Andrey,Food
+1565,sprite and Chips,Junk food,20.7,Card,2024-12-24 05:08:22+02,Andrey,Food
+1564,Groceries,Groceries,52,Card,2024-12-24 05:07:59+02,Ekaterina,Food
+1563,Kindergarten,Daycare,1050,Card,2024-11-26 19:01:00+02,Ekaterina,Kids
+1562,Kindergarten,Daycare,620,Card,2024-11-17 18:59:00+02,Ekaterina,Kids
+1561,Bus pass,Transport,236,Card,2024-11-11 18:54:00+02,Ekaterina,Transport
+1560,Fine,Car,69.9,Card,2024-12-22 18:46:00+02,Ekaterina,Transport
+1559,Health insurance,Health and beauty,190.31,Card,2024-12-05 15:41:00+02,Andrey,Personal
+1558,Building maintenance fee ,Housing,250,Bank,2024-12-04 15:40:00+02,Andrey,Home
+1557,Apartment rent,Housing,5400,Bank,2024-12-15 15:39:00+02,Andrey,Home
+1556,Telecom,Telecoms,204.6,Card,2024-10-30 15:35:00+02,Andrey,Personal
+1555,Telecom,Telecoms,204.6,Card,2024-11-29 15:34:00+02,Andrey,Personal
+1554,Water supply,Utilities,345.97,Card,2024-11-28 15:32:00+02,Andrey,Home
+1553,Car insurance,Car,197.66,Card,2024-11-24 15:27:00+02,Andrey,Transport
+1552,Car insurance,Car,196.75,Card,2024-10-22 15:24:00+03,Andrey,Transport
+1551,Car insurance,Car,243.25,Card,2024-11-11 14:02:00+02,Andrey,Transport
+1550,Car insurance,Car,243.25,Card,2024-10-11 15:01:00+03,Andrey,Transport
+1549,Tidal,Subscriptions,21.9,Card,2024-12-08 14:55:00+02,Andrey,Personal
+1548,Google one,Subscriptions,39,Card,2024-12-02 14:54:00+02,Andrey,Personal
+1547,Youtube,Subscriptions,23.9,Card,2024-11-25 14:53:00+02,Andrey,Personal
+1546,Chatgpt,Subscriptions,74.83,Card,2024-11-28 14:51:00+02,Andrey,Personal
+1545,Safari,Leisure and entertainment,150,Card,2024-12-22 10:05:46+02,Ekaterina,Personal
+1544,refueling,Car,366.24,Card,2024-12-22 06:38:48+02,Andrey,Transport
+1543,Juice,Sweets and pastries,10,Card,2024-12-21 18:40:51+02,Andrey,Food
+1542,Pizza,Fast food,98,Card,2024-12-21 18:40:35+02,Andrey,Food
+1541,Car vacuum,Car,50,Cash,2024-12-21 18:40:12+02,Ekaterina,Transport
+1540,Sweets,Sweets and pastries,40,Card,2024-12-21 18:40:12+02,Ekaterina,Food
+1539,Cart,Household,126,Card,2024-12-21 18:40:11+02,Ekaterina,Home
+1538,Icecream,Sweets and pastries,43.7,Card,2024-12-21 18:40:11+02,Andrey,Food
+1537,Groceries,Groceries,19.5,Card,2024-12-20 16:35:08+02,Andrey,Food
+1536,Flowers,Personal expenses,50,Card,2024-12-20 16:35:08+02,Andrey,Personal
+1535,Groceries,Groceries,317.4,Card,2024-12-20 16:35:07+02,Andrey,Food
+1534,Breakfast,Cafes and restaurants,154,Card,2024-12-20 16:35:07+02,Andrey,Food
+1533,Fine,Car,600,Card,2024-12-18 10:15:41+02,Ekaterina,Transport
+1532,Groceries,Groceries,500,Card,2024-12-18 10:15:40+02,Ekaterina,Food
+1531,Souvenirs,Gifts,580,Card,2024-12-18 10:15:40+02,Ekaterina,Personal
+1530,Croissants,Sweets and pastries,16.6,Card,2024-12-18 10:10:15+02,Andrey,Food
+1529,Earrings,Personal expenses,290,Card,2024-12-18 10:10:15+02,Ekaterina,Personal
+1528,Groceries,Groceries,38,Card,2024-12-16 08:28:00+02,Andrey,Food
+1527,Appstore,Subscriptions,103.9,Card,2024-12-16 08:27:59+02,Andrey,Personal
+1526,Milk,Groceries,19.8,Card,2024-12-15 09:06:10+02,Andrey,Food
+1525,Croissants,Sweets and pastries,29,Card,2024-12-15 09:02:58+02,Andrey,Food
+1524,Property tax (Arnona),Housing,886,Bank,2024-12-15 08:56:29+02,Andrey,Home
+1523,Bus pass,Transport,6,Card,2024-12-15 08:17:23+02,Andrey,Transport
+1522,Icecream,Sweets and pastries,64.7,Card,2024-12-14 13:13:38+02,Andrey,Food
+1521,Alcohol,Personal expenses,350,Cash,2024-12-14 09:24:13+02,Andrey,Personal
+1520,Icecream,Sweets and pastries,33.9,Card,2024-12-14 09:24:13+02,Andrey,Food
+1519,Rides,Leisure and entertainment,10,Card,2024-12-14 09:24:13+02,Andrey,Personal
+1518,Meat,Groceries,207,Cash,2024-12-13 09:42:26+02,Ekaterina,Food
+1517,Coffee,Sweets and pastries,20,Card,2024-12-12 17:24:49+02,Andrey,Food
+1516,Croissants,Sweets and pastries,23,Card,2024-12-12 15:15:54+02,Andrey,Food
+1515,Pastries,Sweets and pastries,13,Card,2024-12-12 06:18:56+02,Andrey,Food
+1514,Towel,Household,13.9,Card,2024-12-12 06:18:56+02,Andrey,Home
+1513,refueling,Car,309.35,Card,2024-12-12 06:18:55+02,Andrey,Transport
+1512,Parking,Car,90,Card,2024-12-11 15:18:18+02,Andrey,Transport
+1511,Parking,Car,24,Card,2024-12-11 15:13:51+02,Andrey,Transport
+1510,Cappuchinno,Fast food,27,Card,2024-12-11 14:00:14+02,Andrey,Food
+1509,Coke and Croissant,Sweets and pastries,36,Card,2024-12-11 13:45:21+02,Andrey,Food
+1508,Groceries,Groceries,400,Card,2024-12-10 15:38:31+02,Ekaterina,Food
+1507,ice cream,Sweets and pastries,43,Card,2024-12-10 15:38:21+02,Ekaterina,Food
+1506,ice cream,Sweets and pastries,143,Card,2024-12-10 15:37:50+02,Ekaterina,Food
+1505,Diapers,Other,91,Card,2024-12-10 15:37:39+02,Ekaterina,Kids
+1504,Litter box,Pets,81,Card,2024-12-10 15:37:31+02,Ekaterina,Pets
+1503,Souvenirs,Gifts,400,Card,2024-12-10 15:37:22+02,Ekaterina,Personal
+1502,refueling,Car,150,Card,2024-12-09 19:18:56+02,Andrey,Transport
+1501,Parking,Car,24,Card,2024-12-07 19:08:52+02,Andrey,Transport
+1500,Parking,Car,45,Card,2024-12-07 19:08:52+02,Andrey,Transport
+1499,Alcohol,Personal expenses,300,Card,2024-12-07 09:59:02+02,Andrey,Personal
+1498,Coke,Sweets and pastries,38.6,Card,2024-12-07 09:37:14+02,Andrey,Food
+1497,Shawarma,Fast food,57,Card,2024-12-05 14:32:01+02,Andrey,Food
+1496,Parking,Car,7.66,Card,2024-12-05 13:33:31+02,Andrey,Transport
+1495,Groceries,Groceries,212.77,Bank,2024-12-05 11:52:34+02,Andrey,Food
+1494,Parking,Car,20,Bank,2024-12-04 14:01:43+02,Andrey,Transport
+1493,Still water,Groceries,10.9,Card,2024-12-04 12:09:47+02,Andrey,Food
+1492,refueling,Car,363.64,Card,2024-12-04 12:07:03+02,Andrey,Transport
+1491,Groceries,Groceries,29.1,Card,2024-12-04 10:43:27+02,Andrey,Food
+1490,Groceries,Groceries,28.71,Card,2024-12-02 12:22:12+02,Andrey,Food
+1489,Croissants,Sweets and pastries,15,Card,2024-12-01 10:35:40+02,Andrey,Food
+1488,Park ticket,Leisure and entertainment,65,Card,2024-11-30 21:35:58+02,Ekaterina,Personal
+1487,Pizza,Fast food,95.9,Card,2024-11-30 20:41:15+02,Andrey,Food
+1486,Parking,Car,30,Card,2024-11-30 20:41:15+02,Andrey,Transport
+1485,Cafe,Cafes and restaurants,170,Card,2024-11-29 16:35:54+02,Ekaterina,Food
+1484,Market,Groceries,160,Cash,2024-11-29 16:35:54+02,Ekaterina,Food
+1483,Beer,Personal expenses,47,Card,2024-11-29 16:35:54+02,Ekaterina,Personal
+1482,Parking,Car,4,Card,2024-11-29 16:35:53+02,Andrey,Transport
+1481,Flowers,Personal expenses,40,Card,2024-11-28 19:48:00+02,Ekaterina,Personal
+1480,Icecream,Sweets and pastries,19.5,Card,2024-11-26 19:08:28+02,Andrey,Food
+1479,Groceries,Groceries,248,Card,2024-11-26 19:08:28+02,Ekaterina,Food
+1478,Groceries,Groceries,236,Card,2024-11-26 19:08:27+02,Ekaterina,Food
+1477,Donuts,Sweets and pastries,79,Card,2024-11-26 07:27:51+02,Andrey,Food
+1476,Donut,Sweets and pastries,15,Card,2024-11-26 07:27:51+02,Andrey,Food
+1475,Shoes for Agata,Clothes,159,Card,2024-11-26 07:27:51+02,Ekaterina,Kids
+1474,Chips,Junk food,6.9,Card,2024-11-26 07:27:50+02,Andrey,Food
+1473,Nuts,Groceries,71.9,Card,2024-11-26 07:27:50+02,Andrey,Food
+1472,Pet supplies,Pets,102,Card,2024-11-26 07:27:50+02,Andrey,Pets
+1471,Udemy,Education,89.9,Card,2024-11-24 19:12:40+02,Andrey,Personal
+1470,Juice,Sweets and pastries,30,Card,2024-11-24 18:42:44+02,Ekaterina,Food
+1469,Shawarma,Fast food,144,Card,2024-11-24 18:42:44+02,Ekaterina,Food
+1468,Sweets,Sweets and pastries,7.9,Card,2024-11-24 18:42:44+02,Andrey,Food
+1467,Alcohol,Personal expenses,300,Cash,2024-11-23 18:30:00+02,Andrey,Personal
+1466,Apartment rent,Housing,5400,Bank,2024-11-17 17:51:00+02,Andrey,Home
+1465,popcorn,Fast food,17,Card,2024-11-23 17:48:37+02,Andrey,Food
+1464,Pizza,Fast food,38,Card,2024-11-23 17:48:36+02,Andrey,Food
+1463,Lunch,Cafes and restaurants,133,Card,2024-11-23 17:48:36+02,Andrey,Food
+1462,Icecream,Sweets and pastries,19,Card,2024-11-22 20:29:32+02,Andrey,Food
+1461,Beer,Personal expenses,44.9,Card,2024-11-22 20:29:32+02,Andrey,Personal
+1460,Kindergarten,Daycare,620,Card,2024-10-15 17:21:00+03,Ekaterina,Kids
+1459,Kindergarten,Daycare,620,Card,2024-09-18 17:21:00+03,Ekaterina,Kids
+1458,Kindergarten,Daycare,1050,Card,2024-09-24 17:19:00+03,Ekaterina,Kids
+1457,Electricity,Utilities,617.32,Card,2024-10-15 17:16:00+03,Ekaterina,Home
+1456,Bus pass,Transport,236,Card,2024-10-10 17:15:00+03,Ekaterina,Transport
+1455,Kindergarten,Daycare,1050,Card,2024-10-28 17:08:00+02,Ekaterina,Kids
+1454,Tidal,Subscriptions,21.9,Card,2024-11-10 17:00:00+02,Andrey,Personal
+1453,Google one,Subscriptions,39,Card,2024-11-02 16:59:00+02,Andrey,Personal
+1452,Youtube,Subscriptions,23.9,Card,2024-10-25 16:59:00+03,Andrey,Personal
+1451,Appstore,Subscriptions,44.8,Card,2024-10-23 16:58:00+03,Andrey,Personal
+1450,Tidal,Subscriptions,21.9,Card,2024-10-09 16:56:00+03,Andrey,Personal
+1449,Chatgpt,Subscriptions,76.9,Card,2024-10-30 16:55:00+02,Andrey,Personal
+1448,eBook,Personal expenses,14.9,Card,2024-10-13 16:54:00+03,Andrey,Personal
+1447,Building maintenance fee ,Housing,250,Bank,2024-11-05 16:44:00+02,Andrey,Home
+1446,Health insurance,Health and beauty,189,Bank,2024-11-05 16:43:00+02,Andrey,Personal
+1445,Market,Groceries,75,Card,2024-11-22 15:27:04+02,Ekaterina,Food
+1444,Market,Groceries,200,Cash,2024-11-22 15:26:57+02,Ekaterina,Food
+1443,Groceries,Groceries,170,Cash,2024-11-22 15:26:41+02,Ekaterina,Food
+1442,Groceries,Groceries,70,Card,2024-11-22 15:26:41+02,Ekaterina,Food
+1441,Taxi,Transport,55,Card,2024-11-22 15:26:41+02,Ekaterina,Transport
+1440,ice cream,Sweets and pastries,25,Card,2024-11-22 15:26:41+02,Ekaterina,Food
+1439,Medicine,Health and beauty,20,Card,2024-11-22 15:26:41+02,Ekaterina,Personal
+1438,Strawberries,Groceries,45,Card,2024-11-22 15:26:40+02,Ekaterina,Food
+1437,refueling,Car,366,Card,2024-11-22 15:24:19+02,Andrey,Transport
+1436,Shawarma,Fast food,61,Card,2024-11-22 15:24:12+02,Andrey,Food
+1435,Groceries,Groceries,600,Card,2024-11-22 15:23:51+02,Ekaterina,Food
+1434,Vehicle inspection,Car,117,Card,2024-11-19 12:49:15+02,Andrey,Transport
+1433,Preparation vehicle for inspection,Car,200,Card,2024-11-18 09:56:46+02,Andrey,Transport
+1432,Dried fruits,Groceries,43,Card,2024-11-18 09:56:46+02,Ekaterina,Food
+1431,Cigarette lighter,Personal expenses,20,Card,2024-11-18 09:56:46+02,Andrey,Personal
+1430,Pots and soil,Household,112,Card,2024-11-18 09:56:45+02,Andrey,Home
+1429,Gas,Utilities,14.9,Card,2024-10-18 09:56:45+02,Andrey,Home
+1428,Sushi,Cafes and restaurants,230,Card,2024-11-16 21:31:03+02,Andrey,Food
+1427,Icecream,Sweets and pastries,30.9,Card,2024-11-16 17:53:46+02,Andrey,Food
+1426,Groceries,Groceries,539.79,Card,2024-11-14 19:23:55+02,Andrey,Food
+1425,Property tax (Arnona),Housing,1815.3,Bank,2024-11-14 16:51:18+02,Andrey,Home
+1424,Croissants,Sweets and pastries,50,Card,2024-11-13 18:13:37+02,Ekaterina,Food
+1423,Strawberries,Groceries,45,Card,2024-11-13 18:08:47+02,Andrey,Food
+1422,Sweets,Sweets and pastries,7.9,Card,2024-11-13 18:08:46+02,Andrey,Food
+1421,Vehicle tax,Car,1156,Bank,2024-11-13 18:07:42+02,Andrey,Transport
+1420,Croissants,Sweets and pastries,20,Card,2024-11-13 18:07:42+02,Andrey,Food
+1419,Bread,Sweets and pastries,18,Card,2024-11-13 18:07:42+02,Andrey,Food
+1418,License,Education,365,Card,2024-11-12 15:43:44+02,Ekaterina,Personal
+1417,refueling,Car,340.2,Card,2024-11-12 15:43:44+02,Andrey,Transport
+1416,Sandwich,Fast food,20,Card,2024-11-12 15:43:43+02,Andrey,Food
+1415,Strawberries,Groceries,45,Card,2024-11-11 17:16:08+02,Ekaterina,Food
+1414,Icecream,Sweets and pastries,5,Card,2024-11-11 05:20:52+02,Andrey,Food
+1413,Lunch,Cafes and restaurants,125,Card,2024-11-09 15:34:08+02,Andrey,Food
+1412,Market,Groceries,300,Card,2024-11-08 18:13:54+02,Andrey,Food
+1411,Hair salon,Personal expenses,200,Cash,2024-11-08 13:30:22+02,Ekaterina,Personal
+1410,refueling,Car,200,Bank,2024-11-08 13:11:42+02,Andrey,Transport
+1409,Croissants,Sweets and pastries,17.6,Card,2024-11-07 13:21:19+02,Andrey,Food
+1408,eBook,Personal expenses,19.9,Card,2024-11-07 07:28:46+02,Andrey,Personal
+1407,Groceries,Groceries,592,Card,2024-11-06 13:19:50+02,Ekaterina,Food
+1406,Croissants,Sweets and pastries,15,Cash,2024-11-06 12:46:22+02,Andrey,Food
+1405,Alcohol,Personal expenses,350,Cash,2024-11-06 12:46:22+02,Andrey,Personal
+1404,Gift for Agata,Other,319.7,Card,2024-11-06 07:34:54+02,Andrey,Kids
+1403,Shawarma,Fast food,61,Card,2024-11-06 07:34:43+02,Andrey,Food
+1402,refueling,Car,100,Card,2024-11-06 07:34:26+02,Andrey,Transport
+1401,Croissants and Coke,Sweets and pastries,30,Card,2024-11-06 07:34:25+02,Andrey,Food
+1400,Sprite and croissants,Sweets and pastries,19.2,Card,2024-11-04 10:59:33+02,Andrey,Food
+1399,Still water,Groceries,27.6,Card,2024-11-04 10:59:10+02,Andrey,Food
+1398,Pharmacy,Health and beauty,69.55,Card,2024-11-03 10:06:22+02,Andrey,Personal
+1397,Croissants,Sweets and pastries,19.6,Card,2024-11-03 10:06:21+02,Andrey,Food
+1396,Household goods,Household,99.7,Card,2024-11-03 10:06:21+02,Andrey,Home
+1395,Pet shop,Pets,139,Card,2024-11-03 10:06:21+02,Andrey,Pets
+1394,sprite and Chips,Junk food,17.8,Card,2024-11-02 15:14:25+02,Andrey,Food
+1393,Disposable tableware,Household,19,Card,2024-11-02 15:14:25+02,Andrey,Home
+1392,Bamba,Fast food,384,Card,2024-11-02 15:14:25+02,Andrey,Food
+1391,Pizza,Fast food,89,Card,2024-10-31 18:25:39+02,Ekaterina,Food
+1390,refueling,Car,200,Card,2024-10-31 18:25:39+02,Ekaterina,Transport
+1389,Groceries,Groceries,45.8,Card,2024-10-31 18:25:38+02,Andrey,Food
+1388,Groceries,Groceries,500,Card,2024-10-29 21:38:18+02,Ekaterina,Food
+1387,Bread,Sweets and pastries,30,Card,2024-10-28 20:31:01+02,Ekaterina,Food
+1386,Pharmacy,Health and beauty,200,Card,2024-10-28 20:30:55+02,Ekaterina,Personal
+1385,Sweets,Sweets and pastries,20,Card,2024-10-26 19:13:51+03,Ekaterina,Food
+1384,Market,Groceries,200,Cash,2024-10-26 19:13:51+03,Ekaterina,Food
+1383,Sweets,Sweets and pastries,55,Card,2024-10-26 19:13:50+03,Ekaterina,Food
+1382,Sweets,Sweets and pastries,31.7,Cash,2024-10-26 19:13:38+03,Andrey,Food
+1381,Groceries,Groceries,61.5,Card,2024-10-24 17:11:48+03,Andrey,Food
+1380,Aliexpress,Personal expenses,227.13,Bank,2024-08-20 12:00:00+03,Ekaterina,Personal
+1379,Gas,Utilities,39.56,Card,2024-08-09 12:00:00+03,Andrey,Home
+1378,Telecom,Telecoms,204.6,Card,2024-09-09 12:00:00+03,Andrey,Personal
+1377,Water supply,Utilities,319.78,Card,2024-09-22 12:00:00+03,Andrey,Home
+1376,Appstore,Subscriptions,44.8,Card,2024-09-30 12:00:00+03,Andrey,Personal
+1375,Youtube,Subscriptions,23.9,Card,2024-09-26 12:00:00+03,Andrey,Personal
+1374,Appstore,Subscriptions,14.9,Card,2024-09-19 12:00:00+03,Andrey,Personal
+1373,Tidal,Subscriptions,21.9,Card,2024-09-11 12:00:00+03,Andrey,Personal
+1372,Chatgpt,Subscriptions,76.08,Card,2024-09-30 12:00:00+03,Andrey,Personal
+1371,Apartment rent,Housing,5400,Bank,2024-10-20 10:00:00+03,Andrey,Home
+1370,Building maintenance fee ,Housing,250,Bank,2024-10-09 12:00:00+03,Andrey,Home
+1369,Building maintenance fee ,Housing,250,Bank,2024-09-03 12:00:00+03,Andrey,Home
+1368,Health insurance,Health and beauty,188.42,Bank,2024-09-05 12:00:00+03,Ekaterina,Personal
+1367,Health insurance,Health and beauty,155.55,Bank,2024-08-05 12:00:00+03,Ekaterina,Personal
+1366,Health insurance,Health and beauty,157.87,Bank,2024-10-06 12:00:00+03,Ekaterina,Personal
+1365,Apartment rent,Housing,5400,Bank,2024-09-15 12:00:00+03,Andrey,Home
+1364,Groceries,Groceries,443.83,Card,2024-10-23 14:23:11+03,Andrey,Food
+1363,Bread,Sweets and pastries,48,Card,2024-10-23 14:23:11+03,Andrey,Food
+1362,Cocoa,Groceries,16,Card,2024-10-23 14:23:11+03,Andrey,Food
+1361,Parking,Car,20,Card,2024-10-22 12:59:05+03,Andrey,Transport
+1359,refueling,Car,322,Card,2024-10-22 09:10:07+03,Andrey,Transport
+1358,Sweets,Sweets and pastries,28.9,Card,2024-10-22 09:10:01+03,Andrey,Food
+1357,Parking,Car,36,Card,2024-10-19 17:39:53+03,Andrey,Transport
+1356,Groceries,Groceries,600,Card,2024-10-18 20:02:51+03,Ekaterina,Food
+1355,Market,Groceries,150,Cash,2024-10-18 20:02:46+03,Ekaterina,Food
+1354,Sweets,Sweets and pastries,38,Card,2024-10-17 16:22:14+03,Andrey,Food
+1353,Parking,Car,44,Card,2024-10-17 16:22:14+03,Andrey,Transport
+1352,McDonald`s,Fast food,133,Card,2024-10-17 16:22:14+03,Andrey,Food
+1351,Agata’s party,Other,300,Card,2024-10-15 10:37:06+03,Andrey,Kids
+1350,Household goods,Household,35,Card,2024-10-15 10:37:06+03,Ekaterina,Home
+1349,Bread,Sweets and pastries,30,Card,2024-10-15 10:37:06+03,Ekaterina,Food
+1348,Fruits,Groceries,30,Card,2024-10-15 10:37:05+03,Ekaterina,Food
+1347,Snacks,Groceries,120,Card,2024-10-15 10:37:05+03,Ekaterina,Food
+1346,eBook,Personal expenses,19.9,Card,2024-10-13 13:31:09+03,Andrey,Personal
+1345,Sprite,Sweets and pastries,9.9,Card,2024-10-13 13:02:37+03,Andrey,Food
+1344,Groceries,Groceries,150,Card,2024-10-12 10:01:28+03,Ekaterina,Food
+1343,Fish,Groceries,75,Card,2024-10-12 10:01:06+03,Ekaterina,Food
+1342,Market,Groceries,300,Cash,2024-10-12 10:00:55+03,Ekaterina,Food
+1341,ice cream,Sweets and pastries,12,Card,2024-10-12 09:53:44+03,Ekaterina,Food
+1340,Buns,Sweets and pastries,32,Card,2024-10-12 09:53:44+03,Ekaterina,Food
+1339,Nuts,Groceries,43,Card,2024-10-12 09:53:44+03,Ekaterina,Food
+1338,refueling,Car,367.05,Card,2024-10-12 09:52:48+03,Andrey,Transport
+1337,refueling,Car,100,Card,2024-10-12 09:52:48+03,Andrey,Transport
+1336,Haircut,Personal expenses,80,Card,2024-10-12 09:52:48+03,Andrey,Personal
+1335,Sweets,Sweets and pastries,105,Card,2024-10-08 19:44:40+03,Ekaterina,Food
+1334,Parking,Car,4.2,Card,2024-10-07 19:25:49+03,Andrey,Transport
+1333,Icecream,Sweets and pastries,28,Card,2024-10-07 19:25:48+03,Andrey,Food
+1332,Groceries,Groceries,571,Card,2024-10-06 18:14:37+03,Andrey,Food
+1331,Groceries,Groceries,50.5,Card,2024-10-05 21:53:25+03,Andrey,Food
+1330,Parking,Car,60,Card,2024-10-05 15:15:55+03,Andrey,Transport
+1329,Kfc,Fast food,59,Bank,2024-10-05 15:15:55+03,Andrey,Food
+1328,refueling,Car,200,Card,2024-10-05 15:15:54+03,Andrey,Transport
+1327,Parking,Car,40,Card,2024-10-04 16:01:04+03,Andrey,Transport
+1326,Icecream,Sweets and pastries,10,Card,2024-10-04 16:00:54+03,Andrey,Food
+1325,Sprite and Chocolate,Sweets and pastries,16.5,Cash,2024-10-04 16:00:39+03,Andrey,Food
+1324,eBook,Personal expenses,14.9,Card,2024-10-01 19:48:59+03,Andrey,Personal
+1323,Groceries,Groceries,298.29,Card,2024-10-01 12:53:09+03,Andrey,Food
+1322,Croissants,Sweets and pastries,16,Card,2024-10-01 12:53:08+03,Andrey,Food
+1321,Bread,Sweets and pastries,10,Card,2024-10-01 12:53:08+03,Andrey,Food
+1320,Croissants,Sweets and pastries,17,Card,2024-09-30 09:01:06+03,Andrey,Food
+1319,Veterinarian,Pets,1560,Card,2024-09-29 20:19:33+03,Andrey,Pets
+1318,refueling,Car,200,Card,2024-09-29 20:19:33+03,Andrey,Transport
+1317,eBook,Personal expenses,24.9,Card,2024-09-28 14:59:53+03,Andrey,Personal
+1316,Parking,Car,52,Card,2024-09-28 13:52:14+03,Andrey,Transport
+1315,McDonald`s,Fast food,148,Card,2024-09-28 13:21:55+03,Andrey,Food
+1314,Sprite,Sweets and pastries,12,Card,2024-09-27 20:54:19+03,Andrey,Food
+1313,Groceries,Groceries,641.06,Card,2024-09-27 15:19:43+03,Andrey,Food
+1312,Toll road,Car,23.6,Card,2024-09-26 15:42:28+03,Andrey,Transport
+1311,Toll road,Car,23.6,Card,2024-09-26 15:41:34+03,Andrey,Transport
+1310,Toll road,Car,23.6,Card,2024-09-26 15:41:26+03,Andrey,Transport
+1309,Croissants,Sweets and pastries,21,Card,2024-09-26 10:28:11+03,Andrey,Food
+1308,Household goods,Household,38,Card,2024-09-26 09:28:21+03,Ekaterina,Home
+1307,Fruits,Groceries,40,Card,2024-09-26 09:28:21+03,Ekaterina,Food
+1306,Sprite,Sweets and pastries,8.9,Card,2024-09-26 09:28:21+03,Andrey,Food
+1305,Croissants,Sweets and pastries,20.6,Card,2024-09-26 09:28:20+03,Andrey,Food
+1304,eBook,Personal expenses,19.9,Card,2024-09-25 07:41:01+03,Andrey,Personal
+1303,Groceries,Groceries,22,Card,2024-09-24 09:42:38+03,Ekaterina,Food
+1302,Groceries,Groceries,180,Card,2024-09-23 19:19:05+03,Ekaterina,Food
+1301,Lunch,Cafes and restaurants,11,Card,2024-09-23 14:09:49+03,Andrey,Food
+1300,Tools,Household,50,Card,2024-09-23 14:04:13+03,Andrey,Home
+1299,Shawarma,Fast food,46,Card,2024-09-23 13:09:55+03,Andrey,Food
+1298,Parking,Car,14.7,Card,2024-09-23 13:02:46+03,Andrey,Transport
+1297,Shawarma,Fast food,46,Card,2024-09-23 13:01:18+03,Andrey,Food
+1296,Fruits,Groceries,56,Card,2024-09-23 12:57:37+03,Andrey,Food
+1295,Beer,Personal expenses,56,Card,2024-09-23 11:43:19+03,Andrey,Personal
+1294,Croissants and coffee,Sweets and pastries,23,Card,2024-09-23 08:31:22+03,Andrey,Food
+1292,Croissants,Sweets and pastries,16,Card,2024-09-22 12:04:17+03,Andrey,Food
+1291,Milk,Groceries,21.11,Card,2024-09-22 08:41:17+03,Andrey,Food
+1290,refueling,Car,365.33,Card,2024-09-21 15:45:32+03,Andrey,Transport
+1289,Wine,Personal expenses,101,Card,2024-09-21 15:45:32+03,Andrey,Personal
+1288,Souvenirs,Gifts,50,Card,2024-09-21 15:45:31+03,Andrey,Personal
+1287,Icecream,Sweets and pastries,20,Card,2024-09-21 15:45:31+03,Andrey,Food
+1286,refueling,Car,200,Card,2024-09-19 18:12:32+03,Andrey,Transport
+1285,eBook,Personal expenses,14.9,Card,2024-09-18 11:28:10+03,Andrey,Personal
+1284,Strawberries,Groceries,39,Card,2024-09-17 15:57:59+03,Andrey,Food
+1283,Shawarma,Fast food,70,Card,2024-09-17 15:57:45+03,Andrey,Food
+1282,Croissants,Sweets and pastries,29,Card,2024-09-17 08:26:02+03,Andrey,Food
+1281,Croissants,Sweets and pastries,24.71,Card,2024-09-16 08:36:06+03,Andrey,Food
+1280,Chips and Coke,Junk food,46.9,Card,2024-09-16 07:08:38+03,Andrey,Food
+1279,Pizza,Fast food,45,Card,2024-09-15 20:51:48+03,Andrey,Food
+1278,Raspberries,Groceries,29,Card,2024-09-15 20:51:47+03,Andrey,Food
+1277,Pool,Leisure and entertainment,55,Card,2024-09-14 22:14:19+03,Andrey,Personal
+1276,Parking,Car,36,Card,2024-09-13 21:39:39+03,Andrey,Transport
+1275,McDonald`s,Fast food,133,Card,2024-09-13 21:39:39+03,Andrey,Food
+1274,refueling,Car,374.4,Card,2024-09-13 21:39:38+03,Andrey,Transport
+1273,Bread and croissants,Sweets and pastries,32,Card,2024-09-13 21:39:38+03,Andrey,Food
+1272,Cocoa,Groceries,20.9,Card,2024-09-13 21:39:38+03,Andrey,Food
+1271,Flowers,Personal expenses,45,Card,2024-09-13 21:39:38+03,Andrey,Personal
+1270,Groceries,Groceries,580,Card,2024-09-11 12:35:01+03,Ekaterina,Food
+1269,Bus pass,Transport,6,Card,2024-09-09 09:57:34+03,Andrey,Transport
+1268,Croissants,Sweets and pastries,13.8,Bank,2024-09-09 09:57:33+03,Andrey,Food
+1267,Croissant,Sweets and pastries,13,Bank,2024-09-08 23:54:16+03,Andrey,Food
+1266,Sprite,Sweets and pastries,10.5,Bank,2024-09-08 23:54:16+03,Andrey,Food
+1265,Croissants,Sweets and pastries,22.5,Bank,2024-09-08 09:02:54+03,Andrey,Food
+1264,Parking,Car,210,Card,2024-09-08 08:22:22+03,Andrey,Transport
+1263,Dinner,Cafes and restaurants,136,Cash,2024-09-08 08:09:34+03,Andrey,Food
+1262,Restaurant,Cafes and restaurants,400,Cash,2024-09-07 13:12:36+03,Andrey,Food
+1261,Banana,Groceries,5,Cash,2024-09-07 13:12:35+03,Andrey,Food
+1260,Icecream,Sweets and pastries,20,Cash,2024-09-07 13:12:35+03,Andrey,Food
+1259,Bus pass,Transport,100,Card,2023-12-27 07:00:32+02,Ekaterina,Transport
+1258,Bus pass,Transport,225,Card,2024-03-01 13:30:00+02,Ekaterina,Transport
+1257,Bus pass,Transport,225,Card,2024-03-31 13:30:00+03,Ekaterina,Transport
+1256,Bus pass,Transport,225,Card,2024-04-30 13:28:00+03,Ekaterina,Transport
+1255,Bus pass,Transport,225,Card,2024-06-02 13:27:00+03,Ekaterina,Transport
+1254,Bus pass,Transport,70,Card,2024-05-17 13:26:00+03,Ekaterina,Transport
+1253,Bus pass,Transport,236,Card,2024-08-01 13:22:00+03,Ekaterina,Transport
+1252,Bus pass,Transport,236,Card,2024-08-31 13:21:00+03,Ekaterina,Transport
+1251,Sprite,Sweets and pastries,12,Cash,2024-09-04 12:20:40+03,Andrey,Food
+1250,Haircut,Personal expenses,80,Cash,2024-09-04 12:20:40+03,Andrey,Personal
+1249,Shawarma,Fast food,48,Card,2024-09-04 02:33:07+03,Andrey,Food
+1248,Nuts,Groceries,9.4,Card,2024-09-04 02:33:07+03,Andrey,Food
+1247,Groceries,Groceries,26.9,Card,2024-09-04 02:33:07+03,Andrey,Food
+1246,Kindergarten,Daycare,1050,Card,2024-08-27 11:24:00+03,Ekaterina,Kids
+1245,Electricity,Utilities,491.17,Card,2024-08-15 11:24:00+03,Ekaterina,Home
+1244,Electricity,Utilities,277.77,Card,2024-06-30 11:22:00+03,Ekaterina,Home
+1243,Electricity,Utilities,531.29,Card,2024-04-21 10:20:00+03,Ekaterina,Home
+1242,Lunch,Cafes and restaurants,55,Card,2024-09-02 14:50:24+03,Andrey,Food
+1241,Croissants,Sweets and pastries,23,Card,2024-09-01 12:34:22+03,Andrey,Food
+1240,Balloon,Other,17,Card,2024-09-01 12:20:02+03,Andrey,Kids
+1239,Building maintenance fee ,Housing,250,Bank,2024-08-05 11:35:00+03,Andrey,Home
+1238,Apartment rent,Housing,5400,Bank,2024-08-21 11:34:00+03,Andrey,Home
+1237,Appstore,Subscriptions,34.9,Card,2024-08-29 11:04:00+03,Andrey,Personal
+1236,Youtube,Subscriptions,23.9,Card,2024-08-26 11:04:00+03,Andrey,Personal
+1235,Udemy,Education,149.9,Card,2024-08-18 11:03:00+03,Andrey,Personal
+1234,Tidal,Subscriptions,21.9,Card,2024-08-10 11:02:00+03,Andrey,Personal
+1233,Chatgpt,Subscriptions,75.28,Card,2024-08-30 11:02:00+03,Andrey,Personal
+1232,Telecom,Telecoms,213.15,Card,2024-08-29 11:00:00+03,Andrey,Personal
+1231,McDonald`s,Fast food,100,Card,2024-08-16 15:53:00+03,Andrey,Food
+1230,Parking,Car,18,Card,2024-08-09 18:00:00+03,Andrey,Transport
+1229,Cupcake and soda,Sweets and pastries,30.9,Card,2024-09-01 09:24:18+03,Andrey,Food
+1228,Milk,Groceries,7.11,Card,2024-08-31 21:25:06+03,Andrey,Food
+1227,Lunch,Cafes and restaurants,145,Card,2024-08-31 18:12:37+03,Andrey,Food
+1226,Soda,Sweets and pastries,20,Card,2024-08-31 13:43:28+03,Andrey,Food
+1225,Icecream,Sweets and pastries,20,Cash,2024-08-31 13:43:28+03,Andrey,Food
+1224,Pizza,Fast food,94,Card,2024-08-31 13:43:28+03,Andrey,Food
+1223,Clothes,Clothes,667,Cash,2024-08-30 17:54:02+03,Ekaterina,Personal
+1222,Vegetables,Groceries,97,Cash,2024-08-30 17:54:02+03,Ekaterina,Food
+1221,Donuts,Sweets and pastries,27,Card,2024-08-30 17:54:02+03,Andrey,Food
+1220,Icecream,Sweets and pastries,20,Card,2024-08-30 17:54:02+03,Andrey,Food
+1219,Lunch,Cafes and restaurants,45,Card,2024-08-30 17:54:01+03,Andrey,Food
+1218,Ball for Agata,Other,20,Card,2024-08-30 17:54:01+03,Andrey,Kids
+1217,Sprite and cookies,Sweets and pastries,22.5,Card,2024-08-29 22:53:06+03,Andrey,Food
+1216,refueling,Car,250,Cash,2024-08-29 22:03:11+03,Andrey,Transport
+1215,Car service,Car,500,Cash,2024-08-29 18:13:00+03,Andrey,Transport
+1214,Still water,Groceries,7,Card,2024-08-29 14:47:56+03,Andrey,Food
+1213,Bus pass,Transport,6,Card,2024-08-29 14:47:55+03,Andrey,Transport
+1212,Salad,Groceries,40,Card,2024-08-29 10:30:53+03,Ekaterina,Food
+1211,Groceries,Groceries,317,Card,2024-08-29 10:30:53+03,Ekaterina,Food
+1210,Calendar,Household,100,Card,2024-08-28 19:01:46+03,Ekaterina,Home
+1209,Hair salon,Personal expenses,950,Card,2024-08-28 19:01:46+03,Ekaterina,Personal
+1208,Parking,Car,30,Card,2024-08-28 19:01:46+03,Andrey,Transport
+1207,Coke and Chips,Junk food,26.9,Card,2024-08-27 22:13:01+03,Andrey,Food
+1206,Groceries,Groceries,561.6,Cash,2024-08-27 22:13:01+03,Andrey,Food
+1205,Beer,Personal expenses,40,Cash,2024-08-26 22:11:27+03,Andrey,Personal
+1204,Groceries,Groceries,54,Cash,2024-08-26 22:11:27+03,Andrey,Food
+1203,Cafe,Cafes and restaurants,100,Cash,2024-08-26 22:11:26+03,Andrey,Food
+1202,Parking,Car,36,Card,2024-08-26 18:06:55+03,Andrey,Transport
+1201,Falafel,Fast food,22,Cash,2024-08-25 17:28:31+03,Andrey,Food
+1200,Household goods,Household,62.1,Cash,2024-08-25 17:28:31+03,Andrey,Home
+1199,Pet supplies,Pets,124,Card,2024-08-25 17:28:30+03,Andrey,Pets
+1198,Sweets,Sweets and pastries,42,Card,2024-08-25 14:42:49+03,Andrey,Food
+1197,Gift,Gifts,893.88,Card,2024-08-25 14:42:48+03,Andrey,Personal
+1196,Icecream,Sweets and pastries,40,Card,2024-08-25 14:42:48+03,Andrey,Food
+1195,Parking,Car,60,Card,2024-08-24 17:03:18+03,Andrey,Transport
+1194,Lunch,Cafes and restaurants,406,Card,2024-08-24 17:03:18+03,Andrey,Food
+1193,Parking,Car,28,Card,2024-08-24 17:03:18+03,Andrey,Transport
+1192,McDonald`s,Fast food,62,Card,2024-08-24 17:03:18+03,Andrey,Food
+1191,Beer,Personal expenses,40,Cash,2024-08-23 14:31:00+03,Andrey,Personal
+1190,Market,Groceries,190,Cash,2024-08-23 14:31:00+03,Ekaterina,Food
+1189,Flowers,Personal expenses,29.6,Card,2024-08-23 12:03:21+03,Andrey,Personal
+1188,Parking,Car,28,Card,2024-08-23 12:03:21+03,Andrey,Transport
+1187,Groceries,Groceries,39.27,Card,2024-08-20 22:25:00+03,Andrey,Food
+1186,Groceries,Groceries,27,Card,2024-08-20 14:40:00+03,Andrey,Food
+1185,Sprite,Sweets and pastries,12,Card,2024-08-19 14:17:00+03,Andrey,Food
+1184,refueling,Car,360.7,Card,2024-08-19 14:16:00+03,Andrey,Transport
+1183,Sprite,Sweets and pastries,15,Card,2024-08-19 12:17:13+03,Andrey,Food
+1182,Milk,Groceries,22.8,Card,2024-08-18 13:38:52+03,Andrey,Food
+1181,Croissants,Sweets and pastries,28,Card,2024-08-18 13:38:52+03,Andrey,Food
+1180,Bread,Sweets and pastries,20,Card,2024-08-18 13:38:51+03,Andrey,Food
+1179,Groceries,Groceries,18,Card,2024-08-17 22:01:00+03,Ekaterina,Food
+1178,Groceries,Groceries,12.89,Card,2024-08-17 21:29:25+03,Andrey,Food
+1177,Beer,Personal expenses,32.6,Card,2024-08-17 21:29:03+03,Andrey,Personal
+1176,Parking,Car,28,Card,2024-08-17 20:40:15+03,Andrey,Transport
+1175,Parking,Car,28,Card,2024-08-16 23:13:13+03,Andrey,Transport
+1174,Market,Groceries,350,Cash,2024-08-16 23:13:13+03,Ekaterina,Food
+1173,Parking,Car,6,Card,2024-08-16 23:13:12+03,Andrey,Transport
+1172,Bread,Sweets and pastries,21.6,Card,2024-08-16 23:13:12+03,Andrey,Food
+1171,Household goods,Household,130,Card,2024-08-16 23:13:12+03,Andrey,Home
+1170,Household goods,Household,20,Card,2024-08-16 23:13:12+03,Andrey,Home
+1169,Breakfast,Cafes and restaurants,15,Card,2024-08-16 23:13:11+03,Andrey,Food
+1168,Croissants,Sweets and pastries,19.28,Card,2024-08-15 20:00:40+03,Andrey,Food
+1167,Cake,Sweets and pastries,119,Card,2024-08-15 20:00:40+03,Ekaterina,Food
+1166,Tickets for parents,Gifts,2500,Bank,2024-08-14 16:41:20+03,Andrey,Personal
+1165,McDonald`s,Fast food,39,Card,2024-08-14 16:41:19+03,Andrey,Food
+1164,Groceries,Groceries,73,Card,2024-08-13 20:39:09+03,Ekaterina,Food
+1163,Exam,Education,362,Card,2024-08-13 20:38:59+03,Ekaterina,Personal
+1162,Groceries,Groceries,447.5,Card,2024-08-13 19:45:22+03,Andrey,Food
+1161,refueling,Car,357.99,Card,2024-08-13 17:32:30+03,Andrey,Transport
+1160,Breakfast,Cafes and restaurants,30,Card,2024-08-13 17:32:29+03,Andrey,Food
+1159,Udemy,Education,149,Card,2024-08-12 16:04:03+03,Andrey,Personal
+1158,Breakfast,Cafes and restaurants,41,Card,2024-08-12 15:56:46+03,Andrey,Food
+1157,McDonald`s,Fast food,25,Card,2024-08-11 19:27:00+03,Ekaterina,Food
+1156,Pizza,Fast food,66,Card,2024-08-11 19:26:00+03,66,Food
+1155,Milk frother,Household,177,Card,2024-08-11 19:21:11+03,Andrey,Home
+1154,Coke,Sweets and pastries,9.8,Card,2024-08-11 19:13:36+03,Andrey,Food
+1153,Groceries,Groceries,147.59,Card,2024-08-11 19:13:36+03,Andrey,Food
+1152,Concert,Leisure and entertainment,180,Card,2024-08-10 18:05:00+03,Ekaterina,Personal
+1151,Pizza,Fast food,61,Card,2024-08-10 18:04:00+03,Ekaterina,Food
+1150,Sprite,Sweets and pastries,10,Card,2024-08-10 16:34:05+03,Andrey,Food
+1149,refueling,Car,200,Card,2024-08-10 16:34:05+03,Andrey,Transport
+1148,Parking,Car,21,Card,2024-08-10 16:34:04+03,Andrey,Transport
+1147,McDonald`s,Fast food,77,Card,2024-08-09 22:11:41+03,Andrey,Food
+1146,Groceries,Groceries,200,Card,2024-08-09 18:39:36+03,Ekaterina,Food
+1145,Toy for Agata,Other,70,Card,2024-08-09 18:39:20+03,Ekaterina,Kids
+1144,Pizza,Fast food,80,Card,2024-08-09 18:38:46+03,Ekaterina,Food
+1143,Market,Groceries,200,Cash,2024-08-09 18:38:14+03,Ekaterina,Food
+1142,Groceries,Groceries,400,Card,2024-08-09 18:38:06+03,Ekaterina,Food
+1141,Parking,Car,4,Card,2024-08-09 14:01:46+03,Andrey,Transport
+1140,Beer,Personal expenses,44,Card,2024-08-09 14:01:45+03,Andrey,Personal
+1139,Household goods,Household,32,Card,2024-08-09 14:01:45+03,Andrey,Home
+1138,Household goods,Household,15,Card,2024-08-09 14:01:44+03,Andrey,Home
+1137,Household goods,Household,20,Card,2024-08-09 14:01:44+03,Andrey,Home
+1136,refueling,Car,100,Card,2024-08-08 14:06:59+03,Andrey,Transport
+1135,Lunch,Cafes and restaurants,67,Card,2024-08-08 13:28:59+03,Andrey,Food
+1134,Groceries,Groceries,31,Card,2024-08-08 09:40:11+03,Andrey,Food
+1133,Croissants,Sweets and pastries,29,Card,2024-08-08 09:40:11+03,Andrey,Food
+1132,Dinner,Cafes and restaurants,45,Card,2024-08-07 13:00:43+03,Andrey,Food
+1131,Lunch,Cafes and restaurants,56.5,Card,2024-08-07 13:00:43+03,Andrey,Food
+1130,Car service,Car,450,Cash,2024-08-07 13:00:42+03,Andrey,Transport
+1129,Breakfast,Cafes and restaurants,25,Card,2024-08-06 10:09:23+03,Andrey,Food
+1128,Bus pass,Transport,6,Card,2024-08-06 10:09:23+03,Andrey,Transport
+1127,Shawarma,Fast food,55,Card,2024-08-05 13:28:00+03,Andrey,Food
+1126,Milk,Groceries,14.22,Card,2024-08-05 09:08:09+03,Andrey,Food
+1125,Sprite,Sweets and pastries,12,Card,2024-08-05 09:08:09+03,Andrey,Food
+1124,Croissants,Sweets and pastries,21.6,Card,2024-08-05 09:08:09+03,Andrey,Food
+1123,Bread,Sweets and pastries,15,Card,2024-08-05 09:08:09+03,Andrey,Food
+1122,Udemy,Education,89.9,Card,2024-08-05 07:14:00+03,Andrey,Personal
+1121,eBook,Personal expenses,14.9,Card,2024-08-04 21:33:33+03,Andrey,Personal
+1120,Parking,Car,55,Card,2024-08-04 13:59:00+03,Andrey,Transport
+1119,VPN,Telecoms,300,Card,2024-08-03 14:19:00+03,Andrey,Personal
+1118,Lunch,Cafes and restaurants,61,Card,2024-08-03 14:19:00+03,Andrey,Food
+1117,Groceries,Groceries,58.2,Card,2024-08-02 21:08:31+03,Andrey,Food
+1116,Parking,Car,24,Card,2024-08-02 21:08:20+03,Andrey,Transport
+1115,McDonald`s,Fast food,52,Card,2024-08-02 21:08:07+03,Andrey,Food
+1114,Building maintenance fee ,Housing,250,Bank,2024-06-05 20:49:00+03,Andrey,Home
+1113,Health insurance,Health and beauty,155.41,Bank,2024-07-05 20:42:00+03,Andrey,Personal
+1112,Health insurance,Health and beauty,155,Bank,2024-06-05 20:41:00+03,Andrey,Personal
+1111,Kindergarten,Daycare,3121,Bank,2024-06-05 20:39:00+03,Andrey,Kids
+1110,Kindergarten,Daycare,3121,Bank,2024-07-08 20:39:00+03,Andrey,Kids
+1109,Apartment rent,Housing,5400,Bank,2024-07-17 20:36:00+03,Andrey,Home
+1108,Youtube,Subscriptions,23.9,Card,2024-07-25 20:35:00+03,Andrey,Personal
+1107,Tidal,Subscriptions,21.9,Card,2024-07-14 20:35:00+03,Andrey,Personal
+1106,Chatgpt,Subscriptions,76.68,Card,2024-07-30 20:35:00+03,Andrey,Personal
+1105,Telecom,Telecoms,209.68,Card,2024-07-29 20:33:00+03,Andrey,Personal
+1104,Water supply,Utilities,249.7,Card,2024-07-21 20:26:00+03,Andrey,Home
+1102,Udemy,Education,189.8,Card,2024-06-18 20:04:00+03,Andrey,Personal
+1101,Tidal,Subscriptions,15.9,Card,2024-07-03 20:03:00+03,Andrey,Personal
+1100,Youtube,Subscriptions,23.9,Card,2024-06-26 20:03:00+03,Andrey,Personal
+1099,Tidal,Subscriptions,21.9,Card,2024-06-16 20:02:00+03,Andrey,Personal
+1098,Chatgpt,Subscriptions,77.21,Card,2024-06-30 20:01:00+03,Andrey,Personal
+1097,Pharmacy,Health and beauty,50,Card,2024-08-01 19:27:00+03,Ekaterina,Personal
+1096,Bread,Sweets and pastries,28,Card,2024-08-01 19:27:00+03,Ekaterina,Food
+1095,Clothes,Clothes,320,Card,2024-08-01 19:27:00+03,Ekaterina,Personal
+1094,Groceries,Groceries,354,Card,2024-08-01 16:00:00+03,Andrey,Food
+1093,Groceries,Groceries,67.18,Card,2024-07-31 20:24:00+03,Andrey,Food
+1092,refueling,Car,395,Card,2024-07-31 05:25:00+03,Andrey,Transport
+1091,Bread,Sweets and pastries,32,Card,2024-07-29 22:29:34+03,Ekaterina,Food
+1090,Parking,Car,13,Card,2024-07-29 22:29:24+03,Andrey,Transport
+1089,Groceries,Groceries,120,Card,2024-07-28 22:02:00+03,Ekaterina,Food
+1088,Groceries,Groceries,575,Cash,2024-07-28 22:02:00+03,Ekaterina,Food
+1087,Cat food,Pets,170,Card,2024-07-28 22:01:55+03,Andrey,Pets
+1086,Nuts,Groceries,115.98,Card,2024-07-28 19:49:19+03,Andrey,Food
+1085,Spare parts,Car,210,Card,2024-07-28 18:46:33+03,Andrey,Transport
+1084,Haircut,Personal expenses,70,Card,2024-07-28 18:46:33+03,Andrey,Personal
+1083,Car wash,Car,105,Card,2024-07-28 18:46:33+03,Andrey,Transport
+1082,Breakfast,Cafes and restaurants,40,Card,2024-07-28 18:46:33+03,Andrey,Food
+1081,Beach,Leisure and entertainment,350,Card,2024-07-27 21:14:41+03,Ekaterina,Personal
+1080,Groceries,Groceries,250,Card,2024-07-27 21:14:41+03,Ekaterina,Food
+1079,Pet supplies,Pets,42,Cash,2024-07-27 21:14:41+03,Ekaterina,Pets
+1078,Groceries,Groceries,280,Card,2024-07-27 21:08:20+03,Ekaterina,Food
+1077,McDonald`s,Fast food,62,Card,2024-07-27 21:08:20+03,Andrey,Food
+1076,Rides,Leisure and entertainment,10,Card,2024-07-27 21:08:19+03,Andrey,Personal
+1075,Photos,Leisure and entertainment,20,Card,2024-07-27 21:08:19+03,Andrey,Personal
+1074,Groceries,Groceries,142,Card,2024-07-27 14:22:16+03,Andrey,Food
+1073,Groceries,Groceries,42,Card,2024-07-27 14:21:59+03,Andrey,Food
+1072,refueling,Car,376.33,Card,2024-07-23 03:14:40+03,Andrey,Transport
+1071,Sprite,Sweets and pastries,12,Card,2024-07-21 11:17:39+03,Andrey,Food
+1070,Croissants,Sweets and pastries,31,Card,2024-07-21 11:17:38+03,Andrey,Food
+1069,Pharmacy,Health and beauty,65,Card,2024-07-20 13:26:00+03,Ekaterina,Personal
+1068,Groceries,Groceries,500,Card,2024-07-18 09:25:00+03,Ekaterina,Food
+1067,Parking,Car,60,Card,2024-07-20 15:14:57+03,Andrey,Transport
+1066,Kfc,Fast food,182,Card,2024-07-20 15:14:57+03,Andrey,Food
+1065,Parking,Car,45,Card,2024-07-19 22:45:51+03,Andrey,Transport
+1064,Dinner,Cafes and restaurants,300,Card,2024-07-19 22:45:51+03,Andrey,Food
+1063,Pastries and Sprite,Sweets and pastries,21.84,Card,2024-07-19 22:45:50+03,Andrey,Food
+1062,Parking,Car,50,Card,2024-07-19 04:37:10+03,Andrey,Transport
+1061,Dinner,Cafes and restaurants,119,Card,2024-07-17 21:10:23+03,Andrey,Food
+1060,Parking,Car,21,Card,2024-07-17 21:10:23+03,Andrey,Transport
+1059,Shawarma,Fast food,98,Card,2024-07-17 21:10:23+03,Andrey,Food
+1058,Groceries,Groceries,145.44,Card,2024-07-17 21:10:22+03,Andrey,Food
+1057,refueling,Car,363.79,Card,2024-07-17 21:10:22+03,Andrey,Transport
+1056,ice cream,Sweets and pastries,40,Card,2024-07-16 22:05:31+03,Andrey,Food
+1055,ice cream,Sweets and pastries,70,Card,2024-07-16 22:05:31+03,Andrey,Food
+1054,Sprite,Sweets and pastries,10.3,Card,2024-07-16 22:05:30+03,Andrey,Food
+1053,Parking,Car,21,Card,2024-07-16 22:05:30+03,Andrey,Transport
+1052,Parking,Car,15,Card,2024-07-15 21:49:57+03,Andrey,Transport
+1051,Alcohol,Leisure and entertainment,300,Cash,2024-07-15 21:49:57+03,Andrey,Personal
+1050,Decathlon,Health and beauty,190,Card,2024-07-15 17:03:16+03,Ekaterina,Personal
+1049,Market,Groceries,120,Cash,2024-07-14 20:27:46+03,Ekaterina,Food
+1048,Groceries,Groceries,125,Card,2024-07-14 20:27:19+03,Ekaterina,Food
+1047,Parking,Car,4,Card,2024-07-14 18:41:40+03,Andrey,Transport
+1046,Breakfast,Cafes and restaurants,20,Card,2024-07-14 18:41:40+03,Andrey,Food
+1045,Sushi,Cafes and restaurants,197,Card,2024-07-13 22:22:45+03,Andrey,Food
+1044,Groceries,Groceries,118,Card,2024-07-13 18:59:40+03,Andrey,Food
+1043,Sunbeds,Leisure and entertainment,36,Cash,2024-07-13 13:29:00+03,Ekaterina,Personal
+1042,Pizza,Fast food,72,Card,2024-07-13 13:28:31+03,Andrey,Food
+1041,Parking,Car,70,Card,2024-07-13 13:28:30+03,Andrey,Transport
+1040,Beer and chips,Junk food,100,Card,2024-07-12 21:52:10+03,Andrey,Food
+1039,Snack,Fast food,50,Card,2024-07-12 17:39:18+03,Ekaterina,Food
+1038,IKEA,Household,260,Card,2024-07-12 17:38:42+03,Ekaterina,Home
+1037,refueling,Car,411,Card,2024-07-12 12:47:29+03,Andrey,Transport
+1036,Croissants and bread,Sweets and pastries,39,Card,2024-07-11 13:46:02+03,Andrey,Food
+1035,Concert tickets,Leisure and entertainment,180,Card,2024-07-11 13:45:40+03,Ekaterina,Personal
+1034,Taxi,Transport,120,Card,2024-07-10 07:45:50+03,Ekaterina,Transport
+1033,Groceries,Groceries,350,Card,2024-07-10 07:45:50+03,Ekaterina,Food
+1032,refueling,Car,100,Card,2024-07-10 07:45:50+03,Andrey,Transport
+1031,Haircut,Personal expenses,80,Card,2024-07-10 07:45:49+03,Andrey,Personal
+1030,Croissants,Sweets and pastries,17.5,Card,2024-07-09 11:03:18+03,Andrey,Food
+1029,Groceries,Groceries,67,Card,2024-07-08 13:48:54+03,Andrey,Food
+1028,Shawarma,Fast food,55,Card,2024-07-08 13:48:54+03,Andrey,Food
+1027,Bus pass,Transport,6,Card,2024-07-07 12:42:55+03,Andrey,Transport
+1026,Pool,Leisure and entertainment,400,Card,2024-07-07 12:42:55+03,Andrey,Personal
+1025,Bread,Sweets and pastries,8,Card,2024-07-07 12:42:55+03,Andrey,Food
+1024,Coffee and Croissants,Sweets and pastries,28.9,Card,2024-07-07 12:42:54+03,Andrey,Food
+1023,Pizza,Fast food,90,Card,2024-07-06 20:41:23+03,Ekaterina,Food
+1022,Hebrew,Education,3650,Bank,2024-06-19 20:40:00+03,Ekaterina,Personal
+1021,Hebrew,Education,1065,Bank,2024-06-20 20:36:00+03,Andrey,Personal
+1020,Apartment rent,Housing,5400,Bank,2024-06-20 20:35:00+03,Andrey,Home
+1019,Building maintenance fee ,Housing,250,Bank,2024-07-04 20:33:00+03,Andrey,Home
+1018,Telecom,Telecoms,194.8,Card,2024-06-30 20:30:00+03,Andrey,Personal
+1017,Gas,Utilities,51.49,Card,2024-06-27 20:28:00+03,Andrey,Home
+1016,Car insurance,Car,199.59,Card,2024-06-26 20:23:00+03,Andrey,Transport
+1015,refueling,Car,100,Card,2024-07-06 13:57:52+03,Andrey,Transport
+1014,Parking,Car,55,Card,2024-07-06 13:57:52+03,Andrey,Transport
+1013,Groceries,Groceries,160,Card,2024-07-05 22:58:50+03,Ekaterina,Food
+1012,McDonald`s,Fast food,128,Card,2024-07-05 21:57:51+03,Andrey,Food
+1011,Groceries,Groceries,120,Card,2024-07-05 14:13:30+03,Ekaterina,Food
+1010,Market,Groceries,200,Cash,2024-07-05 14:13:13+03,Ekaterina,Food
+1009,Alcohol,Leisure and entertainment,300,Cash,2024-07-05 13:15:20+03,Andrey,Personal
+1008,refueling,Car,200,Card,2024-07-03 18:23:29+03,Andrey,Transport
+1007,Bamba and soda,Sweets and pastries,13,Card,2024-07-02 20:08:15+03,Andrey,Food
+1006,Sweets,Sweets and pastries,60,Card,2024-06-29 17:32:01+03,Ekaterina,Food
+1005,Market,Groceries,200,Cash,2024-06-29 17:31:50+03,Ekaterina,Food
+1004,Parking,Car,75,Card,2024-06-29 14:19:46+03,Andrey,Transport
+1003,Kfc,Fast food,62,Card,2024-06-29 14:19:45+03,Andrey,Food
+1002,Fruits beach,Cafes and restaurants,75,Card,2024-06-29 14:19:45+03,Andrey,Food
+1001,Parking,Car,18,Card,2024-06-28 21:19:02+03,Andrey,Transport
+1000,refueling,Car,200,Card,2024-06-28 21:19:02+03,Andrey,Transport
+999,Still water,Groceries,13,Card,2024-06-28 14:58:08+03,Andrey,Food
+998,Groceries,Groceries,450,Card,2024-06-26 07:09:33+03,Ekaterina,Food
+997,Croissants,Sweets and pastries,21.7,Card,2024-06-25 11:17:54+03,Andrey,Food
+996,Croissants,Sweets and pastries,15,Card,2024-06-23 13:09:19+03,Andrey,Food
+995,Bread,Sweets and pastries,10,Card,2024-06-23 13:09:18+03,Andrey,Food
+994,Cleaning supplies,Household,85,Card,2024-06-23 13:09:18+03,Ekaterina,Home
+993,Groceries,Groceries,136,Card,2024-06-22 12:42:00+03,Ekaterina,Food
+992,Alcohol,Leisure and entertainment,300,Cash,2024-06-21 13:50:03+03,Andrey,Personal
+991,Icecream,Sweets and pastries,50.2,Card,2024-06-21 13:50:03+03,Andrey,Food
+990,Notary,Personal expenses,492,Cash,2024-06-19 17:00:00+03,Ekaterina,Personal
+989,Groceries,Groceries,270.55,Card,2024-06-18 22:51:35+03,Andrey,Food
+988,ice cream,Sweets and pastries,10.9,Card,2024-06-18 16:47:25+03,Andrey,Food
+987,Croissants and water,Sweets and pastries,34,Card,2024-06-18 16:47:25+03,Andrey,Food
+986,refueling,Car,380,Card,2024-06-18 16:47:24+03,Andrey,Transport
+985,Bread,Sweets and pastries,41,Card,2024-06-18 16:47:24+03,Ekaterina,Food
+984,Diapers,Other,140,Card,2024-06-18 16:47:24+03,Ekaterina,Kids
+983,Udemy,Education,200,Card,2024-06-16 21:45:57+03,Andrey,Personal
+982,Groceries,Groceries,120,Card,2024-06-16 20:18:44+03,Andrey,Food
+981,Parking,Car,60,Card,2024-06-15 18:12:34+03,Andrey,Transport
+980,ice cream,Sweets and pastries,161,Card,2024-06-14 21:45:22+03,Andrey,Food
+979,Groceries,Groceries,382,Card,2024-06-14 14:24:18+03,Andrey,Food
+978,Litter,Pets,84.9,Card,2024-06-14 14:24:17+03,Andrey,Pets
+977,Groceries,Groceries,23.9,Card,2024-06-13 12:22:14+03,Andrey,Food
+976,Lunch,Cafes and restaurants,45,Card,2024-06-13 12:22:13+03,Andrey,Food
+975,Property tax (Arnona),Housing,1079,Card,2024-06-13 12:22:13+03,Andrey,Home
+974,McDonald`s,Fast food,101,Card,2024-06-12 22:29:48+03,Andrey,Food
+973,Parking,Car,18,Card,2024-06-12 22:29:04+03,Andrey,Transport
+972,Balloons,Other,17,Card,2024-06-12 13:53:08+03,Andrey,Kids
+971,Medicine drops,Health and beauty,42,Card,2024-06-12 13:53:08+03,Ekaterina,Personal
+970,Rides,Leisure and entertainment,5,Card,2024-06-12 13:53:08+03,Andrey,Personal
+969,ice cream,Sweets and pastries,30,Card,2024-06-12 13:53:07+03,Ekaterina,Food
+968,Market,Groceries,300,Cash,2024-06-12 13:53:07+03,Ekaterina,Food
+967,refueling,Car,378,Card,2024-06-12 13:53:07+03,Andrey,Transport
+966,Nuts,Groceries,73.32,Card,2024-06-11 14:13:30+03,Andrey,Food
+965,Alcohol,Leisure and entertainment,350,Cash,2024-06-11 14:13:29+03,Andrey,Personal
+964,Pizza,Fast food,99,Card,2024-06-11 13:11:55+03,Andrey,Food
+963,Clothes for Agata,Clothes,249,Card,2024-06-11 13:11:55+03,Andrey,Kids
+962,Household goods,Household,50,Card,2024-06-11 13:11:54+03,Ekaterina,Home
+961,Cat food,Pets,84,Card,2024-06-11 13:11:54+03,Ekaterina,Pets
+960,Groceries,Groceries,400,Card,2024-06-11 13:11:54+03,Ekaterina,Food
+959,Milk,Groceries,9.7,Card,2024-06-09 09:45:14+03,Andrey,Food
+958,Bread and croissants,Sweets and pastries,37,Card,2024-06-09 09:45:13+03,Andrey,Food
+957,Bread,Sweets and pastries,17,Card,2024-06-08 23:11:44+03,Andrey,Food
+956,Groceries,Groceries,170,Card,2024-06-08 23:11:43+03,Andrey,Food
+955,Parking,Car,90,Card,2024-06-08 15:04:43+03,Andrey,Transport
+954,McDonald`s,Fast food,162,Card,2024-06-08 15:04:43+03,Andrey,Food
+953,Sprite and Chocolate,Sweets and pastries,22.5,Card,2024-06-07 16:41:00+03,Andrey,Food
+952,refueling,Car,200,Card,2024-06-07 16:40:59+03,Andrey,Transport
+951,Toys for Agata,Other,100,Card,2024-06-05 22:33:54+03,Ekaterina,Kids
+950,Parking,Car,55,Card,2024-06-03 23:07:17+03,Ekaterina,Transport
+949,ice cream,Sweets and pastries,80,Card,2024-06-03 23:07:17+03,Ekaterina,Food
+948,Croissants,Sweets and pastries,11,Card,2024-06-03 23:07:17+03,Andrey,Food
+947,Cocktail,Sweets and pastries,11.9,Card,2024-06-02 22:02:33+03,Andrey,Food
+946,Clothes,Clothes,225,Card,2024-06-02 22:02:33+03,Ekaterina,Personal
+945,Medicine,Health and beauty,26,Card,2024-06-02 22:02:32+03,Ekaterina,Personal
+944,Bus pass,Transport,225,Card,2024-06-30 22:02:32+03,Ekaterina,Transport
+943,Appstore,Subscriptions,33.8,Card,2024-05-27 16:30:00+03,Andrey,Personal
+942,Telecom,Telecoms,194.8,Card,2024-05-30 16:27:00+03,Andrey,Personal
+941,Car insurance,Car,199.22,Card,2024-05-23 16:25:00+03,Andrey,Transport
+940,Water supply,Utilities,223.56,Card,2024-05-24 16:19:00+03,Andrey,Home
+939,Ulpan,Education,1065,Bank,2024-05-21 16:01:00+03,Andrey,Personal
+938,Apartment rent,Housing,5400,Bank,2024-05-16 16:00:00+03,Andrey,Home
+937,Parking,Car,70,Card,2024-06-01 14:54:14+03,Andrey,Transport
+936,Pizza,Fast food,74,Card,2024-06-01 14:22:22+03,Andrey,Food
+935,Swim trunks,Leisure and entertainment,70,Card,2024-06-01 13:01:51+03,Andrey,Personal
+934,Icecream,Sweets and pastries,90,Card,2024-06-01 11:52:25+03,Andrey,Food
+933,Groceries,Groceries,79.1,Card,2024-05-31 21:43:12+03,Andrey,Food
+932,Parking,Car,21,Card,2024-05-31 21:02:22+03,Andrey,Transport
+931,McDonald`s,Fast food,111,Card,2024-05-31 20:34:20+03,Andrey,Food
+930,Market,Groceries,150,Cash,2024-05-31 14:18:31+03,Ekaterina,Food
+929,Flowers,Personal expenses,110,Card,2024-05-31 14:18:15+03,Ekaterina,Personal
+928,Parking,Car,4,Card,2024-05-31 14:16:07+03,Andrey,Transport
+927,Beer,Personal expenses,30,Card,2024-05-31 14:06:42+03,Andrey,Personal
+926,Cigarette lighter,Personal expenses,20,Card,2024-05-31 13:49:46+03,Andrey,Personal
+925,Buns,Sweets and pastries,12,Card,2024-05-31 13:38:34+03,Andrey,Food
+924,refueling,Car,407.63,Card,2024-05-31 13:07:55+03,Andrey,Transport
+923,Clothes,Clothes,39.8,Card,2024-05-31 12:04:32+03,Andrey,Personal
+922,Sprite and Chocolate,Sweets and pastries,23.9,Card,2024-05-31 10:25:10+03,Andrey,Food
+921,Alcohol,Leisure and entertainment,300,Crypto,2024-05-30 13:01:22+03,Andrey,Personal
+920,Groceries,Groceries,550,Card,2024-05-30 07:10:08+03,Ekaterina,Food
+919,Shawarma,Fast food,60,Card,2024-05-28 12:42:17+03,Andrey,Food
+918,Groceries,Groceries,49,Card,2024-05-28 12:35:06+03,Andrey,Food
+917,Cookies and Sprite,Sweets and pastries,23,Card,2024-05-28 08:48:26+03,Andrey,Food
+916,Croissants,Sweets and pastries,19.65,Card,2024-05-28 08:44:51+03,Andrey,Food
+915,Groceries,Groceries,111,Card,2024-05-28 08:44:50+03,Ekaterina,Food
+914,Market,Groceries,320,Card,2024-05-28 08:44:50+03,Ekaterina,Food
+913,Still water,Groceries,16.9,Card,2024-05-26 20:44:24+03,Andrey,Food
+912,Croissants,Sweets and pastries,25.5,Card,2024-05-26 09:39:04+03,Andrey,Food
+911,Perfume,Health and beauty,164,Card,2024-05-26 09:39:03+03,Ekaterina,Personal
+910,eBook,Personal expenses,9.9,Card,2024-05-26 07:37:42+03,Andrey,Personal
+909,refueling,Car,200,Card,2024-05-25 22:17:57+03,Andrey,Transport
+908,Parking,Car,50,Card,2024-05-25 16:39:24+03,Andrey,Transport
+907,Parking,Car,24,Card,2024-05-24 22:32:44+03,Andrey,Transport
+906,McDonald`s,Fast food,67,Card,2024-05-24 22:32:44+03,Andrey,Food
+905,Pharmacy,Health and beauty,400,Card,2024-05-24 05:13:09+03,Ekaterina,Personal
+904,Groceries,Groceries,200,Card,2024-05-24 05:13:08+03,Ekaterina,Food
+903,Croissants,Sweets and pastries,42.2,Card,2024-05-24 05:13:08+03,Andrey,Food
+902,Alcohol,Leisure and entertainment,350,Crypto,2024-05-23 17:16:30+03,Andrey,Personal
+901,chocolate,Sweets and pastries,2.5,Card,2024-05-23 17:16:30+03,Andrey,Food
+900,Home goods,Household,105,Card,2024-05-22 18:01:44+03,Ekaterina,Home
+899,Groceries,Groceries,400,Card,2024-05-22 16:42:13+03,Ekaterina,Food
+898,refueling,Car,200,Card,2024-05-22 16:41:16+03,Andrey,Transport
+897,Icecream,Sweets and pastries,37.9,Card,2024-05-21 20:44:59+03,Andrey,Food
+896,chocolate,Sweets and pastries,5,Card,2024-05-21 18:55:21+03,Andrey,Food
+895,Breakfast,Cafes and restaurants,13.9,Card,2024-05-21 05:27:22+03,Andrey,Food
+894,Chips,Junk food,27.7,Card,2024-05-21 05:12:00+03,Andrey,Food
+893,Diapers,Other,40.1,Card,2024-05-21 05:12:00+03,Andrey,Kids
+892,Still water,Groceries,22,Card,2024-05-19 21:41:16+03,Andrey,Food
+891,Parking,Car,25,Card,2024-05-19 21:41:15+03,Andrey,Transport
+890,Rides,Leisure and entertainment,5,Card,2024-05-19 21:41:15+03,Andrey,Personal
+889,Dinner,Cafes and restaurants,300,Cash,2024-05-19 21:41:14+03,Andrey,Food
+888,chocolate,Sweets and pastries,8.4,Card,2024-05-19 17:18:56+03,Andrey,Food
+887,Parking,Car,21,Card,2024-05-19 05:09:06+03,Andrey,Transport
+886,Sprite,Sweets and pastries,17,Card,2024-05-19 05:09:05+03,Andrey,Food
+885,McDonald`s,Fast food,124,Card,2024-05-19 05:09:05+03,Andrey,Food
+884,Icecream,Sweets and pastries,24.9,Card,2024-05-17 16:35:15+03,Andrey,Food
+883,Hairspray,Health and beauty,24,Card,2024-05-17 16:35:15+03,Andrey,Personal
+882,Market,Groceries,200,Cash,2024-05-17 14:28:52+03,Andrey,Food
+881,Bus pass,Transport,75,Card,2024-05-17 14:28:20+03,Andrey,Transport
+880,Groceries,Groceries,117,Card,2024-05-17 14:21:39+03,Ekaterina,Food
+879,Parking,Car,2.45,Card,2024-05-17 13:57:52+03,Andrey,Transport
+878,Groceries,Groceries,44.3,Card,2024-05-16 13:24:14+03,Andrey,Food
+877,Haircut,Personal expenses,70,Card,2024-05-16 13:20:29+03,Andrey,Personal
+876,Groceries,Groceries,200,Card,2024-05-16 10:12:58+03,Ekaterina,Food
+875,Hair salon,Personal expenses,350,Card,2024-05-16 10:12:58+03,Ekaterina,Personal
+874,Falafel,Fast food,37,Card,2024-05-15 13:43:32+03,Andrey,Food
+873,Bread,Sweets and pastries,27.5,Card,2024-05-15 10:27:38+03,Andrey,Food
+872,Parking,Car,36,Card,2024-05-14 12:54:36+03,Andrey,Transport
+871,Snack,Fast food,123,Card,2024-05-14 11:29:31+03,Andrey,Food
+870,Groceries,Groceries,220,Card,2024-05-13 14:10:00+03,Ekaterina,Food
+869,Icecream,Sweets and pastries,6.2,Card,2024-05-13 13:49:55+03,Andrey,Food
+868,Pastries,Sweets and pastries,17.11,Card,2024-05-13 13:41:43+03,Andrey,Food
+867,Groceries,Groceries,35.3,Card,2024-05-12 14:21:58+03,Andrey,Food
+866,Shawarma,Fast food,59,Card,2024-05-12 13:20:15+03,Andrey,Food
+865,Lunch,Cafes and restaurants,155,Card,2024-05-11 15:04:12+03,Andrey,Food
+864,Parking,Car,75,Card,2024-05-11 15:04:11+03,Andrey,Transport
+863,Beach,Leisure and entertainment,24,Card,2024-05-11 15:04:11+03,Andrey,Personal
+862,Dinner,Cafes and restaurants,217,Card,2024-05-10 19:46:58+03,Andrey,Food
+861,Groceries,Groceries,54,Card,2024-05-10 15:49:42+03,Andrey,Food
+860,Youtube,Subscriptions,23.9,Card,2024-04-26 15:19:00+03,Andrey,Personal
+859,Gas,Utilities,63.29,Card,2024-04-30 15:15:00+03,Andrey,Home
+858,Telecom,Telecoms,194.8,Card,2024-04-28 15:10:00+03,Andrey,Personal
+857,Car insurance,Car,197.55,Card,2024-04-25 15:06:00+03,Andrey,Transport
+856,Kindergarten,Daycare,3161,Bank,2024-05-08 14:59:00+03,Andrey,Kids
+855,Building maintenance fee ,Housing,250,Bank,2024-05-06 14:59:00+03,Andrey,Home
+854,Health insurance,Health and beauty,185.81,Bank,2024-05-05 14:57:00+03,Andrey,Personal
+853,Ulpan,Education,1065,Bank,2024-04-21 14:57:00+03,Andrey,Personal
+852,Apartment rent,Housing,5400,Bank,2024-04-15 14:55:00+03,Andrey,Home
+851,refueling,Car,400,Card,2024-05-10 14:32:27+03,Andrey,Transport
+850,chocolate,Sweets and pastries,8.4,Card,2024-05-08 21:09:10+03,Andrey,Food
+849,ice cream,Sweets and pastries,20,Card,2024-05-08 21:08:30+03,Andrey,Food
+847,Groceries,Groceries,205.3,Card,2024-05-07 20:25:20+03,Andrey,Food
+846,Hod Dog and Sprite,Sweets and pastries,20,Card,2024-05-07 20:25:20+03,Andrey,Food
+845,Rides,Leisure and entertainment,5,Card,2024-05-06 20:01:08+03,Andrey,Personal
+844,ice cream,Sweets and pastries,13,Card,2024-05-06 20:01:08+03,Andrey,Food
+843,Croissants,Sweets and pastries,13,Card,2024-05-06 20:01:07+03,Andrey,Food
+842,Car wash,Car,120,Card,2024-05-05 18:09:32+03,Andrey,Transport
+841,Pastry and coffee,Sweets and pastries,35,Cash,2024-05-05 18:09:32+03,Andrey,Food
+832,Salad,Groceries,11,Cash,2024-05-03 19:43:00+03,Ekaterina,Food
+830,Groceries,Groceries,373,Cash,2024-05-03 11:49:05+03,Ekaterina,Food
+829,Rope,Household,26,Cash,2024-05-03 10:46:11+03,Ekaterina,Home
+828,Pizza,Fast food,120,Card,2024-05-03 10:45:51+03,Ekaterina,Food
+827,Bread,Sweets and pastries,25,Cash,2024-05-03 10:45:17+03,Ekaterina,Food
+826,Flowers,Personal expenses,30,Cash,2024-05-03 10:43:54+03,Ekaterina,Personal
+825,IKEA,Household,820,Cash,2024-05-03 10:43:38+03,Ekaterina,Home
+824,Groceries,Groceries,145.5,Card,2024-05-02 02:31:32+03,Andrey,Food
+823,Dishes,Household,178,Card,2024-05-02 02:31:02+03,Ekaterina,Home
+822,Groceries,Groceries,238,Cash,2024-05-02 02:31:02+03,Ekaterina,Food
+821,Burger,Cafes and restaurants,65,Card,2024-05-02 02:31:02+03,Andrey,Food
+820,Sprite,Sweets and pastries,8.8,Card,2024-05-02 02:31:01+03,Andrey,Food
+819,Sprite and croissants,Sweets and pastries,45,Card,2024-04-30 11:56:58+03,Andrey,Food
+818,Passport fee,Personal expenses,140,Card,2024-04-30 00:47:53+03,Andrey,Personal
+817,Passport fee,Personal expenses,270,Card,2024-04-30 00:47:53+03,Andrey,Personal
+816,Passport fee,Personal expenses,270,Card,2024-04-30 00:47:52+03,Andrey,Personal
+815,Groceries,Groceries,52.49,Card,2024-04-29 21:50:51+03,Andrey,Food
+814,Pharmacy,Health and beauty,78,Card,2024-04-29 21:15:17+03,Andrey,Personal
+813,Alcohol,Personal expenses,376,Card,2024-04-29 21:15:04+03,Andrey,Personal
+812,Sweets,Sweets and pastries,20,Card,2024-04-29 15:39:51+03,Andrey,Food
+811,Cigarettes,Personal expenses,45,Card,2024-04-29 15:39:51+03,Andrey,Personal
+810,Parking,Car,25,Card,2024-04-29 15:39:51+03,Andrey,Transport
+809,Beach umbrella,Leisure and entertainment,16,Card,2024-04-29 13:10:14+03,Andrey,Personal
+808,Pizza,Fast food,95,Card,2024-04-28 14:18:18+03,Andrey,Food
+807,refueling,Car,385.39,Card,2024-04-28 13:44:15+03,Andrey,Transport
+806,Charcoal,Leisure and entertainment,37,Card,2024-04-28 13:44:14+03,Ekaterina,Personal
+805,Fruits,Groceries,96,Card,2024-04-28 13:44:14+03,Ekaterina,Food
+804,Coke,Sweets and pastries,6,Card,2024-04-28 13:44:14+03,Andrey,Food
+803,IKEA,Household,932,Card,2024-04-28 13:44:13+03,Andrey,Home
+802,Sweets,Sweets and pastries,57,Card,2024-04-27 14:49:25+03,Ekaterina,Food
+801,Market,Groceries,280,Cash,2024-04-26 14:17:28+03,Ekaterina,Food
+800,Remote,Household,57.9,Card,2024-04-25 20:52:48+03,Andrey,Home
+799,Fruits,Groceries,60.8,Card,2024-04-24 20:49:16+03,Andrey,Food
+798,Groceries,Groceries,392.58,Card,2024-04-24 20:49:16+03,Andrey,Food
+797,Lunch,Cafes and restaurants,12.55,Card,2024-04-24 20:49:15+03,Andrey,Food
+796,Groceries,Groceries,37.88,Card,2024-04-23 20:41:04+03,Andrey,Food
+795,Lunch,Cafes and restaurants,107,Card,2024-04-23 14:13:05+03,Andrey,Food
+794,Alcohol,Leisure and entertainment,302,crypto,2024-04-22 22:30:51+03,Andrey,Personal
+793,Diapers,Other,57.8,Card,2024-04-22 11:23:28+03,Andrey,Kids
+792,Pharmacy,Health and beauty,56.72,Card,2024-04-22 11:23:02+03,Andrey,Personal
+791,ice cream,Sweets and pastries,49,Card,2024-04-21 15:01:29+03,Andrey,Food
+790,Still water,Groceries,20,Card,2024-04-21 15:01:29+03,Andrey,Food
+789,Groceries,Groceries,169.73,Card,2024-04-21 09:37:07+03,Andrey,Food
+788,Croissants,Sweets and pastries,16.35,Card,2024-04-21 09:37:06+03,Andrey,Food
+787,Lunch,Cafes and restaurants,138,Card,2024-04-21 09:37:06+03,Andrey,Food
+786,Icecream,Sweets and pastries,12,Card,2024-04-21 09:37:05+03,Andrey,Food
+785,Soda,Sweets and pastries,39,Card,2024-04-19 19:36:13+03,Ekaterina,Food
+784,Fruits,Groceries,300,Cash,2024-04-19 19:36:02+03,Ekaterina,Food
+783,Falafel,Fast food,32,Card,2024-04-19 13:51:29+03,Andrey,Food
+782,Groceries,Groceries,30.81,Card,2024-04-19 13:51:21+03,Andrey,Food
+781,Shawarma,Fast food,49,Card,2024-04-17 12:38:54+03,Andrey,Food
+780,refueling,Car,308.86,Card,2024-04-17 12:22:00+03,Andrey,Transport
+779,Alcohol,Leisure and entertainment,297.69,crypto,2024-04-15 10:50:00+03,Andrey,Personal
+778,Donuts,Sweets and pastries,33,Card,2024-04-15 14:39:33+03,Andrey,Food
+777,Haircut,Personal expenses,70,Card,2024-04-15 14:34:33+03,Andrey,Personal
+776,Bread,Sweets and pastries,9,Card,2024-04-15 11:03:33+03,Andrey,Food
+775,Cookies,Sweets and pastries,45,Card,2024-04-15 10:53:33+03,Andrey,Food
+774,Pizza,Fast food,14.69,Card,2024-04-13 13:16:08+03,Andrey,Food
+773,Burger,Cafes and restaurants,75,Card,2024-04-13 12:51:08+03,Andrey,Food
+772,Ice Cream and Chips,Junk food,21,Card,2024-04-13 12:50:08+03,Andrey,Food
+771,Market,Groceries,200,Card,2024-04-12 12:59:00+03,Ekaterina,Food
+770,Speakers,Household,3200,Card,2024-04-10 18:00:00+03,Ekaterina,Home
+769,Parking,Car,42,Card,2024-04-10 17:00:00+03,Andrey,Transport
+768,Croissants,Sweets and pastries,13.2,Card,2024-04-10 15:45:00+03,Andrey,Food
+767,Gas,Utilities,17.6,Card,2023-06-29 12:00:00+03,Andrey,Home
+766,Water supply,Utilities,9.88,Card,2023-07-30 12:00:00+03,Andrey,Home
+765,Water supply,Utilities,217.56,Card,2023-09-28 12:00:00+03,Andrey,Home
+764,Car insurance,Car,196.43,Card,2023-11-23 12:36:00+02,Andrey,Transport
+763,Water supply,Utilities,199.12,Card,2023-11-20 11:00:00+02,Andrey,Home
+762,Car insurance,Car,195.87,Card,2023-12-25 12:00:00+02,Andrey,Transport
+761,Car insurance,Car,195.69,Card,2024-01-23 13:00:00+02,Andrey,Transport
+760,Water supply,Utilities,179.14,Card,2024-01-21 12:00:00+02,Andrey,Home
+759,Electricity,Utilities,419.61,Card,2024-02-22 09:20:00+02,Ekaterina,Home
+758,Telecom,Telecoms,194.8,Card,2024-03-29 12:00:00+03,Andrey,Personal
+757,Car insurance,Car,196.43,Card,2024-03-26 11:00:00+02,Andrey,Transport
+756,Water supply,Utilities,214.09,Card,2024-03-20 11:00:00+02,Andrey,Home
+755,Kindergarten,Daycare,3121,Bank,2024-04-09 18:51:00+03,Andrey,Kids
+754,Health insurance,Health and beauty,152.93,Bank,2024-04-09 18:42:21+03,Andrey,Personal
+753,Building maintenance fee ,Housing,250,Bank,2024-04-09 18:35:00+03,Andrey,Home
+752,Ulpan,Education,1065,Bank,2024-03-20 17:19:00+02,Andrey,Personal
+751,Apartment rent,Housing,5400,Bank,2024-03-18 11:00:00+02,Andrey,Home
+749,Groceries,Groceries,78.03,Card,2024-04-08 19:41:00+03,Ekaterina,Food
+748,Sneakers,Sport,112.8,Card,2024-04-08 19:41:00+03,Andrey,Personal
+747,Detergent,Household,35.9,Card,2024-04-08 19:41:00+03,Ekaterina,Home
+746,Chair for Agata,Other,30.9,Card,2024-04-08 19:41:00+03,Ekaterina,Kids
+745,Nuts,Groceries,123.47,Card,2024-04-08 19:41:00+03,Andrey,Food
+744,Cat food,Pets,210,Card,2024-04-08 19:41:00+03,Ekaterina,Pets
+743,Groceries,Groceries,104.8,Card,2024-04-08 16:28:00+03,Andrey,Food
+742,refueling,Car,200,Card,2024-04-07 18:33:00+03,Andrey,Transport
+738,Coke,Sweets and pastries,9,Card,2024-04-06 20:14:00+03,Ekaterina,Food
+730,Milk,Groceries,9,Card,2024-04-06 20:14:00+03,Ekaterina,Food
+729,Parking,Car,24,Card,2024-04-06 19:52:00+03,Andrey,Transport
+719,Lunch,Cafes and restaurants,410,Card,2024-04-06 17:13:00+03,Ekaterina,Food
+718,Coffee and cookies,Sweets and pastries,36,Card,2024-04-06 17:03:00+03,Andrey,Food
+716,Groceries,Groceries,18,Card,2024-04-05 08:53:00+03,Andrey,Food
+715,Household goods,Household,300,Card,2024-04-05 08:53:00+03,Ekaterina,Home
+714,Croissants,Sweets and pastries,15.22,Card,2024-04-05 08:53:00+03,Andrey,Food
+713,Flowers,Personal expenses,65,Card,2024-04-05 08:53:00+03,Andrey,Personal
+712,Falafel,Fast food,37,Cash,2024-04-02 13:20:00+03,Andrey,Food
+711,Sprite and buns,Sweets and pastries,25,Cash,2024-04-02 11:51:00+03,Andrey,Food
+710,Muesli,Groceries,20,Cash,2024-04-02 11:50:00+03,Andrey,Food
+709,Alcohol,Leisure and entertainment,329.32,crypto,2024-04-01 11:50:00+03,Andrey,Personal
+708,Croissants,Sweets and pastries,36.9,Card,2024-04-01 11:50:00+03,Andrey,Food
+707,Sprite and croissant,Sweets and pastries,10.31,Card,2024-04-01 11:50:00+03,Andrey,Food
+706,Shawarma,Fast food,39.9,Cash,2024-03-31 13:10:00+03,Andrey,Food
+705,Lunch,Cafes and restaurants,100,Cash,2024-03-30 17:46:00+03,Andrey,Food
+704,refueling,Car,200,Card,2024-03-30 17:46:00+03,Andrey,Transport
+703,Air conditioner cleaning,Household,1000,Cash,2024-03-29 14:20:00+03,Ekaterina,Home
+702,Drycleaning,Car,450,Card,2024-03-29 14:19:00+03,Andrey,Transport
+701,Strawberries,Groceries,37.08,Card,2024-03-28 18:39:00+02,Andrey,Food
+700,Groceries,Groceries,426.2,Card,2024-03-28 18:35:00+02,Andrey,Food
+699,Croissants,Sweets and pastries,22.1,Card,2024-03-28 17:15:00+02,Andrey,Food
+698,still water and Sprite,Sweets and pastries,24,Card,2024-03-27 18:08:00+02,Andrey,Food
+697,Rides,Other,5,Card,2024-03-27 18:08:00+02,Andrey,Kids
+696,Nuts,Groceries,68.3,Card,2024-03-27 18:08:00+02,Andrey,Food
+695,Vacuum,Household,379,Cash,2024-03-26 19:53:00+02,Andrey,Home
+694,Car service,Car,400,Card,2024-03-26 16:19:00+02,Andrey,Transport
+693,Pizza,Fast food,69.5,Card,2024-03-26 16:18:00+02,Andrey,Food
+692,Bus pass,Transport,5.5,Card,2024-03-25 13:24:00+02,Andrey,Transport
+691,Groceries,Groceries,600,Cash,2024-03-24 17:05:00+02,Ekaterina,Food
+690,Diapers,Other,200,Cash,2024-03-24 17:04:00+02,Ekaterina,Kids
+689,Market,Groceries,200,Cash,2024-03-24 17:04:00+02,Ekaterina,Food
+688,Bus pass,Transport,5.5,Card,2024-03-24 17:03:00+02,Andrey,Transport
+687,refueling,Car,200,Card,2024-03-23 18:49:00+02,Andrey,Transport
+686,Restaurant,Cafes and restaurants,355,Card,2024-03-23 18:49:00+02,Andrey,Food
+685,Bread,Sweets and pastries,21.8,Card,2024-03-22 13:51:00+02,Andrey,Food
+684,Bread,Sweets and pastries,13.99,Cash,2024-03-21 12:38:00+02,Andrey,Food
+683,eBook,Personal expenses,23.9,Card,2024-03-19 11:59:00+02,Andrey,Personal
+682,Parking,Car,40,Card,2024-03-19 11:59:00+02,Andrey,Transport
+681,Bus pass,Transport,17.5,Card,2024-03-19 11:59:00+02,Andrey,Transport
+680,Lunch,Cafes and restaurants,75,Card,2024-03-19 11:59:00+02,Andrey,Food
+679,Clothes for Agata,Clothes,144.7,Cash,2024-03-18 10:34:00+02,Ekaterina,Kids
+678,Donuts,Sweets and pastries,40,Cash,2024-03-18 10:34:00+02,Ekaterina,Food
+677,Alcohol,Leisure and entertainment,337.31,crypto,2024-03-17 13:35:00+02,Andrey,Personal
+676,Croissants,Sweets and pastries,11.23,Card,2024-03-17 13:35:00+02,Andrey,Food
+675,Groceries,Groceries,337.31,Card,2024-03-15 13:57:00+02,Andrey,Food
+674,refueling,Car,200,Card,2024-03-15 05:10:00+02,Andrey,Transport
+673,Diapers,Other,44.9,Card,2024-03-15 05:10:00+02,Andrey,Kids
+672,Groceries,Groceries,40,Cash,2024-03-13 15:16:00+02,Ekaterina,Food
+671,eBook,Personal expenses,29.9,Card,2024-03-13 18:15:00+02,Andrey,Personal
+670,Watermelon,Groceries,70,Card,2024-03-12 19:31:00+02,Andrey,Food
+669,Groceries,Groceries,606.04,Card,2024-03-12 19:31:00+02,Andrey,Food
+668,Nuts,Groceries,104,Card,2024-03-12 19:31:00+02,Andrey,Food
+667,Waffles,Sweets and pastries,7.9,Card,2024-03-12 19:31:00+02,Andrey,Food
+666,Bread,Sweets and pastries,13,Card,2024-03-11 18:14:00+02,Andrey,Food
+665,Snack,Fast food,17,Card,2024-03-10 21:11:00+02,Andrey,Food
+664,Bus pass,Transport,17.5,Card,2024-03-10 21:11:00+02,Andrey,Transport
+663,Child helmet,Other,78,Cash,2024-03-10 18:31:00+02,Ekaterina,Kids
+662,ice cream,Sweets and pastries,44,Cash,2024-03-09 20:40:00+02,Ekaterina,Food
+661,Toothbrushes,Health and beauty,40,Cash,2024-03-09 17:39:00+02,Ekaterina,Personal
+660,Pizza,Fast food,86.6,Cash,2024-03-09 17:00:00+02,Andrey,Food
+659,ice cream,Sweets and pastries,24,Card,2024-03-09 20:38:00+02,Andrey,Food
+658,Kindergarten,Daycare,3121,Bank,2024-03-08 15:00:00+02,Andrey,Kids
+657,Groceries,Groceries,300,Cash,2024-03-08 14:49:00+02,Ekaterina,Food
+656,Flowers,Personal expenses,70,Card,2024-03-08 12:37:00+02,Ekaterina,Personal
+655,Fruits,Groceries,66,Cash,2024-02-07 18:15:00+02,Ekaterina,Food
+654,Groceries,Groceries,316,Cash,2024-02-07 17:14:00+02,Ekaterina,Food
+653,refueling,Car,200,Card,2024-03-07 12:13:00+02,Andrey,Transport
+652,Building maintenance fee ,Housing,250,Bank,2024-03-06 15:00:00+02,Andrey,Home
+651,Soda and yogurt  ,Groceries,16.9,Card,2024-03-06 13:08:00+02,Andrey,Food
+650,Health insurance,Health and beauty,152,Bank,2024-03-05 15:00:00+02,Andrey,Personal
+649,Falafel,Fast food,22,Card,2024-03-05 13:26:00+02,Andrey,Food
+648,eBook,Personal expenses,14.9,Card,2024-03-05 13:26:00+02,Andrey,Personal
+647,Shawarma,Fast food,65,Card,2024-03-05 13:26:00+02,Andrey,Food
+646,Buns,Sweets and pastries,22,Card,2024-03-04 11:30:00+02,Ekaterina,Food
+645,Groceries,Groceries,270,Card,2024-03-04 11:30:00+02,Ekaterina,Food
+644,TV installation,Household,200,Cash,2024-03-02 12:18:00+02,Ekaterina,Home
+643,Groceries,Groceries,45.3,Cash,2024-03-02 12:18:00+02,Ekaterina,Food
+642,Icecream,Sweets and pastries,11.5,Cash,2024-03-02 12:17:00+02,Andrey,Food
+641,Flowers,Personal expenses,40,Card,2024-03-01 09:02:00+02,Andrey,Personal
+640,Pharmacy,Health and beauty,143.6,Card,2024-03-01 09:02:00+02,Andrey,Personal
+639,Bread,Sweets and pastries,31,Card,2024-03-01 09:02:00+02,Andrey,Food
+638,Gas,Utilities,57.33,Card,2024-02-29 15:00:00+02,Andrey,Home
+637,Telecom,Telecoms,194.8,Card,2024-02-28 15:00:00+02,Andrey,Personal
+636,eBook,Personal expenses,14.9,Card,2024-02-28 16:24:00+02,Andrey,Personal
+635,Market,Groceries,200,Cash,2024-02-27 16:53:00+02,Ekaterina,Food
+634,Groceries,Groceries,510,Card,2024-02-27 16:51:00+02,Andrey,Food
+633,Ulpan,Education,3850,Cash,2024-02-25 00:00:00+02,Ekaterina,Personal
+632,Hot Dogs,Fast food,30,Cash,2024-02-25 20:00:00+02,Andrey,Food
+631,IKEA meatballs,Groceries,59,Cash,2024-02-25 19:49:00+02,Ekaterina,Food
+630,IKEA,Household,683,Cash,2024-02-25 19:35:00+02,Ekaterina,Home
+629,Still water,Groceries,10,Card,2024-02-25 17:31:00+02,Andrey,Food
+628,refueling,Car,200,Card,2024-02-25 17:31:00+02,Andrey,Transport
+627,Parking,Car,220,Card,2024-02-24 08:20:00+02,Ekaterina,Transport
+626,Alcohol,Leisure and entertainment,330,crypto,2024-03-17 12:00:00+02,Andrey,Personal
+625,Kfc,Fast food,111,Cash,2024-02-23 19:05:00+02,Andrey,Food
+624,Cappuchinno,Fast food,17,Cash,2024-02-23 17:40:00+02,Andrey,Food
+623,Pizza,Fast food,375,Cash,2024-02-23 16:27:00+02,Andrey,Food
+622,Juice,Sweets and pastries,18,Cash,2024-02-23 10:30:00+02,Andrey,Food
+621,Coffee,Sweets and pastries,14,Cash,2024-02-23 10:30:00+02,Andrey,Food
+620,Car insurance,Car,195.69,Card,2024-02-22 15:00:00+02,Andrey,Transport
+619,Sushi,Cafes and restaurants,300,Card,2024-02-22 21:14:00+02,Andrey,Food
+618,Diapers,Other,49.9,Cash,2024-02-22 18:45:00+02,Andrey,Kids
+617,Hotel,Leisure and entertainment,3550,Cash,2024-02-22 18:35:00+02,Ekaterina,Personal
+616,Croissants,Sweets and pastries,12.48,Cash,2024-02-22 08:15:00+02,Andrey,Food
+615,eBook,Personal expenses,19.9,Cash,2024-02-20 15:00:00+02,Andrey,Personal
+614,Apartment rent,Housing,5400,Bank,2024-02-19 14:00:00+02,Andrey,Home
+613,Groceries,Groceries,281.99,Cash,2024-02-20 20:05:00+02,Ekaterina,Food
+612,Diapers,Other,67.8,Cash,2024-02-19 16:25:00+02,Ekaterina,Kids
+611,Bread,Sweets and pastries,42.54,Cash,2024-02-19 16:44:00+02,Ekaterina,Food
+610,Play kitchen,Other,200,Cash,2024-02-17 20:59:00+02,Ekaterina,Kids
+609,Table,Household,160,Cash,2024-02-17 15:02:00+02,Ekaterina,Home
+608,refueling,Car,200,Card,2024-02-16 14:00:00+02,Andrey,Transport
+607,Groceries,Groceries,358.25,Card,2024-02-16 14:00:00+02,Andrey,Food
+606,Diapers,Other,137,Card,2024-02-16 14:00:00+02,Ekaterina,Kids
+605,Croissants,Sweets and pastries,14,Card,2024-02-15 17:57:00+02,Andrey,Food
+604,Bread,Sweets and pastries,21.3,Card,2024-02-15 04:55:00+02,Andrey,Food
+603,eBook,Personal expenses,14.9,Card,2024-02-15 04:55:00+02,Andrey,Personal
+602,Groceries,Groceries,130,Cash,2024-02-13 16:00:00+02,Ekaterina,Food
+601,Groceries,Groceries,390.87,Card,2024-02-11 19:16:00+02,Andrey,Food
+600,Nuts,Groceries,39.5,Card,2024-02-11 18:45:00+02,Andrey,Food
+599,Lunch,Cafes and restaurants,56.4,Card,2024-02-11 18:12:00+02,Andrey,Food
+598,Kindergarten,Daycare,2232,Bank,2024-02-11 18:12:00+02,Andrey,Kids
+597,Pizza,Fast food,88.85,Card,2024-02-11 18:12:00+02,Andrey,Food
+596,Caesarea museum,Leisure and entertainment,78,Cash,2024-02-10 10:00:00+02,Ekaterina,Personal
+595,refueling,Car,200,Card,2024-02-10 09:34:00+02,Andrey,Transport
+594,Bread,Sweets and pastries,38.22,Card,2024-02-09 20:07:00+02,Andrey,Food
+593,eBook,Personal expenses,19.9,Card,2024-02-08 14:45:00+02,Andrey,Personal
+592,Vegetables and fruits,Groceries,100,Cash,2024-02-07 18:19:00+02,Ekaterina,Food
+591,Haircut,Personal expenses,70,Cash,2024-02-07 18:19:00+02,Andrey,Personal
+590,Coke,Sweets and pastries,8.3,Card,2024-02-07 18:19:00+02,Andrey,Food
+589,Nuts,Groceries,66,Cash,2024-02-06 20:53:00+02,Andrey,Food
+588,Groceries,Groceries,338.74,Cash,2024-02-06 20:52:00+02,Andrey,Food
+587,Building maintenance fee ,Housing,250,Bank,2024-02-05 20:10:00+02,Andrey,Home
+586,Health insurance,Health and beauty,146,Bank,2024-02-05 20:10:00+02,Andrey,Personal
+585,Icecream,Sweets and pastries,25.5,Cash,2024-02-05 20:10:00+02,Andrey,Food
+584,eBook,Personal expenses,19.9,Card,2024-02-05 20:10:00+02,Andrey,Personal
+583,Hebrew,Education,300,Bank,2024-02-04 18:30:00+02,Andrey,Personal
+582,Hebrew,Education,600,Bank,2024-02-04 18:30:00+02,Ekaterina,Personal
+581,refueling,Car,200,Card,2024-02-04 16:54:00+02,Andrey,Transport
+580,eBook,Personal expenses,19.9,Card,2024-02-04 16:54:00+02,Andrey,Personal
+579,Cookies,Sweets and pastries,19,Card,2024-02-03 22:03:00+02,Ekaterina,Food
+578,Diapers,Other,77,Cash,2024-02-03 15:29:00+02,Ekaterina,Kids
+577,Pizza,Fast food,86,Cash,2024-02-03 15:29:00+02,Ekaterina,Food
+576,Groceries,Groceries,39,Cash,2024-02-02 19:16:00+02,Ekaterina,Food
+575,Snack,Fast food,50,Cash,2024-02-02 15:51:00+02,Ekaterina,Food
+574,"Bread, water",Sweets and pastries,40,Card,2024-02-02 15:51:00+02,Ekaterina,Food
+573,Groceries,Groceries,115,Cash,2024-02-02 15:51:00+02,Ekaterina,Food
+572,Bread,Sweets and pastries,22,Card,2024-02-01 15:51:00+02,Andrey,Food
+571,Groceries,Groceries,363.98,Cash,2024-01-29 20:51:00+02,Andrey,Food
+570,Groceries,Groceries,114.22,Cash,2024-01-29 20:49:00+02,Ekaterina,Food
+569,Nuts,Groceries,41.5,Cash,2024-01-29 20:48:00+02,Andrey,Food
+568,Sweets,Sweets and pastries,35,Card,2024-01-28 20:29:00+02,Andrey,Food
+567,Groceries,Groceries,30,Cash,2024-01-27 18:46:00+02,Ekaterina,Food
+566,Sweets,Sweets and pastries,68,Cash,2024-01-26 18:40:00+02,Ekaterina,Food
+565,Pizza,Fast food,88.9,Cash,2024-01-26 18:30:00+02,Andrey,Food
+564,Fruits and vegetables,Groceries,230,Cash,2024-01-26 12:35:00+02,Ekaterina,Food
+563,Building maintenance fee ,Housing,250,Bank,2024-01-25 16:18:00+02,Andrey,Home
+562,Fruits,Groceries,68,Card,2024-01-25 16:18:00+02,Andrey,Food
+561,Telecom,Telecoms,194.8,Card,2024-01-24 20:20:00+02,Andrey,Personal
+560,Groceries,Groceries,175,Card,2024-01-24 20:20:00+02,Andrey,Food
+559,Bread,Sweets and pastries,24.5,Card,2024-01-23 19:47:00+02,Andrey,Food
+558,Tools,Household,15,Card,2024-01-23 19:47:00+02,Andrey,Home
+557,Vegetables,Groceries,24.55,Cash,2024-01-23 16:19:00+02,Ekaterina,Food
+556,Ulpan,Education,2250,Bank,2024-01-23 04:53:00+02,Andrey,Personal
+555,Tools,Household,10,Card,2024-01-22 19:02:00+02,Andrey,Home
+554,Groceries,Groceries,345,Card,2024-01-22 18:48:00+02,Andrey,Food
+553,Sprite,Sweets and pastries,12,Card,2024-01-22 17:17:00+02,Andrey,Food
+552,Pizza,Fast food,88,Card,2024-01-22 17:17:00+02,Andrey,Food
+551,refueling,Car,200,Card,2024-01-22 17:17:00+02,Andrey,Transport
+550,Lunch,Cafes and restaurants,58,Cash,2024-01-21 16:29:00+02,Ekaterina,Food
+549,Flowers,Personal expenses,90,Card,2024-01-21 16:27:00+02,Andrey,Personal
+548,Groceries,Groceries,47.5,Cash,2024-01-20 16:29:00+02,Ekaterina,Food
+547,Pizza,Fast food,77.35,Cash,2024-01-20 16:28:00+02,Andrey,Food
+546,Shawarma,Fast food,112,Card,2024-01-19 14:54:00+02,Andrey,Food
+545,Groceries,Groceries,49,Card,2024-01-19 14:54:00+02,Andrey,Food
+544,Apartment rent,Housing,5400,Bank,2024-01-18 20:56:00+02,Ekaterina,Home
+543,Tools,Household,183,Card,2024-01-18 20:56:00+02,Ekaterina,Home
+542,Coke,Sweets and pastries,9,Cash,2024-01-16 20:59:00+02,Andrey,Food
+541,Bread,Sweets and pastries,9,Card,2024-01-14 20:49:00+02,Ekaterina,Food
+540,Fruits,Groceries,35,Card,2024-01-14 20:49:00+02,Ekaterina,Food
+539,Nuts,Groceries,79,Card,2024-01-14 20:49:00+02,Ekaterina,Food
+538,Groceries,Groceries,372,Card,2024-01-14 20:49:00+02,Ekaterina,Food
+537,Pizza,Fast food,89.9,Cash,2024-01-13 17:10:00+02,Andrey,Food
+536,Groceries,Groceries,50,Card,2024-01-13 14:45:00+02,Andrey,Food
+535,refueling,Car,200,Card,2024-01-12 22:45:00+02,Andrey,Transport
+534,Nuts,Groceries,39,Card,2024-01-12 11:03:00+02,Ekaterina,Food
+533,Wrench,Household,65,Card,2024-01-12 11:03:00+02,Ekaterina,Home
+532,Shoes for Agata,Clothes,155,Card,2024-01-12 11:03:00+02,Ekaterina,Kids
+531,Cosmetics,Health and beauty,55,Card,2024-01-12 11:03:00+02,Ekaterina,Personal
+530,Flowers,Personal expenses,60,Card,2024-01-12 11:03:00+02,Ekaterina,Personal
+529,Cosmetologist,Health and beauty,175,Cash,2024-01-12 11:03:00+02,Ekaterina,Personal
+528,Nuts,Groceries,31,Card,2024-01-10 20:30:00+02,Andrey,Food
+527,Tools,Household,70,Card,2024-01-10 20:30:00+02,Ekaterina,Home
+526,Shoes for Agata,Clothes,159,Card,2024-01-10 20:30:00+02,Andrey,Kids
+525,Bus pass,Transport,5.5,Card,2024-01-10 20:28:00+02,Andrey,Transport
+524,Strawberries,Groceries,50,Card,2024-01-10 13:27:00+02,Andrey,Food
+523,Kindergarten,Daycare,3254,Bank,2024-01-08 21:10:00+02,Andrey,Kids
+522,Falafel,Fast food,32,Card,2024-01-08 21:10:00+02,Andrey,Food
+521,Fruits,Groceries,34.8,Cash,2024-01-07 19:22:00+02,Ekaterina,Food
+520,Pharmacy,Health and beauty,33.3,Cash,2024-01-07 19:21:00+02,Ekaterina,Personal
+519,Groceries,Groceries,484,Cash,2024-01-07 19:21:00+02,Ekaterina,Food
+518,Groceries,Groceries,59,Cash,2024-01-06 19:46:00+02,Ekaterina,Food
+517,Hair coloring,Personal expenses,500,Card,2024-01-06 19:46:00+02,Ekaterina,Personal
+516,Haircut,Personal expenses,400,Cash,2024-01-06 19:46:00+02,Ekaterina,Personal
+515,ice cream,Sweets and pastries,14,Card,2024-01-06 15:08:00+02,Andrey,Food
+514,Shoes for Agata,Clothes,140,Card,2024-01-05 14:25:00+02,Andrey,Kids
+513,Peanuts,Groceries,19,Card,2024-01-04 19:27:00+02,Ekaterina,Food
+512,Pharmacy,Health and beauty,39,Card,2024-01-04 19:27:00+02,Ekaterina,Personal
+511,Strawberries,Groceries,25,Card,2024-01-04 19:27:00+02,Ekaterina,Food
+510,Sweets,Sweets and pastries,14,Card,2024-01-04 19:27:00+02,Ekaterina,Food
+509,Bread,Sweets and pastries,32,Card,2024-01-04 19:26:00+02,Ekaterina,Food
+508,Sprite and bar,Sweets and pastries,20,Card,2024-01-04 17:52:00+02,Andrey,Food
+507,Sprite,Sweets and pastries,146,Card,2024-01-04 04:32:00+02,Andrey,Food
+506,Health insurance,Health and beauty,8,Bank,2024-01-02 17:26:00+02,Andrey,Personal
+505,Buns,Sweets and pastries,8,Card,2024-01-02 17:26:00+02,Andrey,Food
+504,Shawarma,Fast food,45,Card,2024-01-01 13:30:00+02,Andrey,Food
+503,Nuts,Groceries,84,Cash,2023-12-31 19:35:00+02,Ekaterina,Food
+502,Groceries,Groceries,312,Cash,2023-12-31 19:35:00+02,Ekaterina,Food
+501,Fruits,Groceries,43.92,Cash,2023-12-31 19:35:00+02,Ekaterina,Food
+500,Juicer,Household,10,Cash,2023-12-31 19:34:00+02,Ekaterina,Home
+499,Haircut,Personal expenses,70,Card,2023-12-31 16:42:00+02,Andrey,Personal
+498,refueling,Car,200,Card,2023-12-31 16:42:00+02,Andrey,Transport
+497,Sprite and cookie,Sweets and pastries,27,Card,2023-12-30 18:57:00+02,Andrey,Food
+496,Ice cream and Pizza,Sweets and pastries,60,Card,2023-12-30 13:45:00+02,Andrey,Food
+495,Telecom,Telecoms,194.8,Card,2023-12-29 20:25:00+02,Andrey,Personal
+494,Shawarma,Fast food,112,Card,2023-12-29 20:25:00+02,Andrey,Food
+493,Pies,Sweets and pastries,50,Card,2023-12-29 20:25:00+02,Andrey,Food
+492,Household goods,Household,105,Card,2023-12-29 20:25:00+02,Andrey,Home
+491,Pharmacy,Health and beauty,18,Card,2023-12-29 20:25:00+02,Andrey,Personal
+490,Bus pass,Transport,100,Card,2023-12-27 16:24:00+02,Andrey,Transport
+489,Bluetooth adapter,Car,88.1,Card,2023-12-26 19:48:00+02,Andrey,Transport
+488,Groceries,Groceries,135.1,Cash,2023-12-26 17:04:00+02,Ekaterina,Food
+487,Fruits,Groceries,67,Cash,2023-12-24 09:23:00+02,Andrey,Food
+486,Groceries,Groceries,375.9,Cash,2023-12-24 09:00:00+02,Andrey,Food
+485,Diapers,Other,139,Cash,2023-12-23 21:23:00+02,Ekaterina,Kids
+484,Groceries,Groceries,103,Card,2023-12-23 21:15:00+02,Andrey,Food
+483,Bread,Sweets and pastries,22.5,Card,2023-12-22 11:13:00+02,Andrey,Food
+482,Fruits,Groceries,82.5,Cash,2023-12-20 16:11:00+02,Andrey,Food
+481,Groceries,Groceries,366.85,Card,2023-12-18 19:25:00+02,Andrey,Food
+480,refueling,Car,200,Card,2023-12-18 19:24:00+02,Andrey,Transport
+479,Fruits,Groceries,73.31,Card,2023-12-18 19:24:00+02,Andrey,Food
+478,Apartment rent,Housing,5400,Bank,2023-12-18 04:59:00+02,Andrey,Home
+477,Groceries,Groceries,42,Cash,2023-12-17 15:51:00+02,Ekaterina,Food
+476,Sugary drink and hummus,Sweets and pastries,54,Card,2023-12-16 20:16:00+02,Ekaterina,Food
+475,ice cream,Sweets and pastries,11.9,Card,2023-12-16 20:16:00+02,Andrey,Food
+474,Still water,Groceries,47,Cash,2023-12-15 18:00:00+02,Andrey,Food
+473,Challah,Sweets and pastries,12,Card,2023-12-15 21:52:00+02,Andrey,Food
+472,Groceries,Groceries,383,Card,2023-12-14 05:00:00+02,Andrey,Food
+471,Donuts,Sweets and pastries,61,Card,2023-12-13 18:47:00+02,Andrey,Food
+470,Antivirus,Telecoms,200,Bank,2023-12-12 17:53:00+02,Andrey,Personal
+469,Groceries,Groceries,53.7,Card,2023-12-11 21:01:00+02,Andrey,Food
+468,Sweets,Sweets and pastries,34,Cash,2023-12-09 14:02:00+02,Andrey,Food
+467,Flowers,Personal expenses,40,Cash,2023-11-23 12:36:00+02,Andrey,Personal
+466,Kindergarten,Daycare,3121,Bank,2023-12-08 11:40:00+02,Andrey,Kids
+465,Donuts,Sweets and pastries,92,Cash,2023-12-08 11:40:00+02,Andrey,Food
+464,Still water,Groceries,17,Cash,2023-12-07 20:07:00+02,Andrey,Food
+463,Donuts,Sweets and pastries,42,Cash,2023-12-07 20:07:00+02,Andrey,Food
+462,Nuts,Groceries,34,Cash,2023-12-07 20:07:00+02,Andrey,Food
+461,Parking,Car,4.2,Card,2023-12-07 20:07:00+02,Andrey,Transport
+460,Health insurance,Health and beauty,165,Bank,2023-12-05 14:05:00+02,Andrey,Personal
+459,refueling,Car,200,Card,2023-12-05 14:05:00+02,Andrey,Transport
+458,Groceries,Groceries,70,Cash,2023-12-04 21:18:00+02,Andrey,Food
+457,Groceries,Groceries,87,Cash,2023-12-04 16:11:00+02,Ekaterina,Food
+456,Groceries,Groceries,110,Cash,2023-12-04 16:11:00+02,Ekaterina,Food
+455,Sweets,Sweets and pastries,6.9,Card,2023-12-03 05:05:00+02,Andrey,Food
+454,Sweets,Sweets and pastries,6.9,Card,2023-12-03 05:05:00+02,Andrey,Food
+453,Sprite,Sweets and pastries,12,Card,2023-12-02 16:43:00+02,Andrey,Food
+452,Pizza,Fast food,89.9,Card,2023-12-02 16:43:00+02,Andrey,Food
+451,Bread,Sweets and pastries,27,Cash,2023-11-30 18:21:00+02,Andrey,Food
+450,Cat,Pets,161,Cash,2023-11-30 18:21:00+02,Ekaterina,Pets
+449,Nuts,Groceries,62,Cash,2023-11-30 18:20:00+02,Ekaterina,Food
+448,Groceries,Groceries,312,Cash,2023-11-30 18:20:00+02,Ekaterina,Food
+447,Still water,Groceries,12,Card,2023-11-30 18:19:00+02,Andrey,Food
+446,Sweets,Sweets and pastries,17.2,Card,2023-11-29 16:15:00+02,Andrey,Food
+445,Haircut,Personal expenses,70,Card,2023-11-29 16:15:00+02,Andrey,Personal
+444,Fruits,Groceries,88.9,Card,2023-11-27 16:32:00+02,Andrey,Food
+443,Telecom,Telecoms,194.8,Card,2023-11-27 16:32:00+02,Andrey,Personal
+442,Sprite and croissants,Sweets and pastries,12.7,Card,2023-11-27 16:32:00+02,Andrey,Food
+441,Bread,Sweets and pastries,33,Card,2023-11-27 06:53:00+02,Andrey,Food
+440,Sweets,Sweets and pastries,27.9,Card,2023-11-25 19:33:00+02,Andrey,Food
+439,Still water,Groceries,21.9,Card,2023-11-25 19:33:00+02,Andrey,Food
+438,refueling,Car,200,Card,2023-11-24 13:09:00+02,Andrey,Transport
+437,Car service,Car,200,Card,2023-11-24 13:09:00+02,Andrey,Transport
+436,Lunch,Cafes and restaurants,37,Card,2023-11-22 21:23:00+02,Andrey,Food
+435,Croissants and Sprite,Sweets and pastries,13.2,Card,2023-11-21 20:50:00+02,Andrey,Food
+434,Electricity,Utilities,237.87,Card,2023-12-21 09:20:00+02,Ekaterina,Home
+433,Bread,Sweets and pastries,33.5,Card,2023-11-18 08:05:00+02,Andrey,Food
+432,Pizza,Fast food,89.9,Card,2023-11-18 08:05:00+02,Andrey,Food
+431,Gas,Utilities,59.31,Card,2023-12-28 10:22:00+02,Andrey,Home
+430,Apartment rent,Housing,5400,Bank,2023-11-15 20:43:00+02,Andrey,Home
+429,Still water,Groceries,20.3,Card,2023-11-15 20:43:00+02,Andrey,Food
+428,Sweets,Sweets and pastries,23.7,Card,2023-11-15 20:43:00+02,Andrey,Food
+427,Coke,Sweets and pastries,15,Card,2023-11-14 16:27:00+02,Andrey,Food
+426,Fruits,Groceries,75,Card,2023-11-12 16:08:00+02,Ekaterina,Food
+425,Groceries,Groceries,291,Card,2023-11-12 16:07:00+02,Ekaterina,Food
+424,Nuts,Groceries,81,Card,2023-11-12 16:07:00+02,Ekaterina,Food
+423,Pizza,Fast food,102.8,Card,2023-11-11 20:08:00+02,Andrey,Food
+422,Soda and Chips,Junk food,33.1,Card,2023-11-11 20:08:00+02,Andrey,Food
+421,refueling,Car,200,Card,2023-11-11 20:08:00+02,Ekaterina,Transport
+420,Groceries,Groceries,248.22,Card,2023-11-10 19:39:00+02,Andrey,Food
+419,Shawarma,Fast food,50,Cash,2023-11-09 12:16:00+02,Andrey,Food
+418,Car insurance,Car,1901,Card,2023-11-09 12:06:00+02,Andrey,Transport
+417,Groceries,Groceries,100.8,Card,2023-11-08 18:40:00+02,Andrey,Food
+416,Sweets,Sweets and pastries,20.4,Card,2023-11-08 15:22:00+02,Andrey,Food
+415,Lunch,Cafes and restaurants,115,Card,2023-11-08 14:07:00+02,Andrey,Food
+414,Bread,Sweets and pastries,20,Cash,2023-11-08 14:07:00+02,Andrey,Food
+413,Kindergarten,Daycare,3121,Bank,2023-11-08 14:07:00+02,Andrey,Kids
+412,Car wash,Car,85,Card,2023-11-08 14:07:00+02,Andrey,Transport
+411,Sweets for work,Sweets and pastries,142.5,Card,2023-11-06 21:04:00+02,Andrey,Food
+410,Ulpan,Education,2250,Bank,2023-11-06 18:44:00+02,Andrey,Personal
+409,Car,Car,8500,Card,2023-11-06 17:57:00+02,Andrey,Transport
+408,Lunch,Cafes and restaurants,61,Card,2023-11-06 17:57:00+02,Andrey,Food
+407,Building maintenance fee ,Housing,500,Bank,2023-11-05 21:28:00+02,Andrey,Home
+406,Health insurance,Health and beauty,176,Bank,2023-11-05 21:28:00+02,Andrey,Personal
+405,Shawarma,Fast food,46,Card,2023-11-05 21:28:00+02,Andrey,Food
+404,Agata,Other,230,Cash,2023-11-03 22:39:00+02,Andrey,Kids
+403,Shawarma,Fast food,94,Cash,2023-11-03 11:55:00+02,Ekaterina,Food
+402,Fruits,Groceries,42.8,Card,2023-11-03 10:46:00+02,Andrey,Food
+401,Groceries,Groceries,357.29,Cash,2023-11-03 10:46:00+02,Andrey,Food
+400,Bandages,Health and beauty,30,Cash,2023-11-02 19:49:00+02,Ekaterina,Personal
+399,Groceries,Groceries,400,Cash,2023-11-02 19:49:00+02,Ekaterina,Food
+398,Coca cola diet,Sweets and pastries,18,Cash,2023-11-02 19:48:00+02,Ekaterina,Food
+397,Gifts for kindergarten,Other,310,Cash,2023-11-02 19:48:00+02,Ekaterina,Kids
+396,Toys for Agata,Other,125,Cash,2023-11-02 19:46:00+02,Ekaterina,Kids
+395,Pizza,Fast food,89.9,Card,2023-11-02 18:51:00+02,Andrey,Food
+394,ice cream,Sweets and pastries,38,Card,2023-11-02 18:51:00+02,Andrey,Food
+393,Sprite,Sweets and pastries,8.7,Card,2023-11-02 18:51:00+02,Andrey,Food
+392,Bread,Sweets and pastries,30,Card,2023-11-01 21:38:00+02,Andrey,Food
+391,Soda and cocktail,Sweets and pastries,12.9,Card,2023-11-01 21:38:00+02,Andrey,Food
+390,Sprite and twix,Sweets and pastries,14.4,Card,2023-11-01 21:38:00+02,Andrey,Food
+389,Bread,Sweets and pastries,40.21,Card,2023-10-31 17:27:00+02,Andrey,Food
+388,Shawarma,Fast food,46,Card,2023-10-30 15:30:00+02,Andrey,Food
+387,Twix,Sweets and pastries,5.7,Card,2023-10-29 21:10:00+02,Andrey,Food
+386,Telecom,Telecoms,145.5,Card,2023-10-29 21:10:00+02,Andrey,Personal
+385,Lunch,Cafes and restaurants,61,Card,2023-10-29 21:10:00+02,Andrey,Food
+384,Mcdonalds,Fast food,92,Cash,2023-10-28 13:05:00+03,Ekaterina,Food
+383,Fruits,Groceries,176,Cash,2023-10-27 14:54:00+03,Andrey,Food
+382,Soda and chips,Junk food,18.8,Card,2023-10-26 18:48:00+03,Andrey,Food
+381,Twix,Sweets and pastries,5.7,Card,2023-10-26 18:48:00+03,Andrey,Food
+380,Sprite,Sweets and pastries,8.7,Card,2023-10-26 18:48:00+03,Andrey,Food
+379,Twix,Sweets and pastries,5.7,Card,2023-10-25 17:35:00+03,Andrey,Food
+378,Bread and croissants,Sweets and pastries,36,Cash,2023-10-24 20:00:00+03,Andrey,Food
+377,Sniсkers,Sweets and pastries,5.7,Card,2023-10-24 19:17:00+03,Andrey,Food
+376,Shawarma,Fast food,55,Card,2023-10-24 19:17:00+03,Andrey,Food
+375,Coke and twix,Sweets and pastries,14.7,Card,2023-10-23 18:46:00+03,Andrey,Food
+374,Groceries,Groceries,340,Card,2023-10-22 17:58:00+03,Ekaterina,Food
+373,Fruits,Groceries,65,Card,2023-10-22 17:58:00+03,Ekaterina,Food
+372,Twix,Sweets and pastries,5.7,Card,2023-10-22 17:58:00+03,Andrey,Food
+371,Groceries,Groceries,240,Card,2023-10-22 17:58:00+03,Ekaterina,Food
+370,Diapers,Other,170,Card,2023-10-22 17:58:00+03,Ekaterina,Kids
+369,Sprite,Sweets and pastries,8.7,Card,2023-10-22 17:58:00+03,Andrey,Food
+368,Shawarma,Fast food,110,Card,2023-10-20 13:41:00+03,Andrey,Food
+367,Pastries,Sweets and pastries,10.8,Card,2023-10-20 13:41:00+03,Andrey,Food
+366,Groceries for army,Groceries,116.6,Card,2023-10-19 17:34:00+03,Andrey,Food
+365,Charging cable,Personal expenses,19.9,Card,2023-10-19 17:19:00+03,Andrey,Personal
+364,Shawarma,Fast food,57,Card,2023-10-19 17:19:00+03,Andrey,Food
+363,Coke,Sweets and pastries,10,Card,2023-10-19 17:19:00+03,Andrey,Food
+362,Twix,Sweets and pastries,5.7,Card,2023-10-18 18:41:00+03,Andrey,Food
+361,Sprite,Sweets and pastries,8.7,Card,2023-10-18 18:41:00+03,Andrey,Food
+360,Twix,Sweets and pastries,5.7,Card,2023-10-17 19:10:00+03,Andrey,Food
+359,Sprite,Sweets and pastries,8.7,Card,2023-10-17 19:10:00+03,Andrey,Food
+358,Still water,Groceries,42,Card,2023-10-16 18:28:00+03,Ekaterina,Food
+357,Bread,Sweets and pastries,21,Card,2023-10-16 18:21:00+03,Ekaterina,Food
+356,Falafel,Fast food,20,Card,2023-10-16 18:20:00+03,Andrey,Food
+355,Coke,Sweets and pastries,8.7,Card,2023-10-16 18:20:00+03,Andrey,Food
+354,Apartment rent,Housing,5400,Bank,2023-10-16 18:20:00+03,Andrey,Home
+353,Fruits and vegetables,Groceries,100,Card,2023-10-15 12:30:00+03,Ekaterina,Food
+352,Groceries,Groceries,500,Card,2023-10-15 00:00:00+03,Ekaterina,Food
+351,Sprite,Sweets and pastries,8.7,Card,2023-10-15 16:48:00+03,Andrey,Food
+350,Market,Groceries,208,Cash,2023-10-13 12:03:00+03,Andrey,Food
+349,Coffee,Sweets and pastries,15,Card,2023-10-13 09:25:00+03,Ekaterina,Food
+348,Bandage,Health and beauty,12,Card,2023-10-13 09:25:00+03,Ekaterina,Personal
+347,Toothpicks,Health and beauty,12,Card,2023-10-12 20:13:00+03,Ekaterina,Personal
+346,Bread,Sweets and pastries,74,Card,2023-10-12 14:42:00+03,Ekaterina,Food
+345,Sweets,Sweets and pastries,18.73,Card,2023-10-11 20:17:00+03,Andrey,Food
+344,Pharmacy,Health and beauty,37.08,Card,2023-10-11 20:17:00+03,Andrey,Personal
+343,Home goods,Household,62,Cash,2023-10-11 20:17:00+03,Ekaterina,Home
+342,Kindergarten,Daycare,3121,Bank,2023-10-11 20:17:00+03,Ekaterina,Kids
+341,Cat food,Pets,110,Card,2023-10-11 20:17:00+03,Ekaterina,Pets
+340,Taxi,Transport,72,Card,2023-10-10 21:24:00+03,Andrey,Transport
+339,Groceries,Groceries,882.64,Card,2023-10-10 21:24:00+03,Andrey,Food
+338,Groceries,Groceries,115,Cash,2023-10-09 22:16:00+03,Andrey,Food
+337,Lunch,Cafes and restaurants,20,Card,2023-10-09 22:16:00+03,Andrey,Food
+336,Shawarma,Fast food,56,Cash,2023-10-09 22:16:00+03,Andrey,Food
+335,Chocolate,Sweets and pastries,6.7,Card,2023-10-09 22:16:00+03,Andrey,Food
+334,Coke,Sweets and pastries,8.7,Card,2023-10-08 17:46:00+03,Andrey,Food
+333,Lunch,Cafes and restaurants,20,Card,2023-10-08 17:46:00+03,Andrey,Food
+332,Medicine,Health and beauty,50,Cash,2023-10-08 17:46:00+03,Ekaterina,Personal
+331,Thermometer,Household,30,Cash,2023-10-08 17:46:00+03,Ekaterina,Home
+330,Diapers,Other,130,Cash,2023-10-08 17:46:00+03,Ekaterina,Kids
+329,Chocolate,Sweets and pastries,5.5,Card,2023-10-08 17:46:00+03,Andrey,Food
+328,Still water,Groceries,40.8,Cash,2023-10-07 21:39:00+03,Andrey,Food
+327,Bread,Sweets and pastries,19,Cash,2023-10-06 12:48:00+03,Andrey,Food
+326,Nuts,Groceries,51.2,Cash,2023-10-06 12:48:00+03,Andrey,Food
+325,Groceries,Groceries,312.3,Cash,2023-10-05 21:23:00+03,Ekaterina,Food
+324,Medicine,Health and beauty,23.7,Cash,2023-10-05 21:23:00+03,Ekaterina,Personal
+323,Fruits,Groceries,65.4,Cash,2023-10-05 21:23:00+03,Ekaterina,Food
+322,Shawarma,Fast food,110,Cash,2023-10-05 17:27:00+03,Andrey,Food
+321,Health insurance,Health and beauty,146,Bank,2023-10-05 17:27:00+03,Andrey,Personal
+320,Safari,Leisure and entertainment,200,Cash,2023-10-05 17:27:00+03,Andrey,Personal
+319,Shawarma,Fast food,110,Card,2023-10-04 15:29:00+03,Andrey,Food
+318,Beach,Leisure and entertainment,16,Card,2023-10-04 12:36:00+03,Andrey,Personal
+317,Ulpan,Education,3000,Bank,2023-10-04 11:45:00+03,Andrey,Personal
+316,Groceries,Groceries,46,Card,2023-10-03 18:52:00+03,Ekaterina,Food
+315,Shawarma,Fast food,90,Cash,2023-10-03 18:52:00+03,Ekaterina,Food
+314,Groceries,Groceries,40,Card,2023-10-03 18:52:00+03,Andrey,Food
+313,Market,Groceries,203,Cash,2023-10-03 18:52:00+03,Ekaterina,Food
+312,Haircut,Personal expenses,300,Cash,2023-10-03 18:52:00+03,Ekaterina,Personal
+311,Still water,Groceries,11,Card,2023-10-03 18:52:00+03,Ekaterina,Food
+310,Haircut,Personal expenses,70,Cash,2023-10-03 18:52:00+03,Andrey,Personal
+309,Watermelon,Groceries,33,Cash,2023-10-02 21:19:00+03,Ekaterina,Food
+308,Screen protector,Personal expenses,120,Cash,2023-10-02 14:06:00+03,Ekaterina,Personal
+307,Fruits,Groceries,117.91,Card,2023-10-02 13:43:00+03,Andrey,Food
+306,Medicine,Health and beauty,56,Cash,2023-10-02 13:43:00+03,Ekaterina,Personal
+305,Bus pass,Transport,255,Cash,2023-10-01 21:06:00+03,Andrey,Transport
+304,Beach,Leisure and entertainment,15,Card,2023-10-01 14:46:00+03,Andrey,Personal
+303,Bus pass,Transport,11,Card,2023-10-01 14:46:00+03,Ekaterina,Transport
+302,Hebrew,Education,1000,Bank,2023-10-01 14:01:00+03,Ekaterina,Personal
+301,Groceries,Groceries,27.8,Cash,2023-09-30 21:29:00+03,Andrey,Food
+300,ice cream,Sweets and pastries,38,Card,2023-09-30 21:29:00+03,Andrey,Food
+299,Lunch,Cafes and restaurants,65,Card,2023-09-30 21:29:00+03,Andrey,Food
+298,Beach,Leisure and entertainment,16,Card,2023-09-30 21:29:00+03,Andrey,Personal
+297,Telecom,Telecoms,134.78,Card,2023-09-29 12:33:00+03,Andrey,Personal
+296,Fruits,Groceries,125,Card,2023-09-29 12:33:00+03,Andrey,Food
+295,Groceries,Groceries,348.81,Card,2023-09-29 12:33:00+03,Andrey,Food
+294,Humus,Fast food,40,Card,2023-09-28 15:33:00+03,Andrey,Food
+293,Sprite,Sweets and pastries,5,Card,2023-09-28 11:20:00+03,Andrey,Food
+292,Fruits,Groceries,100,Card,2023-09-27 19:16:00+03,Ekaterina,Food
+291,Groceries,Groceries,272,Card,2023-09-27 19:16:00+03,Ekaterina,Food
+290,Buns,Sweets and pastries,14,Card,2023-09-26 20:22:00+03,Ekaterina,Food
+289,Diapers,Other,34,Card,2023-09-26 20:21:00+03,Ekaterina,Kids
+288,Medicine,Health and beauty,24,Card,2023-09-26 20:21:00+03,Ekaterina,Personal
+287,Groceries,Groceries,214.45,Card,2023-09-26 16:46:00+03,Andrey,Food
+286,Shawarma,Fast food,61,Card,2023-09-26 12:05:00+03,Andrey,Food
+285,Groceries,Groceries,92,Card,2023-09-26 09:43:00+03,Ekaterina,Food
+284,Tape,Household,42,Card,2023-09-24 10:44:00+03,Ekaterina,Home
+283,Pharmacy,Health and beauty,22,Card,2023-09-24 10:43:00+03,Ekaterina,Personal
+282,Chocolate,Sweets and pastries,5.7,Card,2023-09-24 08:37:00+03,Andrey,Food
+281,ice cream,Sweets and pastries,28,Card,2023-09-23 14:39:00+03,Andrey,Food
+280,Still water,Groceries,8.9,Card,2023-09-23 14:39:00+03,Andrey,Food
+279,Lunch,Cafes and restaurants,84,Card,2023-09-23 12:45:00+03,Andrey,Food
+278,Beach,Leisure and entertainment,16,Card,2023-09-23 11:30:00+03,Andrey,Personal
+277,Flowers,Personal expenses,25,Card,2023-09-22 12:16:00+03,Ekaterina,Personal
+276,Groceries,Groceries,466.66,Card,2023-09-22 11:50:00+03,Andrey,Food
+275,Bus pass,Transport,5.5,Card,2023-09-22 09:24:00+03,Andrey,Transport
+274,Humus,Fast food,38,Card,2023-09-21 00:00:00+03,Andrey,Food
+273,Electricity,Utilities,488.58,Card,2023-10-18 10:20:00+03,Ekaterina,Home
+272,Diapers,Other,115,Card,2023-09-20 00:00:00+03,Ekaterina,Kids
+271,Medicine,Health and beauty,50,Card,2023-09-20 00:00:00+03,Ekaterina,Personal
+270,Still water,Groceries,43,Card,2023-09-20 00:00:00+03,Andrey,Food
+269,Falafel,Fast food,37,Card,2023-09-20 00:00:00+03,Andrey,Food
+268,Still water,Groceries,6,Card,2023-09-20 00:00:00+03,Andrey,Food
+267,Apartment rent,Housing,5400,Bank,2023-09-20 00:00:00+03,Andrey,Home
+266,Fruits,Groceries,58,Card,2023-09-19 00:00:00+03,Ekaterina,Food
+265,Groceries,Groceries,268,Card,2023-09-19 00:00:00+03,Ekaterina,Food
+264,Medicine,Health and beauty,62,Card,2023-09-19 00:00:00+03,Ekaterina,Personal
+263,Groceries,Groceries,35,Card,2023-09-18 00:00:00+03,Ekaterina,Food
+262,Gas,Utilities,57.33,Card,2023-10-31 11:00:00+02,Andrey,Home
+261,Beach,Leisure and entertainment,16,Card,2023-09-17 00:00:00+03,Andrey,Personal
+260,ice cream,Sweets and pastries,22,Card,2023-09-17 00:00:00+03,Andrey,Food
+259,Pizza,Fast food,47,Card,2023-09-17 00:00:00+03,Andrey,Food
+258,Beach,Leisure and entertainment,16,Card,2023-09-16 00:00:00+03,Andrey,Personal
+257,Groceries,Groceries,42,Card,2023-09-14 00:00:00+03,Andrey,Food
+256,Groceries,Groceries,39,Card,2023-09-14 00:00:00+03,Andrey,Food
+255,Still water,Groceries,9,Card,2023-09-14 00:00:00+03,Andrey,Food
+254,Pharmacy,Health and beauty,50,Card,2023-09-13 00:00:00+03,Andrey,Personal
+253,Groceries,Groceries,450,Card,2023-09-13 00:00:00+03,Ekaterina,Food
+252,Shawarma,Fast food,103,Card,2023-09-13 00:00:00+03,Andrey,Food
+251,Kindergarten,Daycare,2620,Bank,2023-09-12 00:00:00+03,Andrey,Kids
+250,Still water,Groceries,9,Card,2023-09-12 00:00:00+03,Andrey,Food
+249,Driver’s license,Personal expenses,552,Card,2023-09-12 00:00:00+03,Andrey,Personal
+248,Shawarma,Fast food,44,Card,2023-09-10 00:00:00+03,Andrey,Food
+247,Groceries,Groceries,471,Card,2023-09-10 00:00:00+03,Ekaterina,Food
+246,Still water,Groceries,9,Card,2023-09-10 00:00:00+03,Andrey,Food
+245,Groceries,Groceries,39,Card,2023-09-10 00:00:00+03,Andrey,Food
+244,Beach,Leisure and entertainment,24,Card,2023-09-09 00:00:00+03,Andrey,Personal
+243,Pizza,Fast food,90,Card,2023-09-09 00:00:00+03,Andrey,Food
+242,Health insurance,Health and beauty,181,Bank,2023-09-05 00:00:00+03,Andrey,Personal
+241,Building maintenance fee ,Housing,500,Bank,2023-09-04 00:00:00+03,Andrey,Home
+240,Groceries,Groceries,400,Cash,2023-09-04 00:00:00+03,Ekaterina,Food
+239,Shawarma,Fast food,46,Card,2023-09-03 00:00:00+03,Andrey,Food
+238,Groceries,Groceries,71,Card,2023-09-03 00:00:00+03,Ekaterina,Food
+237,Groceries,Groceries,167,Cash,2023-09-01 00:00:00+03,Ekaterina,Food
+236,Hebrew,Education,1000,Bank,2023-09-01 14:01:00+03,Ekaterina,Personal
+235,Alcohol,Personal expenses,48,crypto,2023-08-31 00:00:00+03,Andrey,Personal
+234,Bus pass,Transport,250,Card,2023-08-31 00:00:00+03,Andrey,Transport
+233,Shawarma,Fast food,46,Card,2023-08-31 00:00:00+03,Andrey,Food
+232,Chocolate,Sweets and pastries,5,Card,2023-08-31 00:00:00+03,Andrey,Food
+231,Chocolate,Sweets and pastries,5,Card,2023-08-30 00:00:00+03,Andrey,Food
+230,Groceries,Groceries,580,Card,2023-08-29 00:00:00+03,Ekaterina,Food
+229,Cat,Pets,80,Cash,2023-08-29 00:00:00+03,Ekaterina,Pets
+228,Shawarma,Fast food,61,Card,2023-08-29 00:00:00+03,Andrey,Food
+227,Telecom,Telecoms,108.9,Card,2023-08-29 00:00:00+03,Andrey,Personal
+226,Chocolate,Sweets and pastries,5,Card,2023-08-29 00:00:00+03,Andrey,Food
+225,Humus,Fast food,34,Card,2023-08-27 00:00:00+03,Andrey,Food
+224,Groceries,Groceries,358,Cash,2023-08-27 00:00:00+03,Ekaterina,Food
+223,Chocolate,Sweets and pastries,7,Card,2023-08-27 00:00:00+03,Andrey,Food
+222,Groceries,Groceries,250,Cash,2023-08-25 00:00:00+03,Ekaterina,Food
+221,Shampoo and napkins,Health and beauty,40,Cash,2023-08-24 00:00:00+03,Ekaterina,Personal
+220,Watermelon,Groceries,18,Card,2023-08-24 00:00:00+03,Ekaterina,Food
+219,Cocoa,Groceries,50,Cash,2023-08-24 00:00:00+03,Ekaterina,Food
+218,Postage,Personal expenses,176,Card,2023-08-24 00:00:00+03,Andrey,Personal
+217,Shawarma,Fast food,107,Card,2023-08-24 00:00:00+03,Andrey,Food
+216,Haircut,Personal expenses,70,Card,2023-08-23 00:00:00+03,Andrey,Personal
+215,Bread,Sweets and pastries,27,Card,2023-08-23 00:00:00+03,Andrey,Food
+214,Still water,Groceries,9,Card,2023-08-23 00:00:00+03,Ekaterina,Food
+213,Chocolate,Sweets and pastries,6,Card,2023-08-23 00:00:00+03,Andrey,Food
+212,ice cream,Sweets and pastries,10,Card,2023-08-22 00:00:00+03,Andrey,Food
+211,Diapers,Other,125,Cash,2023-08-22 00:00:00+03,Ekaterina,Kids
+210,Sprite,Sweets and pastries,8,Card,2023-08-22 00:00:00+03,Andrey,Food
+209,Still water,Groceries,14,Card,2023-08-21 00:00:00+03,Ekaterina,Food
+208,Pizza,Fast food,12,Card,2023-08-21 00:00:00+03,Andrey,Food
+207,Food,Groceries,445,Card,2023-08-21 00:00:00+03,Ekaterina,Food
+206,Fruits and vegetables,Groceries,78,Card,2023-08-21 00:00:00+03,Ekaterina,Food
+205,IKEA,Household,120,Card,2023-08-21 00:00:00+03,Ekaterina,Home
+204,Falafel,Fast food,22,Card,2023-08-21 00:00:00+03,Andrey,Food
+203,Snack,Fast food,15,Card,2023-08-21 00:00:00+03,Andrey,Food
+202,ice cream,Sweets and pastries,17,Card,2023-08-19 00:00:00+03,Andrey,Food
+201,ice cream,Sweets and pastries,13,Card,2023-08-18 00:00:00+03,Andrey,Food
+200,Still water,Groceries,10,Cash,2023-08-18 00:00:00+03,Ekaterina,Food
+199,Groceries,Groceries,40,Card,2023-08-18 00:00:00+03,Ekaterina,Food
+198,Fruits,Groceries,57,Card,2023-08-18 00:00:00+03,Ekaterina,Food
+197,Groceries,Groceries,465,Card,2023-08-18 00:00:00+03,Ekaterina,Food
+196,Bread,Sweets and pastries,72,Cash,2023-08-18 00:00:00+03,Andrey,Food
+195,Still water,Groceries,21,Cash,2023-08-18 00:00:00+03,Ekaterina,Food
+194,Chocolate,Sweets and pastries,6,Card,2023-08-17 00:00:00+03,Andrey,Food
+193,Coke,Sweets and pastries,8,Card,2023-08-17 00:00:00+03,Andrey,Food
+192,Medical certificate,Health and beauty,50,Card,2023-08-16 00:00:00+03,Andrey,Personal
+191,Lunch,Cafes and restaurants,54,Card,2023-08-16 00:00:00+03,Andrey,Food
+190,Apartment rent,Housing,5400,Bank,2023-08-16 00:00:00+03,Andrey,Home
+189,Groceries,Groceries,600,Card,2023-08-15 00:00:00+03,Ekaterina,Food
+188,Chocolate,Sweets and pastries,5,Card,2023-08-15 00:00:00+03,Andrey,Food
+187,ice cream,Sweets and pastries,13,Card,2023-08-14 00:00:00+03,Andrey,Food
+186,Medical certificate,Health and beauty,51,Card,2023-08-14 00:00:00+03,Andrey,Personal
+185,Chocolate,Sweets and pastries,5,Card,2023-08-14 00:00:00+03,Andrey,Food
+184,Lunch,Cafes and restaurants,46,Card,2023-08-14 00:00:00+03,Andrey,Food
+183,Chocolate,Sweets and pastries,5,Card,2023-08-14 00:00:00+03,Andrey,Food
+182,Shawarma,Fast food,90,Card,2023-08-13 00:00:00+03,Andrey,Food
+181,Chocolate,Sweets and pastries,5,Card,2023-08-13 00:00:00+03,Andrey,Food
+180,Hebrew,Education,600,Bank,2023-08-13 00:00:00+03,Ekaterina,Personal
+179,Pens and tape,Household,22,Cash,2023-08-13 00:00:00+03,Ekaterina,Home
+178,Bread,Sweets and pastries,27,Cash,2023-08-13 00:00:00+03,Andrey,Food
+177,Diapers,Other,158,Cash,2023-08-13 00:00:00+03,Ekaterina,Kids
+176,ice cream,Sweets and pastries,13,Card,2023-08-13 00:00:00+03,Andrey,Food
+175,Dinner,Cafes and restaurants,80,Cash,2023-08-11 00:00:00+03,Andrey,Food
+174,Groceries,Groceries,125,Cash,2023-08-11 00:00:00+03,Ekaterina,Food
+173,Kindergarten,Daycare,570,Bank,2023-08-10 00:00:00+03,Ekaterina,Kids
+172,ice cream,Sweets and pastries,13,Cash,2023-08-10 00:00:00+03,Andrey,Food
+171,Groceries,Groceries,430,Cash,2023-08-10 00:00:00+03,Ekaterina,Food
+170,ice cream,Sweets and pastries,13,Cash,2023-08-09 00:00:00+03,Andrey,Food
+169,Lunch,Cafes and restaurants,46,Card,2023-08-09 00:00:00+03,Andrey,Food
+168,Bus pass,Transport,9,Card,2023-08-08 00:00:00+03,Andrey,Transport
+167,Coffee,Sweets and pastries,16,Card,2023-08-08 00:00:00+03,Andrey,Food
+166,ice cream,Sweets and pastries,10,Card,2023-08-07 00:00:00+03,Andrey,Food
+165,Health insurance,Health and beauty,144,Bank,2023-08-06 00:00:00+03,Ekaterina,Personal
+164,Snack,Fast food,5,Card,2023-08-06 00:00:00+03,Andrey,Food
+163,ice cream,Sweets and pastries,20,Cash,2023-08-05 00:00:00+03,Andrey,Food
+162,ice cream,Sweets and pastries,12,Cash,2023-08-05 00:00:00+03,Andrey,Food
+161,Medicinal cream,Health and beauty,55,Cash,2023-08-04 00:00:00+03,Ekaterina,Personal
+160,Groceries,Groceries,245,Cash,2023-08-04 00:00:00+03,Ekaterina,Food
+159,Chocolate,Sweets and pastries,5,Card,2023-08-03 00:00:00+03,Andrey,Food
+158,Lunch,Cafes and restaurants,20,Card,2023-08-03 00:00:00+03,Andrey,Food
+157,Coffee,Sweets and pastries,16,Card,2023-08-03 00:00:00+03,Andrey,Food
+156,Still water,Groceries,14,Card,2023-08-02 00:00:00+03,Ekaterina,Food
+155,Groceries,Groceries,469,Card,2023-08-02 00:00:00+03,Ekaterina,Food
+154,Lunch,Cafes and restaurants,46,Card,2023-08-02 00:00:00+03,Andrey,Food
+153,Chocolate,Sweets and pastries,5,Card,2023-08-02 00:00:00+03,Andrey,Food
+152,Building maintenance fee ,Housing,250,Bank,2023-08-02 00:00:00+03,Andrey,Home
+151,Hebrew,Education,1000,Bank,2023-08-01 14:01:00+03,Ekaterina,Personal
+150,Still water,Groceries,27,Card,2023-07-31 00:00:00+03,Ekaterina,Food
+149,Litter,Pets,49,Card,2023-07-31 00:00:00+03,Ekaterina,Pets
+148,Bus pass,Transport,250,Card,2023-07-31 00:00:00+03,Andrey,Transport
+147,Lunch,Cafes and restaurants,46,Card,2023-07-31 00:00:00+03,Andrey,Food
+146,Coffee,Sweets and pastries,16,Card,2023-07-31 00:00:00+03,Andrey,Food
+145,Snack,Fast food,5,Card,2023-07-31 00:00:00+03,Andrey,Food
+144,Bus pass,Transport,12,Card,2023-07-31 00:00:00+03,Ekaterina,Transport
+143,Telecom,Telecoms,151.12,Card,2023-07-30 00:00:00+03,Andrey,Personal
+142,Groceries,Groceries,250,Cash,2023-07-30 00:00:00+03,Ekaterina,Food
+141,Lunch,Cafes and restaurants,35,Card,2023-07-30 00:00:00+03,Andrey,Food
+140,Bus pass,Transport,12,Card,2023-07-30 00:00:00+03,Ekaterina,Transport
+139,Dinner,Cafes and restaurants,180,Card,2023-07-29 00:00:00+03,Andrey,Food
+138,ice cream,Sweets and pastries,36,Card,2023-07-29 00:00:00+03,Andrey,Food
+137,ice cream,Sweets and pastries,7,Cash,2023-07-28 00:00:00+03,Andrey,Food
+136,Still water,Groceries,21,Card,2023-07-28 00:00:00+03,Ekaterina,Food
+135,Breakfast,Cafes and restaurants,23,Cash,2023-07-28 00:00:00+03,Andrey,Food
+134,Groceries,Groceries,50,Cash,2023-07-27 00:00:00+03,Ekaterina,Food
+133,Groceries,Groceries,360,Cash,2023-07-27 00:00:00+03,Ekaterina,Food
+132,Lunch,Cafes and restaurants,46,Card,2023-07-27 00:00:00+03,Andrey,Food
+131,Bus pass,Transport,12,Card,2023-07-26 00:00:00+03,Ekaterina,Transport
+130,Lunch,Cafes and restaurants,35,Card,2023-07-26 00:00:00+03,Andrey,Food
+129,Coffee,Sweets and pastries,16,Card,2023-07-26 00:00:00+03,Andrey,Food
+128,Bus pass,Transport,5,Card,2023-07-26 00:00:00+03,Ekaterina,Transport
+127,ice cream,Sweets and pastries,13,Card,2023-07-25 00:00:00+03,Andrey,Food
+126,Lunch,Cafes and restaurants,58,Card,2023-07-25 00:00:00+03,Andrey,Food
+125,Lunch,Cafes and restaurants,25,Card,2023-07-24 00:00:00+03,Andrey,Food
+124,Groceries,Groceries,422,Card,2023-07-23 00:00:00+03,Ekaterina,Food
+123,Lunch,Cafes and restaurants,61,Card,2023-07-23 00:00:00+03,Andrey,Food
+122,Still water,Groceries,15,Card,2023-07-22 00:00:00+03,Ekaterina,Food
+121,Bread and water,Sweets and pastries,31,Card,2023-07-21 00:00:00+03,Andrey,Food
+120,Bus pass,Transport,100,Card,2023-07-20 00:00:00+03,Ekaterina,Transport
+119,Haircut,Personal expenses,300,Card,2023-07-20 00:00:00+03,Ekaterina,Personal
+118,Groceries,Groceries,350,Card,2023-07-20 00:00:00+03,Ekaterina,Food
+117,Lunch,Cafes and restaurants,35,Card,2023-07-20 00:00:00+03,Andrey,Food
+116,Lunch,Cafes and restaurants,44,Card,2023-07-19 00:00:00+03,Andrey,Food
+115,Coffee,Sweets and pastries,16,Card,2023-07-19 00:00:00+03,Andrey,Food
+114,Still water,Groceries,14,Card,2023-07-18 00:00:00+03,Ekaterina,Food
+113,Bread,Sweets and pastries,34,Card,2023-07-18 00:00:00+03,Andrey,Food
+112,Nut butter,Groceries,55,Card,2023-07-18 00:00:00+03,Ekaterina,Food
+111,Lunch,Cafes and restaurants,20,Card,2023-07-18 00:00:00+03,Andrey,Food
+110,Coffee,Sweets and pastries,16,Card,2023-07-18 00:00:00+03,Andrey,Food
+109,Gas,Utilities,55.34,Card,2023-08-29 10:21:00+03,Andrey,Home
+108,Diapers,Other,139,Card,2023-07-17 00:00:00+03,Ekaterina,Kids
+107,Groceries,Groceries,257,Card,2023-07-17 00:00:00+03,Ekaterina,Food
+106,Lunch,Cafes and restaurants,35,Card,2023-07-17 00:00:00+03,Andrey,Food
+105,Coffee,Sweets and pastries,16,Card,2023-07-17 00:00:00+03,Andrey,Food
+104,Property tax (Arnona),Housing,367,Card,2023-07-16 00:00:00+03,Andrey,Home
+103,Flowers,Personal expenses,72,Card,2023-07-16 00:00:00+03,Andrey,Personal
+102,Lunch,Cafes and restaurants,54,Cash,2023-07-16 00:00:00+03,Andrey,Food
+101,Apartment rent,Housing,5400,Bank,2023-07-15 00:00:00+03,Andrey,Home
+100,Groceries,Groceries,370,Card,2023-07-14 00:00:00+03,Ekaterina,Food
+99,Bus pass,Transport,100,Card,2023-07-14 00:00:00+03,Andrey,Transport
+98,Challah and croissant,Sweets and pastries,15,Card,2023-07-13 00:00:00+03,Andrey,Food
+97,Wrench,Household,35,Card,2023-07-13 00:00:00+03,Ekaterina,Home
+96,Snack,Fast food,31,Card,2023-07-13 00:00:00+03,Andrey,Food
+95,Bus pass,Transport,11,Card,2023-07-13 00:00:00+03,Andrey,Transport
+94,Lunch,Cafes and restaurants,59,Card,2023-07-12 00:00:00+03,Andrey,Food
+93,Groceries,Groceries,428,Card,2023-07-11 00:00:00+03,Ekaterina,Food
+92,Groceries,Groceries,270,Card,2023-07-09 00:00:00+03,Ekaterina,Food
+91,Snack,Fast food,15,Card,2023-07-09 00:00:00+03,Andrey,Food
+90,Haircut,Personal expenses,75,Cash,2023-07-09 00:00:00+03,Andrey,Personal
+89,Lunch,Cafes and restaurants,55,Cash,2023-07-09 00:00:00+03,Andrey,Food
+88,ice cream,Sweets and pastries,47,Card,2023-07-07 00:00:00+03,Andrey,Food
+87,Litter,Pets,49,Cash,2023-07-07 00:00:00+03,Ekaterina,Pets
+86,Challah,Sweets and pastries,12,Cash,2023-07-07 00:00:00+03,Andrey,Food
+85,Vegetables,Groceries,16,Cash,2023-07-07 00:00:00+03,Ekaterina,Food
+84,Cheese,Groceries,45,Cash,2023-07-07 00:00:00+03,Ekaterina,Food
+83,Fruits,Groceries,155,Cash,2023-07-07 00:00:00+03,Ekaterina,Food
+82,Bus pass,Transport,11,Card,2023-07-07 00:00:00+03,Andrey,Transport
+81,Health insurance,Health and beauty,273,Bank,2023-07-05 00:00:00+03,Ekaterina,Personal
+80,Lunch,Cafes and restaurants,54,Card,2023-07-05 00:00:00+03,Andrey,Food
+79,Groceries,Groceries,375,Card,2023-07-05 00:00:00+03,Ekaterina,Food
+78,Snack,Fast food,11,Cash,2023-07-04 00:00:00+03,Andrey,Food
+77,Snack,Fast food,20,Card,2023-07-03 00:00:00+03,Andrey,Food
+76,Building maintenance fee ,Housing,250,Bank,2023-07-03 00:00:00+03,Andrey,Home
+75,Building maintenance fee ,Housing,250,Bank,2023-07-03 00:00:00+03,Andrey,Home
+74,Bus pass,Transport,100,Cash,2023-07-02 00:00:00+03,Andrey,Transport
+73,Groceries,Groceries,197,Cash,2023-07-02 00:00:00+03,Ekaterina,Food
+72,Fruits,Groceries,47,Cash,2023-07-02 00:00:00+03,Ekaterina,Food
+71,Plates,Household,40,Cash,2023-07-02 00:00:00+03,Ekaterina,Home
+70,Lunch,Cafes and restaurants,54,Cash,2023-07-02 00:00:00+03,Andrey,Food
+69,Still water,Groceries,28,Cash,2023-07-01 00:00:00+03,Ekaterina,Food
+68,Sunscreen,Health and beauty,65,Cash,2023-07-01 00:00:00+03,Ekaterina,Personal
+67,Fruits,Groceries,106,Card,2023-06-30 00:00:00+03,Ekaterina,Food
+66,Groceries,Groceries,228,Card,2023-06-30 00:00:00+03,Ekaterina,Food
+65,Snack,Fast food,19,Card,2023-06-29 00:00:00+03,Andrey,Food
+64,Still water,Groceries,20,Card,2023-06-29 00:00:00+03,Ekaterina,Food
+63,Fruits,Groceries,90,Card,2023-06-27 00:00:00+03,Ekaterina,Food
+62,Groceries,Groceries,395,Card,2023-06-27 00:00:00+03,Ekaterina,Food
+61,Lunch,Cafes and restaurants,54,Card,2023-06-27 00:00:00+03,Andrey,Food
+60,Falafel,Fast food,45,Card,2023-06-26 00:00:00+03,Andrey,Food
+59,Bus pass,Transport,100,Card,2023-06-26 00:00:00+03,Andrey,Transport
+58,Pet supplies,Pets,100,Card,2023-06-26 00:00:00+03,Ekaterina,Pets
+57,Still water,Groceries,20,Cash,2023-06-26 00:00:00+03,Ekaterina,Food
+56,Bus pass,Transport,10,Card,2023-06-25 00:00:00+03,Andrey,Transport
+55,Groceries,Groceries,267,Cash,2023-06-24 00:00:00+03,Ekaterina,Food
+54,Diapers,Other,40,Cash,2023-06-24 00:00:00+03,Ekaterina,Kids
+53,Flowers,Personal expenses,35,Cash,2023-06-23 00:00:00+03,Andrey,Personal
+52,Household goods,Household,62,Card,2023-06-23 00:00:00+03,Ekaterina,Home
+51,Groceries,Groceries,237,Card,2023-06-23 00:00:00+03,Ekaterina,Food
+50,Market,Groceries,420,Cash,2023-06-22 00:00:00+03,Ekaterina,Food
+49,Envelope,Personal expenses,11,Cash,2023-06-22 00:00:00+03,Andrey,Personal
+48,Dinner,Cafes and restaurants,60,Cash,2023-06-21 00:00:00+03,Andrey,Food
+47,Diapers,Other,55,Card,2023-06-21 00:00:00+03,Ekaterina,Kids
+46,Bus pass,Transport,100,Card,2023-06-20 00:00:00+03,Andrey,Transport
+45,Lunch,Cafes and restaurants,37,Cash,2023-06-20 00:00:00+03,Andrey,Food
+44,ice cream,Sweets and pastries,10,Card,2023-06-20 00:00:00+03,Andrey,Food
+43,Fruits,Groceries,55,Cash,2023-06-19 00:00:00+03,Ekaterina,Food
+42,Groceries,Groceries,575,Card,2023-06-19 00:00:00+03,Ekaterina,Food
+41,USB cable,Personal expenses,31,Cash,2023-06-19 00:00:00+03,Ekaterina,Personal
+40,Lunch,Cafes and restaurants,45,Card,2023-06-18 00:00:00+03,Andrey,Food
+39,Electricity,Utilities,365.24,Card,2023-08-17 10:20:00+03,Ekaterina,Home
+38,Dinner,Cafes and restaurants,53,Cash,2023-06-17 00:00:00+03,Andrey,Food
+37,Fruits,Groceries,100,Cash,2023-06-16 00:00:00+03,Ekaterina,Food
+36,Groceries,Groceries,360,Cash,2023-06-16 00:00:00+03,Ekaterina,Food
+35,Shorts and towel,Leisure and entertainment,115,Card,2023-06-15 00:00:00+03,Andrey,Personal
+34,Snack,Fast food,15,Card,2023-06-15 00:00:00+03,Andrey,Food
+33,Lunch,Cafes and restaurants,56,Card,2023-06-15 00:00:00+03,Andrey,Food
+32,Sunbed,Leisure and entertainment,32,Card,2023-06-15 00:00:00+03,Andrey,Personal
+31,Sunscreen,Health and beauty,40,Card,2023-06-15 00:00:00+03,Ekaterina,Personal
+30,Fruits,Groceries,90,Cash,2023-06-14 00:00:00+03,Ekaterina,Food
+29,Pet supplies,Pets,75,Card,2023-06-14 00:00:00+03,Ekaterina,Pets
+28,Household goods,Household,63,Card,2023-06-13 00:00:00+03,Ekaterina,Home
+27,Fruits,Groceries,112,Card,2023-06-13 00:00:00+03,Ekaterina,Food
+26,Groceries,Groceries,356,Card,2023-06-13 00:00:00+03,Ekaterina,Food
+25,Fruits,Groceries,120,Cash,2023-06-11 00:00:00+03,Ekaterina,Food
+24,Market,Groceries,35,Cash,2023-06-11 00:00:00+03,Ekaterina,Food
+23,Fish,Groceries,40,Card,2023-06-11 00:00:00+03,Ekaterina,Food
+22,Groceries,Groceries,85,Card,2023-06-11 00:00:00+03,Ekaterina,Food
+21,Groceries,Groceries,300,Card,2023-06-11 00:00:00+03,Ekaterina,Food
+20,Groceries,Groceries,40,Cash,2023-06-11 00:00:00+03,Ekaterina,Food
+19,Groceries,Groceries,3200,Cash,2023-06-11 00:00:00+03,Ekaterina,Food
+18,Lunch,Cafes and restaurants,50,Cash,2023-06-11 00:00:00+03,Andrey,Food
+17,Lunch,Cafes and restaurants,20,Cash,2023-06-11 00:00:00+03,Andrey,Food
+16,Chicken,Groceries,75,Cash,2023-06-11 00:00:00+03,Ekaterina,Food
+15,Pet supplies,Pets,185,Card,2023-06-11 00:00:00+03,Ekaterina,Pets
+14,Fridge and washer,Household,2500,Cash,2023-06-11 00:00:00+03,Ekaterina,Home
+13,Apartment rent,Housing,20400,Bank,2023-06-11 00:00:00+03,Andrey,Home
+12,Apartment rent,Housing,5400,Bank,2023-06-11 00:00:00+03,Andrey,Home
+11,Taxi,Transport,90.6,Card,2023-06-08 00:00:00+03,Andrey,Transport
