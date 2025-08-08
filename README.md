@@ -1,4 +1,4 @@
-<h2>Finding the features that distinguish high- and low-income people.</h2>
+<h2>Comprehensive Spending Analysis and Budget Optimization.</h2>
 
 <img width="360" alt="Coding" src="https://repository-images.githubusercontent.com/1023769875/2cae2caa-1c54-44eb-a284-7f8fa7610076">
 
