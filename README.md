@@ -1,1 +1,14 @@
-# budget-analytics
+<h2>Finding the features that distinguish high- and low-income people.</h2>
+
+<img width="360" alt="Coding" src="https://repository-images.githubusercontent.com/1023769875/2cae2caa-1c54-44eb-a284-7f8fa7610076">
+
+<h3>Project Objectives</h3>
+<p>This project aims to examine a family's spending over two years in Israel, with a focus on total expenses, spending patterns, and category distributions. The analysis seeks to uncover trends, detect anomalies, and identify opportunities for optimizing the budget. It also incorporates currency conversion to USD for comparative analysis.</p>
+
+<h4>Skills and Tools</h4>
+    <ul>
+        <li>Programming Language: <i>Python</i></li>
+        <li>Libraries: <i>Pandas, Numpy, Matplotlib, Seaborn, Sklearn</i></li>
+        <li>IDE: <i>Jupyter Notebook</i></li>
+    </ul>
+
