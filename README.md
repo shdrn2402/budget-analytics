@@ -1,6 +1,6 @@
 <h2>Comprehensive Spending Analysis and Budget Optimization.</h2>
 
-<img width="360" alt="Coding" src="https://repository-images.githubusercontent.com/1023769875/4170071d-be57-43b3-a2c2-ef353b3247b4">
+<img width="360" alt="Coding" src="https://repository-images.githubusercontent.com/1023769875/7231ba4b-88f1-4f05-b9cd-48feeb39619e">
 
 <h3>Project Objectives</h3>
 <p>This project aims to examine a family's spending over two years in Israel, with a focus on total expenses, spending patterns, and category distributions. The analysis seeks to uncover trends, detect anomalies, and identify opportunities for optimizing the budget. It also incorporates currency conversion to USD for comparative analysis.</p>
